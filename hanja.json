@@ -1,0 +1,7202 @@
+{
+  "\u4f73": {
+    "hangeul": "\uac00",
+    "definition": "\uc544\ub984\ub2e4\uc6b8"
+  },
+  "\u5047": {
+    "hangeul": "\uac00",
+    "definition": "\uac70\uc9d3"
+  },
+  "\u50f9": {
+    "hangeul": "\uac00",
+    "definition": "\uac12"
+  },
+  "\u52a0": {
+    "hangeul": "\uac00",
+    "definition": "\ub354\ud560"
+  },
+  "\u53ef": {
+    "hangeul": "\uac00",
+    "definition": "\uc633\uc744"
+  },
+  "\u5bb6": {
+    "hangeul": "\uac00",
+    "definition": "\uc9d1"
+  },
+  "\u6b4c": {
+    "hangeul": "\uac00",
+    "definition": "\ub178\ub798"
+  },
+  "\u8857": {
+    "hangeul": "\uac00",
+    "definition": "\uac70\ub9ac"
+  },
+  "\u6687": {
+    "hangeul": "\uac00",
+    "definition": "\uaca8\ub97c"
+  },
+  "\u67b6": {
+    "hangeul": "\uac00",
+    "definition": "\uc2dc\ub801"
+  },
+  "\u5404": {
+    "hangeul": "\uac01",
+    "definition": "\uac01\uac01"
+  },
+  "\u811a": {
+    "hangeul": "\uac01",
+    "definition": "\ub2e4\ub9ac"
+  },
+  "\u89d2": {
+    "hangeul": "\uac01",
+    "definition": "\ubfd4"
+  },
+  "\u523b": {
+    "hangeul": "\uac01",
+    "definition": "\uc0c8\uae38"
+  },
+  "\u5374": {
+    "hangeul": "\uac01",
+    "definition": "\ubb3c\ub9ac\uce60"
+  },
+  "\u89ba": {
+    "hangeul": "\uac01",
+    "definition": "\uae68\ub2ec\uc744"
+  },
+  "\u95a3": {
+    "hangeul": "\uac01",
+    "definition": "\ub204\uac01"
+  },
+  "\u5e72": {
+    "hangeul": "\uac04",
+    "definition": "\ubc29\ud328"
+  },
+  "\u770b": {
+    "hangeul": "\uac04",
+    "definition": "\ubcfc"
+  },
+  "\u9593": {
+    "hangeul": "\uac04",
+    "definition": "\uc0ac\uc774"
+  },
+  "\u520a": {
+    "hangeul": "\uac04",
+    "definition": "\ucc45 \ud3b4\ub0bc"
+  },
+  "\u59e6": {
+    "hangeul": "\uac04",
+    "definition": "\uac04\uc0ac\ud560"
+  },
+  "\u5e79": {
+    "hangeul": "\uac04",
+    "definition": "\uc904\uae30"
+  },
+  "\u61c7": {
+    "hangeul": "\uac04",
+    "definition": "\uc815\uc131"
+  },
+  "\u7c21": {
+    "hangeul": "\uac04",
+    "definition": "\ub300\ucabd"
+  },
+  "\u809d": {
+    "hangeul": "\uac04",
+    "definition": "\uac04"
+  },
+  "\u6e34": {
+    "hangeul": "\uac08",
+    "definition": "\ubaa9\ub9c8\ub97c"
+  },
+  "\u611f": {
+    "hangeul": "\uac10",
+    "definition": "\ub290\ub084"
+  },
+  "\u6562": {
+    "hangeul": "\uac10",
+    "definition": "\uac10\ud788"
+  },
+  "\u6e1b": {
+    "hangeul": "\uac10",
+    "definition": "\ub35c"
+  },
+  "\u7518": {
+    "hangeul": "\uac10",
+    "definition": "\ub2ec"
+  },
+  "\u76e3": {
+    "hangeul": "\uac10",
+    "definition": "\ubcfc"
+  },
+  "\u9451": {
+    "hangeul": "\uac10",
+    "definition": "\uac70\uc6b8"
+  },
+  "\u7532": {
+    "hangeul": "\uac11",
+    "definition": "\uac11\uc637"
+  },
+  "\u5f37": {
+    "hangeul": "\uac15",
+    "definition": "\uad73\uc140"
+  },
+  "\u6c5f": {
+    "hangeul": "\uac15",
+    "definition": "\uac15"
+  },
+  "\u8b1b": {
+    "hangeul": "\uac15",
+    "definition": "\uc775\ud790"
+  },
+  "\u964d": {
+    "hangeul": "\uac15",
+    "definition": "\ub0b4\ub9b4"
+  },
+  "\u525b": {
+    "hangeul": "\uac15",
+    "definition": "\uad73\uc140"
+  },
+  "\u5eb7": {
+    "hangeul": "\uac15",
+    "definition": "\ud3b8\uc548\ud560"
+  },
+  "\u7db1": {
+    "hangeul": "\uac15",
+    "definition": "\ubcbc\ub9ac"
+  },
+  "\u92fc": {
+    "hangeul": "\uac15",
+    "definition": "\uac15\ucca0"
+  },
+  "\u500b": {
+    "hangeul": "\uac1c",
+    "definition": "\ub0b1"
+  },
+  "\u6539": {
+    "hangeul": "\uac1c",
+    "definition": "\uace0\uce60"
+  },
+  "\u7686": {
+    "hangeul": "\uac1c",
+    "definition": "\ub2e4"
+  },
+  "\u958b": {
+    "hangeul": "\uac1c",
+    "definition": "\uc5f4"
+  },
+  "\u4ecb": {
+    "hangeul": "\uac1c",
+    "definition": "\ub07c\uc77c"
+  },
+  "\u6168": {
+    "hangeul": "\uac1c",
+    "definition": "\ubd84\uac1c\ud560"
+  },
+  "\u69ea": {
+    "hangeul": "\uac1c",
+    "definition": "\ub300\uac1c"
+  },
+  "\u84cb": {
+    "hangeul": "\uac1c",
+    "definition": "\ub36e\uc744"
+  },
+  "\u5ba2": {
+    "hangeul": "\uac1d",
+    "definition": "\uc190\ub2d8"
+  },
+  "\u66f4": {
+    "hangeul": "\uac31",
+    "definition": "\ub2e4\uc2dc"
+  },
+  "\u53bb": {
+    "hangeul": "\uac70",
+    "definition": "\uac08"
+  },
+  "\u5c45": {
+    "hangeul": "\uac70",
+    "definition": "\uc788\uc744"
+  },
+  "\u5de8": {
+    "hangeul": "\uac70",
+    "definition": "\ud074"
+  },
+  "\u64e7": {
+    "hangeul": "\uac70",
+    "definition": "\ub4e4"
+  },
+  "\u8eca": {
+    "hangeul": "\uac70",
+    "definition": "\uc218\ub808"
+  },
+  "\u62d2": {
+    "hangeul": "\uac70",
+    "definition": "\ub9c9\uc744"
+  },
+  "\u64da": {
+    "hangeul": "\uac70",
+    "definition": "\uc758\uac70\ud560"
+  },
+  "\u8ddd": {
+    "hangeul": "\uac70",
+    "definition": "\ub5a8\uc5b4\uc9c8"
+  },
+  "\u4e7e": {
+    "hangeul": "\uac74",
+    "definition": "\ud558\ub298"
+  },
+  "\u5efa": {
+    "hangeul": "\uac74",
+    "definition": "\uc138\uc6b8"
+  },
+  "\u4ef6": {
+    "hangeul": "\uac74",
+    "definition": "\uc0ac\uac74"
+  },
+  "\u5065": {
+    "hangeul": "\uac74",
+    "definition": "\ud2bc\ud2bc\ud560"
+  },
+  "\u4e5e": {
+    "hangeul": "\uac78",
+    "definition": "\ube4c"
+  },
+  "\u5091": {
+    "hangeul": "\uac78",
+    "definition": "\ub6f0\uc5b4\ub0a0"
+  },
+  "\u5109": {
+    "hangeul": "\uac80",
+    "definition": "\uac80\uc18c\ud560"
+  },
+  "\u528d": {
+    "hangeul": "\uac80",
+    "definition": "\uce7c"
+  },
+  "\u6aa2": {
+    "hangeul": "\uac80",
+    "definition": "\uac80\uc0ac\ud560"
+  },
+  "\u64ca": {
+    "hangeul": "\uaca9",
+    "definition": "\ubd80\ub52a\uce60"
+  },
+  "\u683c": {
+    "hangeul": "\uaca9",
+    "definition": "\ubc14\ub85c\uc7a1\uc744"
+  },
+  "\u6fc0": {
+    "hangeul": "\uaca9",
+    "definition": "\uacfc\uaca9\ud560"
+  },
+  "\u9694": {
+    "hangeul": "\uaca9",
+    "definition": "\uc0ac\uc774 \ub730"
+  },
+  "\u5805": {
+    "hangeul": "\uacac",
+    "definition": "\uad73\uc744"
+  },
+  "\u72ac": {
+    "hangeul": "\uacac",
+    "definition": "\uac1c"
+  },
+  "\u898b": {
+    "hangeul": "\uacac",
+    "definition": "\ubcfc"
+  },
+  "\u727d": {
+    "hangeul": "\uacac",
+    "definition": "\ub04c"
+  },
+  "\u7d79": {
+    "hangeul": "\uacac",
+    "definition": "\uba85\uc8fc"
+  },
+  "\u80a9": {
+    "hangeul": "\uacac",
+    "definition": "\uc5b4\uae68"
+  },
+  "\u9063": {
+    "hangeul": "\uacac",
+    "definition": "\ubcf4\ub0bc"
+  },
+  "\u6c7a": {
+    "hangeul": "\uacb0",
+    "definition": "\ud130\uc9c8"
+  },
+  "\u6f54": {
+    "hangeul": "\uacb0",
+    "definition": "\uae68\ub057\ud560"
+  },
+  "\u7d50": {
+    "hangeul": "\uacb0",
+    "definition": "\ub9fa\uc744"
+  },
+  "\u7f3a": {
+    "hangeul": "\uacb0",
+    "definition": "\uc774\uc9c0\ub7ec\uc9c8"
+  },
+  "\u517c": {
+    "hangeul": "\uacb8",
+    "definition": "\uacb8\ud560"
+  },
+  "\u8b19": {
+    "hangeul": "\uacb8",
+    "definition": "\uacb8\uc190\ud560"
+  },
+  "\u4eac": {
+    "hangeul": "\uacbd",
+    "definition": "\uc11c\uc6b8"
+  },
+  "\u5e9a": {
+    "hangeul": "\uacbd",
+    "definition": "\uc77c\uacf1\uc9f8 \ucc9c\uac04"
+  },
+  "\u6176": {
+    "hangeul": "\uacbd",
+    "definition": "\uacbd\uc0ac"
+  },
+  "\u656c": {
+    "hangeul": "\uacbd",
+    "definition": "\uacf5\uacbd\ud560"
+  },
+  "\u666f": {
+    "hangeul": "\uacbd",
+    "definition": "\ubcd5"
+  },
+  "\u7af6": {
+    "hangeul": "\uacbd",
+    "definition": "\uaca8\ub8f0"
+  },
+  "\u7d93": {
+    "hangeul": "\uacbd",
+    "definition": "\uacbd\uc11c"
+  },
+  "\u8015": {
+    "hangeul": "\uacbd",
+    "definition": "\ubc2d\uc744 \uac08"
+  },
+  "\u8f15": {
+    "hangeul": "\uacbd",
+    "definition": "\uac00\ubcbc\uc6b8"
+  },
+  "\u9a5a": {
+    "hangeul": "\uacbd",
+    "definition": "\ub180\ub784"
+  },
+  "\u50be": {
+    "hangeul": "\uacbd",
+    "definition": "\uae30\uc6b8"
+  },
+  "\u537f": {
+    "hangeul": "\uacbd",
+    "definition": "\ubcbc\uc2ac"
+  },
+  "\u5883": {
+    "hangeul": "\uacbd",
+    "definition": "\uc9c0\uacbd"
+  },
+  "\u5f91": {
+    "hangeul": "\uacbd",
+    "definition": "\uc9c0\ub984\uae38"
+  },
+  "\u786c": {
+    "hangeul": "\uacbd",
+    "definition": "\uad73\uc744"
+  },
+  "\u7adf": {
+    "hangeul": "\uacbd",
+    "definition": "\ub2e4\ud560"
+  },
+  "\u8b66": {
+    "hangeul": "\uacbd",
+    "definition": "\uacbd\uacc4\ud560"
+  },
+  "\u93e1": {
+    "hangeul": "\uacbd",
+    "definition": "\uac70\uc6b8"
+  },
+  "\u9803": {
+    "hangeul": "\uacbd",
+    "definition": "\uc7a0\uae50"
+  },
+  "\u5b63": {
+    "hangeul": "\uacc4",
+    "definition": "\ub05d"
+  },
+  "\u6eaa": {
+    "hangeul": "\uacc4",
+    "definition": "\uc2dc\ub0b4"
+  },
+  "\u754c": {
+    "hangeul": "\uacc4",
+    "definition": "\uc9c0\uacbd"
+  },
+  "\u7678": {
+    "hangeul": "\uacc4",
+    "definition": "\uc5f4\uc9f8 \ucc9c\uac04"
+  },
+  "\u8a08": {
+    "hangeul": "\uacc4",
+    "definition": "\uaf80"
+  },
+  "\u9dc4": {
+    "hangeul": "\uacc4",
+    "definition": "\ub2ed"
+  },
+  "\u4fc2": {
+    "hangeul": "\uacc4",
+    "definition": "\uac78\ub9b4"
+  },
+  "\u5553": {
+    "hangeul": "\uacc4",
+    "definition": "\uc5f4"
+  },
+  "\u5951": {
+    "hangeul": "\uacc4",
+    "definition": "\ub9fa\uc744"
+  },
+  "\u6212": {
+    "hangeul": "\uacc4",
+    "definition": "\uacbd\uacc4\ud560"
+  },
+  "\u6842": {
+    "hangeul": "\uacc4",
+    "definition": "\uacc4\uc218\ub098\ubb34"
+  },
+  "\u68b0": {
+    "hangeul": "\uacc4",
+    "definition": "\ud615\ud2c0"
+  },
+  "\u7cfb": {
+    "hangeul": "\uacc4",
+    "definition": "\uc774\uc744"
+  },
+  "\u7e6b": {
+    "hangeul": "\uacc4",
+    "definition": "\ub9ec"
+  },
+  "\u7e7c": {
+    "hangeul": "\uacc4",
+    "definition": "\uc774\uc744"
+  },
+  "\u968e": {
+    "hangeul": "\uacc4",
+    "definition": "\uc12c\ub3cc"
+  },
+  "\u53e4": {
+    "hangeul": "\uace0",
+    "definition": "\uc61b"
+  },
+  "\u544a": {
+    "hangeul": "\uace0",
+    "definition": "\uc54c\ub9b4"
+  },
+  "\u56fa": {
+    "hangeul": "\uace0",
+    "definition": "\uad73\uc744"
+  },
+  "\u6545": {
+    "hangeul": "\uace0",
+    "definition": "\uc61b"
+  },
+  "\u8003": {
+    "hangeul": "\uace0",
+    "definition": "\uc0c1\uace0\ud560"
+  },
+  "\u82e6": {
+    "hangeul": "\uace0",
+    "definition": "\uc4f8"
+  },
+  "\u9ad8": {
+    "hangeul": "\uace0",
+    "definition": "\ub192\uc744"
+  },
+  "\u59d1": {
+    "hangeul": "\uace0",
+    "definition": "\uc2dc\uc5b4\ubbf8"
+  },
+  "\u5b64": {
+    "hangeul": "\uace0",
+    "definition": "\uc678\ub85c\uc6b8"
+  },
+  "\u5eab": {
+    "hangeul": "\uace0",
+    "definition": "\uacf3\uc9d1"
+  },
+  "\u67af": {
+    "hangeul": "\uace0",
+    "definition": "\ub9c8\ub97c"
+  },
+  "\u7a3f": {
+    "hangeul": "\uace0",
+    "definition": "\ubccf\uc9d1"
+  },
+  "\u9867": {
+    "hangeul": "\uace0",
+    "definition": "\ub3cc\uc544\ubcfc"
+  },
+  "\u9f13": {
+    "hangeul": "\uace0",
+    "definition": "\ubd81"
+  },
+  "\u66f2": {
+    "hangeul": "\uace1",
+    "definition": "\uad7d\uc744"
+  },
+  "\u7a40": {
+    "hangeul": "\uace1",
+    "definition": "\uace1\uc2dd"
+  },
+  "\u8c37": {
+    "hangeul": "\uace1",
+    "definition": "\uace8"
+  },
+  "\u54ed": {
+    "hangeul": "\uace1",
+    "definition": "\uc6b8"
+  },
+  "\u56f0": {
+    "hangeul": "\uace4",
+    "definition": "\uad34\ub85c\uc6b8"
+  },
+  "\u5764": {
+    "hangeul": "\uace4",
+    "definition": "\ub545"
+  },
+  "\u9aa8": {
+    "hangeul": "\uace8",
+    "definition": "\ubf08"
+  },
+  "\u516c": {
+    "hangeul": "\uacf5",
+    "definition": "\uacf5\ubcc0\ub420"
+  },
+  "\u5171": {
+    "hangeul": "\uacf5",
+    "definition": "\ud568\uaed8"
+  },
+  "\u529f": {
+    "hangeul": "\uacf5",
+    "definition": "\uacf5\ub85c"
+  },
+  "\u5de5": {
+    "hangeul": "\uacf5",
+    "definition": "\uc7a5\uc778"
+  },
+  "\u7a7a": {
+    "hangeul": "\uacf5",
+    "definition": "\ube4c"
+  },
+  "\u4f9b": {
+    "hangeul": "\uacf5",
+    "definition": "\uc774\ubc14\uc9c0\ud560"
+  },
+  "\u5b54": {
+    "hangeul": "\uacf5",
+    "definition": "\uad6c\uba4d"
+  },
+  "\u6050": {
+    "hangeul": "\uacf5",
+    "definition": "\ub450\ub824\uc6b8"
+  },
+  "\u606d": {
+    "hangeul": "\uacf5",
+    "definition": "\uacf5\uc190\ud560"
+  },
+  "\u653b": {
+    "hangeul": "\uacf5",
+    "definition": "\uce60"
+  },
+  "\u8ca2": {
+    "hangeul": "\uacf5",
+    "definition": "\ubc14\uce60"
+  },
+  "\u679c": {
+    "hangeul": "\uacfc",
+    "definition": "\uacfc\uc2e4"
+  },
+  "\u79d1": {
+    "hangeul": "\uacfc",
+    "definition": "\uacfc\uc815"
+  },
+  "\u8ab2": {
+    "hangeul": "\uacfc",
+    "definition": "\ub9e4\uae38"
+  },
+  "\u904e": {
+    "hangeul": "\uacfc",
+    "definition": "\uc9c0\ub0a0"
+  },
+  "\u5be1": {
+    "hangeul": "\uacfc",
+    "definition": "\uc801\uc744"
+  },
+  "\u8a87": {
+    "hangeul": "\uacfc",
+    "definition": "\uc790\ub791\ud560"
+  },
+  "\u90ed": {
+    "hangeul": "\uacfd",
+    "definition": "\uc131\uacfd"
+  },
+  "\u5b98": {
+    "hangeul": "\uad00",
+    "definition": "\ubcbc\uc2ac"
+  },
+  "\u89c0": {
+    "hangeul": "\uad00",
+    "definition": "\ubcfc"
+  },
+  "\u95dc": {
+    "hangeul": "\uad00",
+    "definition": "\ube57\uc7a5"
+  },
+  "\u51a0": {
+    "hangeul": "\uad00",
+    "definition": "\uac13"
+  },
+  "\u5bec": {
+    "hangeul": "\uad00",
+    "definition": "\ub108\uadf8\ub7ec\uc6b8"
+  },
+  "\u6163": {
+    "hangeul": "\uad00",
+    "definition": "\ubc84\ub987"
+  },
+  "\u7ba1": {
+    "hangeul": "\uad00",
+    "definition": "\ud53c\ub9ac"
+  },
+  "\u8cab": {
+    "hangeul": "\uad00",
+    "definition": "\uaff8"
+  },
+  "\u9928": {
+    "hangeul": "\uad00",
+    "definition": "\uac1d\uc0ac"
+  },
+  "\u5149": {
+    "hangeul": "\uad11",
+    "definition": "\ube5b"
+  },
+  "\u5ee3": {
+    "hangeul": "\uad11",
+    "definition": "\ub113\uc744"
+  },
+  "\u72c2": {
+    "hangeul": "\uad11",
+    "definition": "\ubbf8\uce60"
+  },
+  "\u945b": {
+    "hangeul": "\uad11",
+    "definition": "\uc1f3\ub3cc"
+  },
+  "\u639b": {
+    "hangeul": "\uad18",
+    "definition": "\uac78"
+  },
+  "\u584a": {
+    "hangeul": "\uad34",
+    "definition": "\ud759\ub369\uc774"
+  },
+  "\u58de": {
+    "hangeul": "\uad34",
+    "definition": "\ubb34\ub108\uc9c8"
+  },
+  "\u602a": {
+    "hangeul": "\uad34",
+    "definition": "\uae30\uc774\ud560"
+  },
+  "\u6127": {
+    "hangeul": "\uad34",
+    "definition": "\ubd80\ub044\ub7ec\uc6cc\ud560"
+  },
+  "\u4ea4": {
+    "hangeul": "\uad50",
+    "definition": "\uc0ac\uadc8"
+  },
+  "\u654e": {
+    "hangeul": "\uad50",
+    "definition": "\uac00\ub974\uce60"
+  },
+  "\u6821": {
+    "hangeul": "\uad50",
+    "definition": "\ud559\uad50"
+  },
+  "\u6a4b": {
+    "hangeul": "\uad50",
+    "definition": "\ub2e4\ub9ac"
+  },
+  "\u5de7": {
+    "hangeul": "\uad50",
+    "definition": "\uacf5\uad50\ud560"
+  },
+  "\u77ef": {
+    "hangeul": "\uad50",
+    "definition": "\ubc14\ub85c\uc7a1\uc744"
+  },
+  "\u8f03": {
+    "hangeul": "\uad50",
+    "definition": "\uacac\uc904"
+  },
+  "\u90ca": {
+    "hangeul": "\uad50",
+    "definition": "\uc131 \ubc16"
+  },
+  "\u4e45": {
+    "hangeul": "\uad6c",
+    "definition": "\uc624\ub7a0"
+  },
+  "\u4e5d": {
+    "hangeul": "\uad6c",
+    "definition": "\uc544\ud649"
+  },
+  "\u53e3": {
+    "hangeul": "\uad6c",
+    "definition": "\uc785"
+  },
+  "\u53e5": {
+    "hangeul": "\uad6c",
+    "definition": "\uae00\uadc0"
+  },
+  "\u6551": {
+    "hangeul": "\uad6c",
+    "definition": "\uac74\uc9c8"
+  },
+  "\u6c42": {
+    "hangeul": "\uad6c",
+    "definition": "\uad6c\ud560"
+  },
+  "\u7a76": {
+    "hangeul": "\uad6c",
+    "definition": "\uad81\uad6c\ud560"
+  },
+  "\u820a": {
+    "hangeul": "\uad6c",
+    "definition": "\uc608"
+  },
+  "\u4e18": {
+    "hangeul": "\uad6c",
+    "definition": "\uc5b8\ub355"
+  },
+  "\u4ff1": {
+    "hangeul": "\uad6c",
+    "definition": "\ud568\uaed8"
+  },
+  "\u5177": {
+    "hangeul": "\uad6c",
+    "definition": "\uac16\ucd9c"
+  },
+  "\u5340": {
+    "hangeul": "\uad6c",
+    "definition": "\uc9c0\uacbd"
+  },
+  "\u61fc": {
+    "hangeul": "\uad6c",
+    "definition": "\ub450\ub824\uc6cc\ud560"
+  },
+  "\u62d8": {
+    "hangeul": "\uad6c",
+    "definition": "\uc7a1\uc744"
+  },
+  "\u69cb": {
+    "hangeul": "\uad6c",
+    "definition": "\uc5bd\uc744"
+  },
+  "\u72d7": {
+    "hangeul": "\uad6c",
+    "definition": "\uac1c"
+  },
+  "\u7403": {
+    "hangeul": "\uad6c",
+    "definition": "\uacf5"
+  },
+  "\u82df": {
+    "hangeul": "\uad6c",
+    "definition": "\uc9c4\uc2e4\ub85c"
+  },
+  "\u9a45": {
+    "hangeul": "\uad6c",
+    "definition": "\ubab0"
+  },
+  "\u9f9c": {
+    "hangeul": "\uad6c",
+    "definition": "\ub545 \uc774\ub984"
+  },
+  "\u570b": {
+    "hangeul": "\uad6d",
+    "definition": "\ub098\ub77c"
+  },
+  "\u5c40": {
+    "hangeul": "\uad6d",
+    "definition": "\ud310"
+  },
+  "\u83ca": {
+    "hangeul": "\uad6d",
+    "definition": "\uad6d\ud654"
+  },
+  "\u541b": {
+    "hangeul": "\uad70",
+    "definition": "\uc784\uae08"
+  },
+  "\u8ecd": {
+    "hangeul": "\uad70",
+    "definition": "\uad70\uc0ac"
+  },
+  "\u90e1": {
+    "hangeul": "\uad70",
+    "definition": "\uace0\uc744"
+  },
+  "\u7fa4": {
+    "hangeul": "\uad70",
+    "definition": "\ubb34\ub9ac"
+  },
+  "\u5c48": {
+    "hangeul": "\uad74",
+    "definition": "\uad7d\uc744"
+  },
+  "\u5f13": {
+    "hangeul": "\uad81",
+    "definition": "\ud65c"
+  },
+  "\u5bae": {
+    "hangeul": "\uad81",
+    "definition": "\uc9d1"
+  },
+  "\u7aae": {
+    "hangeul": "\uad81",
+    "definition": "\ub2e4\ud560"
+  },
+  "\u52f8": {
+    "hangeul": "\uad8c",
+    "definition": "\uad8c\ud560"
+  },
+  "\u5377": {
+    "hangeul": "\uad8c",
+    "definition": "\ucc45"
+  },
+  "\u6b0a": {
+    "hangeul": "\uad8c",
+    "definition": "\uad8c\uc138"
+  },
+  "\u5238": {
+    "hangeul": "\uad8c",
+    "definition": "\ubb38\uc11c"
+  },
+  "\u62f3": {
+    "hangeul": "\uad8c",
+    "definition": "\uc8fc\uba39"
+  },
+  "\u53a5": {
+    "hangeul": "\uad90",
+    "definition": "\uadf8"
+  },
+  "\u8ecc": {
+    "hangeul": "\uada4",
+    "definition": "\uae38"
+  },
+  "\u6b78": {
+    "hangeul": "\uadc0",
+    "definition": "\ub3cc\uc544\uac08"
+  },
+  "\u8cb4": {
+    "hangeul": "\uadc0",
+    "definition": "\uadc0\ud560"
+  },
+  "\u9b3c": {
+    "hangeul": "\uadc0",
+    "definition": "\uadc0\uc2e0"
+  },
+  "\u53eb": {
+    "hangeul": "\uaddc",
+    "definition": "\ubd80\ub974\uc9d6\uc744"
+  },
+  "\u7cfe": {
+    "hangeul": "\uaddc",
+    "definition": "\uc0b4\ud544"
+  },
+  "\u898f": {
+    "hangeul": "\uaddc",
+    "definition": "\ubc95"
+  },
+  "\u5747": {
+    "hangeul": "\uade0",
+    "definition": "\uace0\ub97c"
+  },
+  "\u83cc": {
+    "hangeul": "\uade0",
+    "definition": "\ubc84\uc12f"
+  },
+  "\u6975": {
+    "hangeul": "\uadf9",
+    "definition": "\ub2e4\ud560"
+  },
+  "\u514b": {
+    "hangeul": "\uadf9",
+    "definition": "\uc774\uae38"
+  },
+  "\u5287": {
+    "hangeul": "\uadf9",
+    "definition": "\uc2ec\ud560"
+  },
+  "\u52e4": {
+    "hangeul": "\uadfc",
+    "definition": "\ubd80\uc9c0\ub7f0\ud560"
+  },
+  "\u6839": {
+    "hangeul": "\uadfc",
+    "definition": "\ubfcc\ub9ac"
+  },
+  "\u8fd1": {
+    "hangeul": "\uadfc",
+    "definition": "\uac00\uae4c\uc6b8"
+  },
+  "\u50c5": {
+    "hangeul": "\uadfc",
+    "definition": "\uaca8\uc6b0"
+  },
+  "\u65a4": {
+    "hangeul": "\uadfc",
+    "definition": "\ub3c4\ub07c"
+  },
+  "\u8b39": {
+    "hangeul": "\uadfc",
+    "definition": "\uc0bc\uac08"
+  },
+  "\u4eca": {
+    "hangeul": "\uae08",
+    "definition": "\uc774\uc81c"
+  },
+  "\u7981": {
+    "hangeul": "\uae08",
+    "definition": "\uae08\ud560"
+  },
+  "\u91d1": {
+    "hangeul": "\uae08",
+    "definition": "\uc1e0"
+  },
+  "\u7434": {
+    "hangeul": "\uae08",
+    "definition": "\uac70\ubb38\uace0"
+  },
+  "\u79bd": {
+    "hangeul": "\uae08",
+    "definition": "\ub0a0\uc9d0\uc2b9"
+  },
+  "\u9326": {
+    "hangeul": "\uae08",
+    "definition": "\ube44\ub2e8"
+  },
+  "\u53ca": {
+    "hangeul": "\uae09",
+    "definition": "\ubbf8\uce60"
+  },
+  "\u6025": {
+    "hangeul": "\uae09",
+    "definition": "\uae09\ud560"
+  },
+  "\u7d66": {
+    "hangeul": "\uae09",
+    "definition": "\ub109\ub109\ud560"
+  },
+  "\u7d1a": {
+    "hangeul": "\uae09",
+    "definition": "\ub4f1\uae09"
+  },
+  "\u80af": {
+    "hangeul": "\uae0d",
+    "definition": "\uae0d\uc815\ud560"
+  },
+  "\u5176": {
+    "hangeul": "\uae30",
+    "definition": "\uadf8"
+  },
+  "\u57fa": {
+    "hangeul": "\uae30",
+    "definition": "\ud130"
+  },
+  "\u5df1": {
+    "hangeul": "\uae30",
+    "definition": "\ubab8"
+  },
+  "\u5e7e": {
+    "hangeul": "\uae30",
+    "definition": "\uae30\ubbf8"
+  },
+  "\u6280": {
+    "hangeul": "\uae30",
+    "definition": "\uc7ac\uc8fc"
+  },
+  "\u65e3": {
+    "hangeul": "\uae30",
+    "definition": "\uc774\ubbf8"
+  },
+  "\u671f": {
+    "hangeul": "\uae30",
+    "definition": "\uae30\uc57d\ud560"
+  },
+  "\u6c23": {
+    "hangeul": "\uae30",
+    "definition": "\uae30\uc6b4"
+  },
+  "\u8a18": {
+    "hangeul": "\uae30",
+    "definition": "\uae30\ub85d\ud560"
+  },
+  "\u8d77": {
+    "hangeul": "\uae30",
+    "definition": "\uc77c\uc5b4\ub0a0"
+  },
+  "\u4f01": {
+    "hangeul": "\uae30",
+    "definition": "\uaf80\ud560"
+  },
+  "\u5668": {
+    "hangeul": "\uae30",
+    "definition": "\uadf8\ub987"
+  },
+  "\u5947": {
+    "hangeul": "\uae30",
+    "definition": "\uae30\uc774\ud560"
+  },
+  "\u5bc4": {
+    "hangeul": "\uae30",
+    "definition": "\ubd80\uce60"
+  },
+  "\u5fcc": {
+    "hangeul": "\uae30",
+    "definition": "\uaebc\ub9b4"
+  },
+  "\u65d7": {
+    "hangeul": "\uae30",
+    "definition": "\uae30"
+  },
+  "\u68c4": {
+    "hangeul": "\uae30",
+    "definition": "\ubc84\ub9b4"
+  },
+  "\u6a5f": {
+    "hangeul": "\uae30",
+    "definition": "\ud2c0"
+  },
+  "\u6b3a": {
+    "hangeul": "\uae30",
+    "definition": "\uc18d\uc77c"
+  },
+  "\u757f": {
+    "hangeul": "\uae30",
+    "definition": "\uacbd\uae30"
+  },
+  "\u7948": {
+    "hangeul": "\uae30",
+    "definition": "\ube4c"
+  },
+  "\u7d00": {
+    "hangeul": "\uae30",
+    "definition": "\ubcbc\ub9ac"
+  },
+  "\u8c48": {
+    "hangeul": "\uae30",
+    "definition": "\uc5b4\ucc0c"
+  },
+  "\u98e2": {
+    "hangeul": "\uae30",
+    "definition": "\uc8fc\ub9b4"
+  },
+  "\u9a0e": {
+    "hangeul": "\uae30",
+    "definition": "\ub9d0\ud0c8"
+  },
+  "\u7dca": {
+    "hangeul": "\uae34",
+    "definition": "\uae34\uc694\ud560"
+  },
+  "\u5409": {
+    "hangeul": "\uae38",
+    "definition": "\uae38\ud560"
+  },
+  "\u90a3": {
+    "hangeul": "\ub098",
+    "definition": "\uc5b4\ucc0c"
+  },
+  "\u8afe": {
+    "hangeul": "\ub099",
+    "definition": "\ub300\ub2f5\ud560"
+  },
+  "\u6696": {
+    "hangeul": "\ub09c",
+    "definition": "\ub530\ub73b\ud560"
+  },
+  "\u96e3": {
+    "hangeul": "\ub09c",
+    "definition": "\uc5b4\ub824\uc6b8"
+  },
+  "\u5357": {
+    "hangeul": "\ub0a8",
+    "definition": "\ub0a8\ub158"
+  },
+  "\u7537": {
+    "hangeul": "\ub0a8",
+    "definition": "\uc0ac\ub0b4"
+  },
+  "\u7d0d": {
+    "hangeul": "\ub0a9",
+    "definition": "\ubc14\uce60"
+  },
+  "\u5a18": {
+    "hangeul": "\ub0ad",
+    "definition": "\uc544\uac00\uc528"
+  },
+  "\u4e43": {
+    "hangeul": "\ub0b4",
+    "definition": "\uc774\uc5d0"
+  },
+  "\u5167": {
+    "hangeul": "\ub0b4",
+    "definition": "\uc548"
+  },
+  "\u5948": {
+    "hangeul": "\ub0b4",
+    "definition": "\uc5b4\ucc0c"
+  },
+  "\u8010": {
+    "hangeul": "\ub0b4",
+    "definition": "\uacac\ub51c"
+  },
+  "\u5973": {
+    "hangeul": "\ub140",
+    "definition": "\uacc4\uc9d1"
+  },
+  "\u5e74": {
+    "hangeul": "\ub144",
+    "definition": "\ud574"
+  },
+  "\u5ff5": {
+    "hangeul": "\ub150",
+    "definition": "\uc0dd\uac01\ud560"
+  },
+  "\u5be7": {
+    "hangeul": "\ub155",
+    "definition": "\ud3b8\uc548\ud560"
+  },
+  "\u6012": {
+    "hangeul": "\ub178",
+    "definition": "\uc131\ub0bc"
+  },
+  "\u52aa": {
+    "hangeul": "\ub178",
+    "definition": "\ud798\uc4f8"
+  },
+  "\u5974": {
+    "hangeul": "\ub178",
+    "definition": "\uc885"
+  },
+  "\u8fb2": {
+    "hangeul": "\ub18d",
+    "definition": "\ub18d\uc0ac"
+  },
+  "\u60f1": {
+    "hangeul": "\ub1cc",
+    "definition": "\uad34\ub85c\uc6cc\ud560"
+  },
+  "\u8166": {
+    "hangeul": "\ub1cc",
+    "definition": "\ub1cc"
+  },
+  "\u80fd": {
+    "hangeul": "\ub2a5",
+    "definition": "\ub2a5\ud560"
+  },
+  "\u6ce5": {
+    "hangeul": "\ub2c8",
+    "definition": "\uc9c4\ud759"
+  },
+  "\u591a": {
+    "hangeul": "\ub2e4",
+    "definition": "\ub9ce\uc744"
+  },
+  "\u8336": {
+    "hangeul": "\ub2e4",
+    "definition": "\ucc28"
+  },
+  "\u4e39": {
+    "hangeul": "\ub2e8",
+    "definition": "\ubd89\uc744"
+  },
+  "\u4f46": {
+    "hangeul": "\ub2e8",
+    "definition": "\ub2e4\ub9cc"
+  },
+  "\u55ae": {
+    "hangeul": "\ub2e8",
+    "definition": "\ud651"
+  },
+  "\u77ed": {
+    "hangeul": "\ub2e8",
+    "definition": "\uc9e7\uc744"
+  },
+  "\u7aef": {
+    "hangeul": "\ub2e8",
+    "definition": "\ubc14\ub97c"
+  },
+  "\u5718": {
+    "hangeul": "\ub2e8",
+    "definition": "\ub465\uae00"
+  },
+  "\u58c7": {
+    "hangeul": "\ub2e8",
+    "definition": "\ub2e8"
+  },
+  "\u65b7": {
+    "hangeul": "\ub2e8",
+    "definition": "\ub04a\uc744"
+  },
+  "\u65e6": {
+    "hangeul": "\ub2e8",
+    "definition": "\uc544\uce68"
+  },
+  "\u6a80": {
+    "hangeul": "\ub2e8",
+    "definition": "\ubc15\ub2ec\ub098\ubb34"
+  },
+  "\u6bb5": {
+    "hangeul": "\ub2e8",
+    "definition": "\uad6c\ubd84"
+  },
+  "\u9054": {
+    "hangeul": "\ub2ec",
+    "definition": "\ud1b5\ub2ec\ud560"
+  },
+  "\u8ac7": {
+    "hangeul": "\ub2f4",
+    "definition": "\ub9d0\uc500"
+  },
+  "\u64d4": {
+    "hangeul": "\ub2f4",
+    "definition": "\uba5c"
+  },
+  "\u6de1": {
+    "hangeul": "\ub2f4",
+    "definition": "\ubb3d\uc744"
+  },
+  "\u7b54": {
+    "hangeul": "\ub2f5",
+    "definition": "\ub300\ub2f5\ud560"
+  },
+  "\u7553": {
+    "hangeul": "\ub2f5",
+    "definition": "\ub17c"
+  },
+  "\u8e0f": {
+    "hangeul": "\ub2f5",
+    "definition": "\ubc1f\uc744"
+  },
+  "\u5802": {
+    "hangeul": "\ub2f9",
+    "definition": "\uc9d1"
+  },
+  "\u7576": {
+    "hangeul": "\ub2f9",
+    "definition": "\ub2f9\ud560"
+  },
+  "\u5510": {
+    "hangeul": "\ub2f9",
+    "definition": "\ub2f9\ub098\ub77c"
+  },
+  "\u7cd6": {
+    "hangeul": "\ub2f9",
+    "definition": "\uc0ac\ud0d5"
+  },
+  "\u9ee8": {
+    "hangeul": "\ub2f9",
+    "definition": "\ubb34\ub9ac"
+  },
+  "\u4ee3": {
+    "hangeul": "\ub300",
+    "definition": "\ub300\uc2e0\ud560"
+  },
+  "\u5927": {
+    "hangeul": "\ub300",
+    "definition": "\ud070"
+  },
+  "\u5c0d": {
+    "hangeul": "\ub300",
+    "definition": "\ub300\ub2f5\ud560"
+  },
+  "\u5f85": {
+    "hangeul": "\ub300",
+    "definition": "\uae30\ub2e4\ub9b4"
+  },
+  "\u5e36": {
+    "hangeul": "\ub300",
+    "definition": "\ub760"
+  },
+  "\u81fa": {
+    "hangeul": "\ub300",
+    "definition": "\ub300"
+  },
+  "\u8cb8": {
+    "hangeul": "\ub300",
+    "definition": "\ube4c\ub9b4"
+  },
+  "\u968a": {
+    "hangeul": "\ub300",
+    "definition": "\ub5bc"
+  },
+  "\u5fb7": {
+    "hangeul": "\ub355",
+    "definition": "\ub355"
+  },
+  "\u5200": {
+    "hangeul": "\ub3c4",
+    "definition": "\uce7c"
+  },
+  "\u5230": {
+    "hangeul": "\ub3c4",
+    "definition": "\uc774\ub97c"
+  },
+  "\u5716": {
+    "hangeul": "\ub3c4",
+    "definition": "\uadf8\ub9bc"
+  },
+  "\u5cf6": {
+    "hangeul": "\ub3c4",
+    "definition": "\uc12c"
+  },
+  "\u5ea6": {
+    "hangeul": "\ub3c4",
+    "definition": "\ubc95\ub3c4"
+  },
+  "\u5f92": {
+    "hangeul": "\ub3c4",
+    "definition": "\ubb34\ub9ac"
+  },
+  "\u9053": {
+    "hangeul": "\ub3c4",
+    "definition": "\uae38"
+  },
+  "\u90fd": {
+    "hangeul": "\ub3c4",
+    "definition": "\ub3c4\uc74d"
+  },
+  "\u5012": {
+    "hangeul": "\ub3c4",
+    "definition": "\ub118\uc5b4\uc9c8"
+  },
+  "\u5857": {
+    "hangeul": "\ub3c4",
+    "definition": "\uc9c4\ud759"
+  },
+  "\u5c0e": {
+    "hangeul": "\ub3c4",
+    "definition": "\uc774\ub04c"
+  },
+  "\u6311": {
+    "hangeul": "\ub3c4",
+    "definition": "\ud720"
+  },
+  "\u6843": {
+    "hangeul": "\ub3c4",
+    "definition": "\ubcf5\uc22d\uc544\ub098\ubb34"
+  },
+  "\u6e21": {
+    "hangeul": "\ub3c4",
+    "definition": "\uac74\ub110"
+  },
+  "\u76dc": {
+    "hangeul": "\ub3c4",
+    "definition": "\ud6d4\uce60"
+  },
+  "\u7a3b": {
+    "hangeul": "\ub3c4",
+    "definition": "\ubcbc"
+  },
+  "\u8df3": {
+    "hangeul": "\ub3c4",
+    "definition": "\ub6f8"
+  },
+  "\u9003": {
+    "hangeul": "\ub3c4",
+    "definition": "\ub2ec\uc544\ub0a0"
+  },
+  "\u9014": {
+    "hangeul": "\ub3c4",
+    "definition": "\uae38"
+  },
+  "\u9676": {
+    "hangeul": "\ub3c4",
+    "definition": "\uc9c8\uadf8\ub987"
+  },
+  "\u7368": {
+    "hangeul": "\ub3c5",
+    "definition": "\ud640\ub85c"
+  },
+  "\u8b80": {
+    "hangeul": "\ub3c5",
+    "definition": "\uc77d\uc744"
+  },
+  "\u6bd2": {
+    "hangeul": "\ub3c5",
+    "definition": "\ub3c5"
+  },
+  "\u7763": {
+    "hangeul": "\ub3c5",
+    "definition": "\uc0b4\ud3b4\ubcfc"
+  },
+  "\u7be4": {
+    "hangeul": "\ub3c5",
+    "definition": "\ub3c4\ud0c0\uc6b8"
+  },
+  "\u6566": {
+    "hangeul": "\ub3c8",
+    "definition": "\ub3c4\ud0c0\uc6b8"
+  },
+  "\u8c5a": {
+    "hangeul": "\ub3c8",
+    "definition": "\ub3fc\uc9c0"
+  },
+  "\u7a81": {
+    "hangeul": "\ub3cc",
+    "definition": "\uac11\uc790\uae30"
+  },
+  "\u51ac": {
+    "hangeul": "\ub3d9",
+    "definition": "\uaca8\uc6b8"
+  },
+  "\u52d5": {
+    "hangeul": "\ub3d9",
+    "definition": "\uc6c0\uc9c1\uc77c"
+  },
+  "\u540c": {
+    "hangeul": "\ub3d9",
+    "definition": "\ud55c\uac00\uc9c0"
+  },
+  "\u6771": {
+    "hangeul": "\ub3d9",
+    "definition": "\ub3d9\ub158"
+  },
+  "\u6d1e": {
+    "hangeul": "\ub3d9",
+    "definition": "\uace8\uc9dc\uae30"
+  },
+  "\u7ae5": {
+    "hangeul": "\ub3d9",
+    "definition": "\uc544\uc774"
+  },
+  "\u51cd": {
+    "hangeul": "\ub3d9",
+    "definition": "\uc5bc"
+  },
+  "\u9285": {
+    "hangeul": "\ub3d9",
+    "definition": "\uad6c\ub9ac"
+  },
+  "\u6597": {
+    "hangeul": "\ub450",
+    "definition": "\ub9d0"
+  },
+  "\u8c46": {
+    "hangeul": "\ub450",
+    "definition": "\ucf69"
+  },
+  "\u982d": {
+    "hangeul": "\ub450",
+    "definition": "\uba38\ub9ac"
+  },
+  "\u5c6f": {
+    "hangeul": "\ub454",
+    "definition": "\uc9c4\uce60"
+  },
+  "\u920d": {
+    "hangeul": "\ub454",
+    "definition": "\ubb34\ub51c"
+  },
+  "\u5f97": {
+    "hangeul": "\ub4dd",
+    "definition": "\uc5bb\uc744"
+  },
+  "\u71c8": {
+    "hangeul": "\ub4f1",
+    "definition": "\ub4f1\uc794"
+  },
+  "\u767b": {
+    "hangeul": "\ub4f1",
+    "definition": "\uc624\ub97c"
+  },
+  "\u7b49": {
+    "hangeul": "\ub4f1",
+    "definition": "\uac00\uc9c0\ub7f0\ud560"
+  },
+  "\u9a30": {
+    "hangeul": "\ub4f1",
+    "definition": "\uc624\ub97c"
+  },
+  "\u7f85": {
+    "hangeul": "\ub77c",
+    "definition": "\ubc8c\ub9b4"
+  },
+  "\u6a02": {
+    "hangeul": "\ub77d",
+    "definition": "\uc990\uae38"
+  },
+  "\u843d": {
+    "hangeul": "\ub77d",
+    "definition": "\ub5a8\uc5b4\uc9c8"
+  },
+  "\u7d61": {
+    "hangeul": "\ub77d",
+    "definition": "\ud5cc\uc19c"
+  },
+  "\u5375": {
+    "hangeul": "\ub780",
+    "definition": "\uc54c"
+  },
+  "\u4e82": {
+    "hangeul": "\ub780",
+    "definition": "\uc5b4\uc9c0\ub7ec\uc6b8"
+  },
+  "\u6b04": {
+    "hangeul": "\ub780",
+    "definition": "\ub09c\uac04"
+  },
+  "\u862d": {
+    "hangeul": "\ub780",
+    "definition": "\ub09c\ucd08"
+  },
+  "\u6feb": {
+    "hangeul": "\ub78c",
+    "definition": "\ud37c\uc9c8"
+  },
+  "\u89bd": {
+    "hangeul": "\ub78c",
+    "definition": "\ubcfc"
+  },
+  "\u6d6a": {
+    "hangeul": "\ub791",
+    "definition": "\ubb3c\uacb0"
+  },
+  "\u90de": {
+    "hangeul": "\ub791",
+    "definition": "\uc0ac\ub0b4"
+  },
+  "\u5eca": {
+    "hangeul": "\ub791",
+    "definition": "\ubcf5\ub3c4"
+  },
+  "\u4f86": {
+    "hangeul": "\ub798",
+    "definition": "\uc62c"
+  },
+  "\u51b7": {
+    "hangeul": "\ub7ad",
+    "definition": "\ucc30"
+  },
+  "\u63a0": {
+    "hangeul": "\ub7b5",
+    "definition": "\ub178\ub7b5\uc9c8\ud560"
+  },
+  "\u7565": {
+    "hangeul": "\ub7b5",
+    "definition": "\ub2e4\uc2a4\ub9b4"
+  },
+  "\u5169": {
+    "hangeul": "\ub7c9",
+    "definition": "\ub450"
+  },
+  "\u6dbc": {
+    "hangeul": "\ub7c9",
+    "definition": "\uc11c\ub298\ud560"
+  },
+  "\u826f": {
+    "hangeul": "\ub7c9",
+    "definition": "\uc5b4\uc9c8"
+  },
+  "\u91cf": {
+    "hangeul": "\ub7c9",
+    "definition": "\ud5e4\uc544\ub9b4"
+  },
+  "\u6881": {
+    "hangeul": "\ub7c9",
+    "definition": "\ub4e4\ubcf4"
+  },
+  "\u7ce7": {
+    "hangeul": "\ub7c9",
+    "definition": "\uc591\uc2dd"
+  },
+  "\u8ad2": {
+    "hangeul": "\ub7c9",
+    "definition": "\ubbff\uc744"
+  },
+  "\u65c5": {
+    "hangeul": "\ub824",
+    "definition": "\uad70\uc0ac"
+  },
+  "\u52f5": {
+    "hangeul": "\ub824",
+    "definition": "\ud798\uc4f8"
+  },
+  "\u616e": {
+    "hangeul": "\ub824",
+    "definition": "\uc0dd\uac01\ud560"
+  },
+  "\u9e97": {
+    "hangeul": "\ub824",
+    "definition": "\uace0\uc6b8"
+  },
+  "\u529b": {
+    "hangeul": "\ub825",
+    "definition": "\ud798"
+  },
+  "\u6b77": {
+    "hangeul": "\ub825",
+    "definition": "\uc9c0\ub0bc"
+  },
+  "\u66c6": {
+    "hangeul": "\ub825",
+    "definition": "\ucc45\ub825"
+  },
+  "\u7df4": {
+    "hangeul": "\ub828",
+    "definition": "\uc775\ud790"
+  },
+  "\u9023": {
+    "hangeul": "\ub828",
+    "definition": "\uc787\ub2ff\uc744"
+  },
+  "\u6190": {
+    "hangeul": "\ub828",
+    "definition": "\ubd88\uc30d\ud788 \uc5ec\uae38"
+  },
+  "\u6200": {
+    "hangeul": "\ub828",
+    "definition": "\uc0ac\ubaa8\ud560"
+  },
+  "\u806f": {
+    "hangeul": "\ub828",
+    "definition": "\uc787\ub2ec"
+  },
+  "\u84ee": {
+    "hangeul": "\ub828",
+    "definition": "\uc5f0"
+  },
+  "\u934a": {
+    "hangeul": "\ub828",
+    "definition": "\ubd88\ub9b4"
+  },
+  "\u5217": {
+    "hangeul": "\ub82c",
+    "definition": "\ubc8c\uc77c"
+  },
+  "\u70c8": {
+    "hangeul": "\ub82c",
+    "definition": "\uc138\ucc30"
+  },
+  "\u52a3": {
+    "hangeul": "\ub82c",
+    "definition": "\ubabb\ud560"
+  },
+  "\u88c2": {
+    "hangeul": "\ub82c",
+    "definition": "\ucc22\uc744"
+  },
+  "\u5ec9": {
+    "hangeul": "\ub834",
+    "definition": "\uccad\ub834\ud560"
+  },
+  "\u7375": {
+    "hangeul": "\ub835",
+    "definition": "\uc0ac\ub0e5"
+  },
+  "\u4ee4": {
+    "hangeul": "\ub839",
+    "definition": "\uba85\ub839\ud560"
+  },
+  "\u9818": {
+    "hangeul": "\ub839",
+    "definition": "\uc637\uae43"
+  },
+  "\u5dba": {
+    "hangeul": "\ub839",
+    "definition": "\uc7ac"
+  },
+  "\u96f6": {
+    "hangeul": "\ub839",
+    "definition": "\ub5a8\uc5b4\uc9c8"
+  },
+  "\u9748": {
+    "hangeul": "\ub839",
+    "definition": "\uc2e0\ub839"
+  },
+  "\u4f8b": {
+    "hangeul": "\ub840",
+    "definition": "\ubc95\uc2dd"
+  },
+  "\u79ae": {
+    "hangeul": "\ub840",
+    "definition": "\uc608\ub3c4"
+  },
+  "\u96b7": {
+    "hangeul": "\ub840",
+    "definition": "\uc885"
+  },
+  "\u52de": {
+    "hangeul": "\ub85c",
+    "definition": "\uc77c\ud560"
+  },
+  "\u8001": {
+    "hangeul": "\ub85c",
+    "definition": "\ub299\uc740\uc774"
+  },
+  "\u8def": {
+    "hangeul": "\ub85c",
+    "definition": "\uae38"
+  },
+  "\u9732": {
+    "hangeul": "\ub85c",
+    "definition": "\uc774\uc2ac"
+  },
+  "\u7210": {
+    "hangeul": "\ub85c",
+    "definition": "\ud654\ub85c"
+  },
+  "\u7da0": {
+    "hangeul": "\ub85d",
+    "definition": "\ucd08\ub85d\ube5b"
+  },
+  "\u797f": {
+    "hangeul": "\ub85d",
+    "definition": "\ubcf5"
+  },
+  "\u9304": {
+    "hangeul": "\ub85d",
+    "definition": "\uae30\ub85d\ud560"
+  },
+  "\u9e7f": {
+    "hangeul": "\ub85d",
+    "definition": "\uc0ac\uc2b4"
+  },
+  "\u8ad6": {
+    "hangeul": "\ub860",
+    "definition": "\ub9d0\ud560"
+  },
+  "\u5f04": {
+    "hangeul": "\ub871",
+    "definition": "\ud76c\ub871\ud560"
+  },
+  "\u8cf4": {
+    "hangeul": "\ub8b0",
+    "definition": "\ud798\uc785\uc744"
+  },
+  "\u96f7": {
+    "hangeul": "\ub8b0",
+    "definition": "\uc6b0\ub808"
+  },
+  "\u6599": {
+    "hangeul": "\ub8cc",
+    "definition": "\ud5e4\uc544\ub9b4"
+  },
+  "\u4e86": {
+    "hangeul": "\ub8cc",
+    "definition": "\ub9c8\uce60"
+  },
+  "\u50da": {
+    "hangeul": "\ub8cc",
+    "definition": "\ub3d9\ub8cc"
+  },
+  "\u9f8d": {
+    "hangeul": "\ub8e1",
+    "definition": "\uc6a9"
+  },
+  "\u5c62": {
+    "hangeul": "\ub8e8",
+    "definition": "\ucc3d"
+  },
+  "\u6a13": {
+    "hangeul": "\ub8e8",
+    "definition": "\ub2e4\ub77d"
+  },
+  "\u6dda": {
+    "hangeul": "\ub8e8",
+    "definition": "\ub208\ubb3c"
+  },
+  "\u6f0f": {
+    "hangeul": "\ub8e8",
+    "definition": "\uc0d0"
+  },
+  "\u7d2f": {
+    "hangeul": "\ub8e8",
+    "definition": "\ubb36\uc744"
+  },
+  "\u67f3": {
+    "hangeul": "\ub958",
+    "definition": "\ubc84\ub4e4"
+  },
+  "\u6d41": {
+    "hangeul": "\ub958",
+    "definition": "\ud750\ub97c"
+  },
+  "\u7559": {
+    "hangeul": "\ub958",
+    "definition": "\uba38\ubb34\ub97c"
+  },
+  "\u985e": {
+    "hangeul": "\ub958",
+    "definition": "\ubb34\ub9ac"
+  },
+  "\u516d": {
+    "hangeul": "\ub959",
+    "definition": "\uc5ec\uc12f"
+  },
+  "\u9678": {
+    "hangeul": "\ub959",
+    "definition": "\ubb4d"
+  },
+  "\u502b": {
+    "hangeul": "\ub95c",
+    "definition": "\uc778\ub95c"
+  },
+  "\u8f2a": {
+    "hangeul": "\ub95c",
+    "definition": "\ubc14\ud034"
+  },
+  "\u5f8b": {
+    "hangeul": "\ub960",
+    "definition": "\ubc95"
+  },
+  "\u6817": {
+    "hangeul": "\ub960",
+    "definition": "\ubc24\ub098\ubb34"
+  },
+  "\u7387": {
+    "hangeul": "\ub960",
+    "definition": "\ud5e4\uc544\ub9b4"
+  },
+  "\u9686": {
+    "hangeul": "\ub96d",
+    "definition": "\ud074"
+  },
+  "\u9675": {
+    "hangeul": "\ub989",
+    "definition": "\ud070 \uc5b8\ub355"
+  },
+  "\u5229": {
+    "hangeul": "\ub9ac",
+    "definition": "\uc774\ub85c\uc6b8"
+  },
+  "\u674e": {
+    "hangeul": "\ub9ac",
+    "definition": "\uc624\uc58f"
+  },
+  "\u7406": {
+    "hangeul": "\ub9ac",
+    "definition": "\ub2e4\uc2a4\ub9b4"
+  },
+  "\u91cc": {
+    "hangeul": "\ub9ac",
+    "definition": "\ub9c8\uc744"
+  },
+  "\u540f": {
+    "hangeul": "\ub9ac",
+    "definition": "\ubcbc\uc2ac\uc544\uce58"
+  },
+  "\u5c65": {
+    "hangeul": "\ub9ac",
+    "definition": "\ubc1f\uc744"
+  },
+  "\u68a8": {
+    "hangeul": "\ub9ac",
+    "definition": "\ubc30\ub098\ubb34"
+  },
+  "\u88cf": {
+    "hangeul": "\ub9ac",
+    "definition": "\uc18d"
+  },
+  "\u96e2": {
+    "hangeul": "\ub9ac",
+    "definition": "\ub5bc\ub193\uc744"
+  },
+  "\u9130": {
+    "hangeul": "\ub9b0",
+    "definition": "\uc774\uc6c3"
+  },
+  "\u6797": {
+    "hangeul": "\ub9bc",
+    "definition": "\uc218\ud480"
+  },
+  "\u81e8": {
+    "hangeul": "\ub9bc",
+    "definition": "\uc784\ud560"
+  },
+  "\u7acb": {
+    "hangeul": "\ub9bd",
+    "definition": "\uc124"
+  },
+  "\u99ac": {
+    "hangeul": "\ub9c8",
+    "definition": "\ub9d0"
+  },
+  "\u78e8": {
+    "hangeul": "\ub9c8",
+    "definition": "\uac08"
+  },
+  "\u9ebb": {
+    "hangeul": "\ub9c8",
+    "definition": "\uc0bc"
+  },
+  "\u83ab": {
+    "hangeul": "\ub9c9",
+    "definition": "\uc5c6\uc744"
+  },
+  "\u5e55": {
+    "hangeul": "\ub9c9",
+    "definition": "\ub9c9"
+  },
+  "\u6f20": {
+    "hangeul": "\ub9c9",
+    "definition": "\uc0ac\ub9c9"
+  },
+  "\u665a": {
+    "hangeul": "\ub9cc",
+    "definition": "\ub2a6\uc744"
+  },
+  "\u6eff": {
+    "hangeul": "\ub9cc",
+    "definition": "\ucc30"
+  },
+  "\u842c": {
+    "hangeul": "\ub9cc",
+    "definition": "\uc77c\ub9cc"
+  },
+  "\u6162": {
+    "hangeul": "\ub9cc",
+    "definition": "\uac8c\uc73c\ub97c"
+  },
+  "\u6f2b": {
+    "hangeul": "\ub9cc",
+    "definition": "\uc9c8\ud380\ud560"
+  },
+  "\u672b": {
+    "hangeul": "\ub9d0",
+    "definition": "\ub05d"
+  },
+  "\u4ea1": {
+    "hangeul": "\ub9dd",
+    "definition": "\ub9dd\ud560"
+  },
+  "\u5fd9": {
+    "hangeul": "\ub9dd",
+    "definition": "\ubc14\uc060"
+  },
+  "\u5fd8": {
+    "hangeul": "\ub9dd",
+    "definition": "\uc78a\uc744"
+  },
+  "\u671b": {
+    "hangeul": "\ub9dd",
+    "definition": "\ubc14\ub784"
+  },
+  "\u5984": {
+    "hangeul": "\ub9dd",
+    "definition": "\ub9dd\ub839\ub420"
+  },
+  "\u7f54": {
+    "hangeul": "\ub9dd",
+    "definition": "\uadf8\ubb3c"
+  },
+  "\u832b": {
+    "hangeul": "\ub9dd",
+    "definition": "\uc544\ub4dd\ud560"
+  },
+  "\u59b9": {
+    "hangeul": "\ub9e4",
+    "definition": "\ub204\uc774"
+  },
+  "\u6bcf": {
+    "hangeul": "\ub9e4",
+    "definition": "\ub9e4\uc591"
+  },
+  "\u8cb7": {
+    "hangeul": "\ub9e4",
+    "definition": "\uc0b4"
+  },
+  "\u8ce3": {
+    "hangeul": "\ub9e4",
+    "definition": "\ud314"
+  },
+  "\u57cb": {
+    "hangeul": "\ub9e4",
+    "definition": "\ubb3b\uc744"
+  },
+  "\u5a92": {
+    "hangeul": "\ub9e4",
+    "definition": "\uc911\ub9e4"
+  },
+  "\u6885": {
+    "hangeul": "\ub9e4",
+    "definition": "\ub9e4\ud654\ub098\ubb34"
+  },
+  "\u9ea5": {
+    "hangeul": "\ub9e5",
+    "definition": "\ubcf4\ub9ac"
+  },
+  "\u8108": {
+    "hangeul": "\ub9e5",
+    "definition": "\ub9e5"
+  },
+  "\u5b5f": {
+    "hangeul": "\ub9f9",
+    "definition": "\ub9cf"
+  },
+  "\u731b": {
+    "hangeul": "\ub9f9",
+    "definition": "\uc0ac\ub098\uc6b8"
+  },
+  "\u76df": {
+    "hangeul": "\ub9f9",
+    "definition": "\ub9f9\uc138\ud560"
+  },
+  "\u76f2": {
+    "hangeul": "\ub9f9",
+    "definition": "\uc18c\uacbd"
+  },
+  "\u514d": {
+    "hangeul": "\uba74",
+    "definition": "\uba74\ud560"
+  },
+  "\u52c9": {
+    "hangeul": "\uba74",
+    "definition": "\ud798\uc4f8"
+  },
+  "\u7720": {
+    "hangeul": "\uba74",
+    "definition": "\uc7a0\uc798"
+  },
+  "\u9762": {
+    "hangeul": "\uba74",
+    "definition": "\ub0af"
+  },
+  "\u7dbf": {
+    "hangeul": "\uba74",
+    "definition": "\uc774\uc5b4\uc9c8"
+  },
+  "\u6ec5": {
+    "hangeul": "\uba78",
+    "definition": "\uba78\ub9dd\ud560"
+  },
+  "\u540d": {
+    "hangeul": "\uba85",
+    "definition": "\uc774\ub984"
+  },
+  "\u547d": {
+    "hangeul": "\uba85",
+    "definition": "\ubaa9\uc228"
+  },
+  "\u660e": {
+    "hangeul": "\uba85",
+    "definition": "\ubc1d\uc744"
+  },
+  "\u9cf4": {
+    "hangeul": "\uba85",
+    "definition": "\uc6b8"
+  },
+  "\u51a5": {
+    "hangeul": "\uba85",
+    "definition": "\uc5b4\ub450\uc6b8"
+  },
+  "\u9298": {
+    "hangeul": "\uba85",
+    "definition": "\uc0c8\uae38"
+  },
+  "\u66ae": {
+    "hangeul": "\ubaa8",
+    "definition": "\uc800\ubb3c"
+  },
+  "\u6bcd": {
+    "hangeul": "\ubaa8",
+    "definition": "\uc5b4\ubbf8"
+  },
+  "\u6bdb": {
+    "hangeul": "\ubaa8",
+    "definition": "\ud138"
+  },
+  "\u4fae": {
+    "hangeul": "\ubaa8",
+    "definition": "\uc5c5\uc2e0\uc5ec\uae38"
+  },
+  "\u5192": {
+    "hangeul": "\ubaa8",
+    "definition": "\ubb34\ub985\uc4f8"
+  },
+  "\u52df": {
+    "hangeul": "\ubaa8",
+    "definition": "\ubaa8\uc744"
+  },
+  "\u6155": {
+    "hangeul": "\ubaa8",
+    "definition": "\uadf8\ub9ac\uc6cc\ud560"
+  },
+  "\u67d0": {
+    "hangeul": "\ubaa8",
+    "definition": "\uc544\ubb34\uac1c"
+  },
+  "\u6a21": {
+    "hangeul": "\ubaa8",
+    "definition": "\ubc95"
+  },
+  "\u8b00": {
+    "hangeul": "\ubaa8",
+    "definition": "\uaf80\ud560"
+  },
+  "\u8c8c": {
+    "hangeul": "\ubaa8",
+    "definition": "\uc5bc\uad74"
+  },
+  "\u6728": {
+    "hangeul": "\ubaa9",
+    "definition": "\ub098\ubb34"
+  },
+  "\u76ee": {
+    "hangeul": "\ubaa9",
+    "definition": "\ub208"
+  },
+  "\u7267": {
+    "hangeul": "\ubaa9",
+    "definition": "\uce60"
+  },
+  "\u7766": {
+    "hangeul": "\ubaa9",
+    "definition": "\ud654\ubaa9\ud560"
+  },
+  "\u6c92": {
+    "hangeul": "\ubab0",
+    "definition": "\uac00\ub77c\uc549\uc744"
+  },
+  "\u5922": {
+    "hangeul": "\ubabd",
+    "definition": "\uafc8"
+  },
+  "\u8499": {
+    "hangeul": "\ubabd",
+    "definition": "\uc785\uc744"
+  },
+  "\u536f": {
+    "hangeul": "\ubb18",
+    "definition": "\ud1a0\ub07c"
+  },
+  "\u5999": {
+    "hangeul": "\ubb18",
+    "definition": "\ubb18\ud560"
+  },
+  "\u5893": {
+    "hangeul": "\ubb18",
+    "definition": "\ubb34\ub364"
+  },
+  "\u5edf": {
+    "hangeul": "\ubb18",
+    "definition": "\uc0ac\ub2f9"
+  },
+  "\u82d7": {
+    "hangeul": "\ubb18",
+    "definition": "\ubaa8"
+  },
+  "\u52d9": {
+    "hangeul": "\ubb34",
+    "definition": "\uc77c"
+  },
+  "\u620a": {
+    "hangeul": "\ubb34",
+    "definition": "\ub2e4\uc12f\uc9f8 \ucc9c\uac04"
+  },
+  "\u6b66": {
+    "hangeul": "\ubb34",
+    "definition": "\uad73\uc140"
+  },
+  "\u7121": {
+    "hangeul": "\ubb34",
+    "definition": "\uc5c6\uc744"
+  },
+  "\u821e": {
+    "hangeul": "\ubb34",
+    "definition": "\ucda4\ucd9c"
+  },
+  "\u8302": {
+    "hangeul": "\ubb34",
+    "definition": "\uc6b0\uac70\uc9c8"
+  },
+  "\u8cbf": {
+    "hangeul": "\ubb34",
+    "definition": "\ubc14\uafc0"
+  },
+  "\u9727": {
+    "hangeul": "\ubb34",
+    "definition": "\uc548\uac1c"
+  },
+  "\u58a8": {
+    "hangeul": "\ubb35",
+    "definition": "\uba39"
+  },
+  "\u9ed8": {
+    "hangeul": "\ubb35",
+    "definition": "\ubb35\ubb35\ud560"
+  },
+  "\u554f": {
+    "hangeul": "\ubb38",
+    "definition": "\ubb3c\uc744"
+  },
+  "\u6587": {
+    "hangeul": "\ubb38",
+    "definition": "\uae00\uc6d4"
+  },
+  "\u805e": {
+    "hangeul": "\ubb38",
+    "definition": "\ub4e4\uc744"
+  },
+  "\u9580": {
+    "hangeul": "\ubb38",
+    "definition": "\ubb38"
+  },
+  "\u52ff": {
+    "hangeul": "\ubb3c",
+    "definition": "\ub9d0"
+  },
+  "\u7269": {
+    "hangeul": "\ubb3c",
+    "definition": "\ub9cc\ubb3c"
+  },
+  "\u5473": {
+    "hangeul": "\ubbf8",
+    "definition": "\ub9db"
+  },
+  "\u5c3e": {
+    "hangeul": "\ubbf8",
+    "definition": "\uaf2c\ub9ac"
+  },
+  "\u672a": {
+    "hangeul": "\ubbf8",
+    "definition": "\uc544\ub2d0"
+  },
+  "\u7c73": {
+    "hangeul": "\ubbf8",
+    "definition": "\uc300"
+  },
+  "\u7f8e": {
+    "hangeul": "\ubbf8",
+    "definition": "\uc544\ub984\ub2e4\uc6b8"
+  },
+  "\u5fae": {
+    "hangeul": "\ubbf8",
+    "definition": "\uc791\uc744"
+  },
+  "\u7709": {
+    "hangeul": "\ubbf8",
+    "definition": "\ub208\uc379"
+  },
+  "\u8ff7": {
+    "hangeul": "\ubbf8",
+    "definition": "\ubbf8\ud639\ud560"
+  },
+  "\u6c11": {
+    "hangeul": "\ubbfc",
+    "definition": "\ubc31\uc131"
+  },
+  "\u61ab": {
+    "hangeul": "\ubbfc",
+    "definition": "\uadfc\uc2ec\ud560"
+  },
+  "\u654f": {
+    "hangeul": "\ubbfc",
+    "definition": "\uc7ac\ube60\ub97c"
+  },
+  "\u5bc6": {
+    "hangeul": "\ubc00",
+    "definition": "\ube7d\ube7d\ud560"
+  },
+  "\u871c": {
+    "hangeul": "\ubc00",
+    "definition": "\uafc0"
+  },
+  "\u6734": {
+    "hangeul": "\ubc15",
+    "definition": "\uc21c\ubc15\ud560"
+  },
+  "\u535a": {
+    "hangeul": "\ubc15",
+    "definition": "\ub113\uc744"
+  },
+  "\u62cd": {
+    "hangeul": "\ubc15",
+    "definition": "\uce60"
+  },
+  "\u6cca": {
+    "hangeul": "\ubc15",
+    "definition": "\uba38\ubb34\ub97c"
+  },
+  "\u8584": {
+    "hangeul": "\ubc15",
+    "definition": "\uc5f7\uc744"
+  },
+  "\u8feb": {
+    "hangeul": "\ubc15",
+    "definition": "\ub2e5\uce60"
+  },
+  "\u534a": {
+    "hangeul": "\ubc18",
+    "definition": "\ubc18"
+  },
+  "\u53cd": {
+    "hangeul": "\ubc18",
+    "definition": "\ub418\ub3cc\ub9b4"
+  },
+  "\u98ef": {
+    "hangeul": "\ubc18",
+    "definition": "\ubc25"
+  },
+  "\u4f34": {
+    "hangeul": "\ubc18",
+    "definition": "\uc9dd"
+  },
+  "\u53db": {
+    "hangeul": "\ubc18",
+    "definition": "\ubc30\ubc18\ud560"
+  },
+  "\u73ed": {
+    "hangeul": "\ubc18",
+    "definition": "\ub098\ub20c"
+  },
+  "\u76e4": {
+    "hangeul": "\ubc18",
+    "definition": "\uc18c\ubc18"
+  },
+  "\u822c": {
+    "hangeul": "\ubc18",
+    "definition": "\ub3cc"
+  },
+  "\u8fd4": {
+    "hangeul": "\ubc18",
+    "definition": "\ub3cc\uc544\uc62c"
+  },
+  "\u767c": {
+    "hangeul": "\ubc1c",
+    "definition": "\uc3e0"
+  },
+  "\u62d4": {
+    "hangeul": "\ubc1c",
+    "definition": "\ube84"
+  },
+  "\u9aee": {
+    "hangeul": "\ubc1c",
+    "definition": "\ud130\ub7ed"
+  },
+  "\u623f": {
+    "hangeul": "\ubc29",
+    "definition": "\ubc29"
+  },
+  "\u653e": {
+    "hangeul": "\ubc29",
+    "definition": "\ub193\uc744"
+  },
+  "\u65b9": {
+    "hangeul": "\ubc29",
+    "definition": "\ubaa8"
+  },
+  "\u8a2a": {
+    "hangeul": "\ubc29",
+    "definition": "\ucc3e\uc744"
+  },
+  "\u9632": {
+    "hangeul": "\ubc29",
+    "definition": "\ub9c9\uc744"
+  },
+  "\u5023": {
+    "hangeul": "\ubc29",
+    "definition": "\ubcf8\ub730"
+  },
+  "\u508d": {
+    "hangeul": "\ubc29",
+    "definition": "\uacc1"
+  },
+  "\u59a8": {
+    "hangeul": "\ubc29",
+    "definition": "\ubc29\ud574\ud560"
+  },
+  "\u82b3": {
+    "hangeul": "\ubc29",
+    "definition": "\uaf43\ub2e4\uc6b8"
+  },
+  "\u90a6": {
+    "hangeul": "\ubc29",
+    "definition": "\ub098\ub77c"
+  },
+  "\u62dc": {
+    "hangeul": "\ubc30",
+    "definition": "\uc808"
+  },
+  "\u676f": {
+    "hangeul": "\ubc30",
+    "definition": "\uc794"
+  },
+  "\u500d": {
+    "hangeul": "\ubc30",
+    "definition": "\uacf1"
+  },
+  "\u57f9": {
+    "hangeul": "\ubc30",
+    "definition": "\ubd81\ub3cb\uc744"
+  },
+  "\u6392": {
+    "hangeul": "\ubc30",
+    "definition": "\ubc00\uce60"
+  },
+  "\u80cc": {
+    "hangeul": "\ubc30",
+    "definition": "\ub4f1"
+  },
+  "\u8f29": {
+    "hangeul": "\ubc30",
+    "definition": "\ubb34\ub9ac"
+  },
+  "\u914d": {
+    "hangeul": "\ubc30",
+    "definition": "\uc544\ub0b4"
+  },
+  "\u767d": {
+    "hangeul": "\ubc31",
+    "definition": "\ud770"
+  },
+  "\u767e": {
+    "hangeul": "\ubc31",
+    "definition": "\uc77c\ubc31"
+  },
+  "\u4f2f": {
+    "hangeul": "\ubc31",
+    "definition": "\ub9cf"
+  },
+  "\u756a": {
+    "hangeul": "\ubc88",
+    "definition": "\ucc28\ub840"
+  },
+  "\u7169": {
+    "hangeul": "\ubc88",
+    "definition": "\uad34\ub85c\uc6cc\ud560"
+  },
+  "\u7e41": {
+    "hangeul": "\ubc88",
+    "definition": "\ub9ce\uc744"
+  },
+  "\u98dc": {
+    "hangeul": "\ubc88",
+    "definition": "\ud384\ub7ed\uc77c"
+  },
+  "\u4f10": {
+    "hangeul": "\ubc8c",
+    "definition": "\uce60"
+  },
+  "\u7f70": {
+    "hangeul": "\ubc8c",
+    "definition": "\uc8c4"
+  },
+  "\u51e1": {
+    "hangeul": "\ubc94",
+    "definition": "\ubb34\ub987"
+  },
+  "\u72af": {
+    "hangeul": "\ubc94",
+    "definition": "\ubc94\ud560"
+  },
+  "\u7bc4": {
+    "hangeul": "\ubc94",
+    "definition": "\ubc95"
+  },
+  "\u6cd5": {
+    "hangeul": "\ubc95",
+    "definition": "\ubc95"
+  },
+  "\u58c1": {
+    "hangeul": "\ubcbd",
+    "definition": "\ubcbd"
+  },
+  "\u78a7": {
+    "hangeul": "\ubcbd",
+    "definition": "\ud478\ub97c"
+  },
+  "\u8b8a": {
+    "hangeul": "\ubcc0",
+    "definition": "\ubcc0\ud560"
+  },
+  "\u8fa8": {
+    "hangeul": "\ubcc0",
+    "definition": "\ubd84\ubcc4\ud560"
+  },
+  "\u8faf": {
+    "hangeul": "\ubcc0",
+    "definition": "\ub9d0 \uc798\ud560"
+  },
+  "\u908a": {
+    "hangeul": "\ubcc0",
+    "definition": "\uac00"
+  },
+  "\u5225": {
+    "hangeul": "\ubcc4",
+    "definition": "\ub098\ub20c"
+  },
+  "\u4e19": {
+    "hangeul": "\ubcd1",
+    "definition": "\ub0a8\ub158"
+  },
+  "\u5175": {
+    "hangeul": "\ubcd1",
+    "definition": "\uad70\uc0ac"
+  },
+  "\u75c5": {
+    "hangeul": "\ubcd1",
+    "definition": "\ubcd1"
+  },
+  "\u5c5b": {
+    "hangeul": "\ubcd1",
+    "definition": "\ubcd1\ud48d"
+  },
+  "\u7add": {
+    "hangeul": "\ubcd1",
+    "definition": "\uc544\uc6b0\ub97c"
+  },
+  "\u4fdd": {
+    "hangeul": "\ubcf4",
+    "definition": "\uc9c0\ud0ac"
+  },
+  "\u5831": {
+    "hangeul": "\ubcf4",
+    "definition": "\uac1a\uc744"
+  },
+  "\u6b65": {
+    "hangeul": "\ubcf4",
+    "definition": "\uac78\uc74c"
+  },
+  "\u5bf6": {
+    "hangeul": "\ubcf4",
+    "definition": "\ubcf4\ubc30"
+  },
+  "\u666e": {
+    "hangeul": "\ubcf4",
+    "definition": "\ub110\ub9ac"
+  },
+  "\u88dc": {
+    "hangeul": "\ubcf4",
+    "definition": "\ub3c4\uc6b8"
+  },
+  "\u8b5c": {
+    "hangeul": "\ubcf4",
+    "definition": "\uc871\ubcf4"
+  },
+  "\u4f0f": {
+    "hangeul": "\ubcf5",
+    "definition": "\uc5ce\ub4dc\ub9b4"
+  },
+  "\u5fa9": {
+    "hangeul": "\ubcf5",
+    "definition": "\ub3cc\uc544\uc62c"
+  },
+  "\u670d": {
+    "hangeul": "\ubcf5",
+    "definition": "\uc637"
+  },
+  "\u798f": {
+    "hangeul": "\ubcf5",
+    "definition": "\ubcf5"
+  },
+  "\u535c": {
+    "hangeul": "\ubcf5",
+    "definition": "\uc810"
+  },
+  "\u8179": {
+    "hangeul": "\ubcf5",
+    "definition": "\ubc30"
+  },
+  "\u8907": {
+    "hangeul": "\ubcf5",
+    "definition": "\uacb9\uce60"
+  },
+  "\u8986": {
+    "hangeul": "\ubcf5",
+    "definition": "\ub4a4\uc9d1\ud790"
+  },
+  "\u672c": {
+    "hangeul": "\ubcf8",
+    "definition": "\ubc11"
+  },
+  "\u5949": {
+    "hangeul": "\ubd09",
+    "definition": "\ubc1b\ub4e4"
+  },
+  "\u9022": {
+    "hangeul": "\ubd09",
+    "definition": "\ub9cc\ub0a0"
+  },
+  "\u5c01": {
+    "hangeul": "\ubd09",
+    "definition": "\ubd09\ud560"
+  },
+  "\u5cef": {
+    "hangeul": "\ubd09",
+    "definition": "\ubd09\uc6b0\ub9ac"
+  },
+  "\u8702": {
+    "hangeul": "\ubd09",
+    "definition": "\ubc8c"
+  },
+  "\u9cf3": {
+    "hangeul": "\ubd09",
+    "definition": "\ubd09\ud669\uc0c8"
+  },
+  "\u5426": {
+    "hangeul": "\ubd80",
+    "definition": "\uc544\ub2d0"
+  },
+  "\u592b": {
+    "hangeul": "\ubd80",
+    "definition": "\uc9c0\uc544\ube44"
+  },
+  "\u5a66": {
+    "hangeul": "\ubd80",
+    "definition": "\uba70\ub290\ub9ac"
+  },
+  "\u5bcc": {
+    "hangeul": "\ubd80",
+    "definition": "\ub109\ub109\ud560"
+  },
+  "\u6276": {
+    "hangeul": "\ubd80",
+    "definition": "\ub3c4\uc6b8"
+  },
+  "\u6d6e": {
+    "hangeul": "\ubd80",
+    "definition": "\ub730"
+  },
+  "\u7236": {
+    "hangeul": "\ubd80",
+    "definition": "\uc544\ube44"
+  },
+  "\u90e8": {
+    "hangeul": "\ubd80",
+    "definition": "\uac70\ub290\ub9b4"
+  },
+  "\u4ed8": {
+    "hangeul": "\ubd80",
+    "definition": "\uc904"
+  },
+  "\u526f": {
+    "hangeul": "\ubd80",
+    "definition": "\ubc84\uae08"
+  },
+  "\u5e9c": {
+    "hangeul": "\ubd80",
+    "definition": "\ub9c8\uc744"
+  },
+  "\u7b26": {
+    "hangeul": "\ubd80",
+    "definition": "\ubd80\uc2e0"
+  },
+  "\u7c3f": {
+    "hangeul": "\ubd80",
+    "definition": "\uc7a5\ubd80"
+  },
+  "\u8150": {
+    "hangeul": "\ubd80",
+    "definition": "\uc369\uc744"
+  },
+  "\u8ca0": {
+    "hangeul": "\ubd80",
+    "definition": "\uc9c8"
+  },
+  "\u8ce6": {
+    "hangeul": "\ubd80",
+    "definition": "\uad6c\uc2e4"
+  },
+  "\u8d74": {
+    "hangeul": "\ubd80",
+    "definition": "\ub098\uc544\uac08"
+  },
+  "\u9644": {
+    "hangeul": "\ubd80",
+    "definition": "\ubd99\uc744"
+  },
+  "\u5317": {
+    "hangeul": "\ubd81",
+    "definition": "\ubd81\ub158"
+  },
+  "\u5206": {
+    "hangeul": "\ubd84",
+    "definition": "\ub098\ub20c"
+  },
+  "\u58b3": {
+    "hangeul": "\ubd84",
+    "definition": "\ubb34\ub364"
+  },
+  "\u5954": {
+    "hangeul": "\ubd84",
+    "definition": "\ub2ec\ub9b4"
+  },
+  "\u596e": {
+    "hangeul": "\ubd84",
+    "definition": "\ub5a8\uce60"
+  },
+  "\u61a4": {
+    "hangeul": "\ubd84",
+    "definition": "\uc131\ub0bc"
+  },
+  "\u7c89": {
+    "hangeul": "\ubd84",
+    "definition": "\uac00\ub8e8"
+  },
+  "\u7d1b": {
+    "hangeul": "\ubd84",
+    "definition": "\uc5b4\uc9c0\ub7ec\uc6cc\uc9c8"
+  },
+  "\u4e0d": {
+    "hangeul": "\ubd88",
+    "definition": "\uc544\ub2d0"
+  },
+  "\u4f5b": {
+    "hangeul": "\ubd88",
+    "definition": "\ubd80\ucc98"
+  },
+  "\u62c2": {
+    "hangeul": "\ubd88",
+    "definition": "\ub5a8"
+  },
+  "\u670b": {
+    "hangeul": "\ubd95",
+    "definition": "\ubc97"
+  },
+  "\u5d29": {
+    "hangeul": "\ubd95",
+    "definition": "\ubb34\ub108\uc9c8"
+  },
+  "\u5099": {
+    "hangeul": "\ube44",
+    "definition": "\uac16\ucd9c"
+  },
+  "\u6bd4": {
+    "hangeul": "\ube44",
+    "definition": "\uacac\uc904"
+  },
+  "\u60b2": {
+    "hangeul": "\ube44",
+    "definition": "\uc2ac\ud50c"
+  },
+  "\u975e": {
+    "hangeul": "\ube44",
+    "definition": "\uc544\ub2d0"
+  },
+  "\u98db": {
+    "hangeul": "\ube44",
+    "definition": "\ub0a0"
+  },
+  "\u9f3b": {
+    "hangeul": "\ube44",
+    "definition": "\ucf54"
+  },
+  "\u5351": {
+    "hangeul": "\ube44",
+    "definition": "\ub0ae\uc744"
+  },
+  "\u5983": {
+    "hangeul": "\ube44",
+    "definition": "\uc655\ube44"
+  },
+  "\u5a62": {
+    "hangeul": "\ube44",
+    "definition": "\uc5ec\uc790 \uc885"
+  },
+  "\u6279": {
+    "hangeul": "\ube44",
+    "definition": "\uce60"
+  },
+  "\u7891": {
+    "hangeul": "\ube44",
+    "definition": "\ub3cc\uae30\ub465"
+  },
+  "\u7955": {
+    "hangeul": "\ube44",
+    "definition": "\uc228\uae38"
+  },
+  "\u80a5": {
+    "hangeul": "\ube44",
+    "definition": "\uc0b4\ucc14"
+  },
+  "\u8cbb": {
+    "hangeul": "\ube44",
+    "definition": "\uc4f8"
+  },
+  "\u8ca7": {
+    "hangeul": "\ube48",
+    "definition": "\uac00\ub09c\ud560"
+  },
+  "\u8cd3": {
+    "hangeul": "\ube48",
+    "definition": "\uc190"
+  },
+  "\u983b": {
+    "hangeul": "\ube48",
+    "definition": "\uc790\uc8fc"
+  },
+  "\u6c37": {
+    "hangeul": "\ube59",
+    "definition": "\uc5bc\uc74c"
+  },
+  "\u8058": {
+    "hangeul": "\ube59",
+    "definition": "\ucc3e\uc544\uac08"
+  },
+  "\u4e8b": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc77c"
+  },
+  "\u4ed5": {
+    "hangeul": "\uc0ac",
+    "definition": "\ubcbc\uc2ac\ud560"
+  },
+  "\u4f7f": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc2dc\ud0ac"
+  },
+  "\u53f2": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc5ed\uc0ac"
+  },
+  "\u56db": {
+    "hangeul": "\uc0ac",
+    "definition": "\ub109"
+  },
+  "\u58eb": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc120\ube44"
+  },
+  "\u5bfa": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc808"
+  },
+  "\u5df3": {
+    "hangeul": "\uc0ac",
+    "definition": "\ubc40"
+  },
+  "\u5c04": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc3e0"
+  },
+  "\u5e2b": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc2a4\uc2b9"
+  },
+  "\u601d": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc0dd\uac01\ud560"
+  },
+  "\u6b7b": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc8fd\uc744"
+  },
+  "\u79c1": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc0ac\uc0ac\ub85c\uc6b8"
+  },
+  "\u7d72": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc2e4"
+  },
+  "\u820d": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc9d1"
+  },
+  "\u8b1d": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc0ac\ub840\ud560"
+  },
+  "\u4f3c": {
+    "hangeul": "\uc0ac",
+    "definition": "\uac19\uc744"
+  },
+  "\u53f8": {
+    "hangeul": "\uc0ac",
+    "definition": "\ub9e1\uc744"
+  },
+  "\u5beb": {
+    "hangeul": "\uc0ac",
+    "definition": "\ubca0\ub084"
+  },
+  "\u6368": {
+    "hangeul": "\uc0ac",
+    "definition": "\ubc84\ub9b4"
+  },
+  "\u659c": {
+    "hangeul": "\uc0ac",
+    "definition": "\ube44\ub084"
+  },
+  "\u65af": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc774"
+  },
+  "\u67fb": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc870\uc0ac\ud560"
+  },
+  "\u6c99": {
+    "hangeul": "\uc0ac",
+    "definition": "\ubaa8\ub798"
+  },
+  "\u7940": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc81c\uc0ac"
+  },
+  "\u793e": {
+    "hangeul": "\uc0ac",
+    "definition": "\ud1a0\uc9c0\uc758 \uc2e0"
+  },
+  "\u86c7": {
+    "hangeul": "\uc0ac",
+    "definition": "\ubc40"
+  },
+  "\u8a50": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc18d\uc77c"
+  },
+  "\u8a5e": {
+    "hangeul": "\uc0ac",
+    "definition": "\ub9d0\uc500"
+  },
+  "\u8cdc": {
+    "hangeul": "\uc0ac",
+    "definition": "\uc904"
+  },
+  "\u8fad": {
+    "hangeul": "\uc0ac",
+    "definition": "\ub9d0"
+  },
+  "\u90aa": {
+    "hangeul": "\uc0ac",
+    "definition": "\uac04\uc0ac\ud560"
+  },
+  "\u524a": {
+    "hangeul": "\uc0ad",
+    "definition": "\uae4e\uc744"
+  },
+  "\u6714": {
+    "hangeul": "\uc0ad",
+    "definition": "\ucd08\ud558\ub8e8"
+  },
+  "\u5c71": {
+    "hangeul": "\uc0b0",
+    "definition": "\ubafc"
+  },
+  "\u6563": {
+    "hangeul": "\uc0b0",
+    "definition": "\ud769\uc5b4\uc9c8"
+  },
+  "\u7523": {
+    "hangeul": "\uc0b0",
+    "definition": "\ub0b3\uc744"
+  },
+  "\u7b97": {
+    "hangeul": "\uc0b0",
+    "definition": "\uc140"
+  },
+  "\u6bba": {
+    "hangeul": "\uc0b4",
+    "definition": "\uc8fd\uc77c"
+  },
+  "\u4e09": {
+    "hangeul": "\uc0bc",
+    "definition": "\uc11d"
+  },
+  "\u4e0a": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc704"
+  },
+  "\u50b7": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc0c1\ucc98"
+  },
+  "\u5546": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc7a5\uc0ac"
+  },
+  "\u55aa": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc8fd\uc744"
+  },
+  "\u5c19": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc624\ud788\ub824"
+  },
+  "\u5e38": {
+    "hangeul": "\uc0c1",
+    "definition": "\ud56d\uc0c1"
+  },
+  "\u60f3": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc0dd\uac01\ud560"
+  },
+  "\u76f8": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc11c\ub85c"
+  },
+  "\u8cde": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc0c1\uc904"
+  },
+  "\u971c": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc11c\ub9ac"
+  },
+  "\u50cf": {
+    "hangeul": "\uc0c1",
+    "definition": "\ud615\uc0c1"
+  },
+  "\u511f": {
+    "hangeul": "\uc0c1",
+    "definition": "\uac1a\uc744"
+  },
+  "\u5617": {
+    "hangeul": "\uc0c1",
+    "definition": "\ub9db\ubcfc"
+  },
+  "\u5e8a": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc0c1"
+  },
+  "\u6851": {
+    "hangeul": "\uc0c1",
+    "definition": "\ubf55\ub098\ubb34"
+  },
+  "\u72c0": {
+    "hangeul": "\uc0c1",
+    "definition": "\ud615\uc0c1"
+  },
+  "\u7965": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc0c1\uc11c\ub85c\uc6b8"
+  },
+  "\u88f3": {
+    "hangeul": "\uc0c1",
+    "definition": "\uce58\ub9c8"
+  },
+  "\u8a73": {
+    "hangeul": "\uc0c1",
+    "definition": "\uc790\uc138\ud560"
+  },
+  "\u8c61": {
+    "hangeul": "\uc0c1",
+    "definition": "\ucf54 \ub07c\ub9ac"
+  },
+  "\u585e": {
+    "hangeul": "\uc0c8",
+    "definition": "\ubcc0\ubc29"
+  },
+  "\u8272": {
+    "hangeul": "\uc0c9",
+    "definition": "\ube5b"
+  },
+  "\u7d22": {
+    "hangeul": "\uc0c9",
+    "definition": "\ucc3e\uc744"
+  },
+  "\u751f": {
+    "hangeul": "\uc0dd",
+    "definition": "\ub0a0"
+  },
+  "\u5e8f": {
+    "hangeul": "\uc11c",
+    "definition": "\ucc28\ub840"
+  },
+  "\u6691": {
+    "hangeul": "\uc11c",
+    "definition": "\ub354\uc6b8"
+  },
+  "\u66f8": {
+    "hangeul": "\uc11c",
+    "definition": "\uc4f8"
+  },
+  "\u897f": {
+    "hangeul": "\uc11c",
+    "definition": "\uc11c\ub158"
+  },
+  "\u5eb6": {
+    "hangeul": "\uc11c",
+    "definition": "\uc5ec\ub7ec"
+  },
+  "\u5f90": {
+    "hangeul": "\uc11c",
+    "definition": "\ucc9c\ucc9c\ud788 \ud560"
+  },
+  "\u6055": {
+    "hangeul": "\uc11c",
+    "definition": "\uc6a9\uc11c\ud560"
+  },
+  "\u654d": {
+    "hangeul": "\uc11c",
+    "definition": "\ucc28\ub840"
+  },
+  "\u7dd6": {
+    "hangeul": "\uc11c",
+    "definition": "\uc2e4\ub9c8\ub9ac"
+  },
+  "\u7f72": {
+    "hangeul": "\uc11c",
+    "definition": "\uad00\uccad"
+  },
+  "\u8a93": {
+    "hangeul": "\uc11c",
+    "definition": "\ub9f9\uc138\ud560"
+  },
+  "\u901d": {
+    "hangeul": "\uc11c",
+    "definition": "\uac08"
+  },
+  "\u5915": {
+    "hangeul": "\uc11d",
+    "definition": "\uc800\ub141"
+  },
+  "\u5e2d": {
+    "hangeul": "\uc11d",
+    "definition": "\uc790\ub9ac"
+  },
+  "\u60dc": {
+    "hangeul": "\uc11d",
+    "definition": "\uc544\ub084"
+  },
+  "\u6614": {
+    "hangeul": "\uc11d",
+    "definition": "\uc61b"
+  },
+  "\u77f3": {
+    "hangeul": "\uc11d",
+    "definition": "\ub3cc"
+  },
+  "\u6790": {
+    "hangeul": "\uc11d",
+    "definition": "\uac00\ub97c"
+  },
+  "\u91cb": {
+    "hangeul": "\uc11d",
+    "definition": "\ud480"
+  },
+  "\u4ed9": {
+    "hangeul": "\uc120",
+    "definition": "\uc2e0\uc120"
+  },
+  "\u5148": {
+    "hangeul": "\uc120",
+    "definition": "\uba3c\uc800"
+  },
+  "\u5584": {
+    "hangeul": "\uc120",
+    "definition": "\ucc29\ud560"
+  },
+  "\u7dda": {
+    "hangeul": "\uc120",
+    "definition": "\uc904"
+  },
+  "\u8239": {
+    "hangeul": "\uc120",
+    "definition": "\ubc30"
+  },
+  "\u9078": {
+    "hangeul": "\uc120",
+    "definition": "\uac00\ub9b4"
+  },
+  "\u9bae": {
+    "hangeul": "\uc120",
+    "definition": "\uace0\uc6b8"
+  },
+  "\u5ba3": {
+    "hangeul": "\uc120",
+    "definition": "\ubca0\ud480"
+  },
+  "\u65cb": {
+    "hangeul": "\uc120",
+    "definition": "\ub3cc"
+  },
+  "\u79aa": {
+    "hangeul": "\uc120",
+    "definition": "\ubd09\uc120"
+  },
+  "\u820c": {
+    "hangeul": "\uc124",
+    "definition": "\ud600"
+  },
+  "\u8a2d": {
+    "hangeul": "\uc124",
+    "definition": "\ubca0\ud480"
+  },
+  "\u8aaa": {
+    "hangeul": "\uc124",
+    "definition": "\ub9d0\uc500"
+  },
+  "\u96ea": {
+    "hangeul": "\uc124",
+    "definition": "\ub208"
+  },
+  "\u651d": {
+    "hangeul": "\uc12d",
+    "definition": "\ub2f9\uae38"
+  },
+  "\u6d89": {
+    "hangeul": "\uc12d",
+    "definition": "\uac74\ub110"
+  },
+  "\u57ce": {
+    "hangeul": "\uc131",
+    "definition": "\uc131"
+  },
+  "\u59d3": {
+    "hangeul": "\uc131",
+    "definition": "\uc131"
+  },
+  "\u6027": {
+    "hangeul": "\uc131",
+    "definition": "\uc131\ud488"
+  },
+  "\u6210": {
+    "hangeul": "\uc131",
+    "definition": "\uc774\ub8f0"
+  },
+  "\u661f": {
+    "hangeul": "\uc131",
+    "definition": "\ubcc4"
+  },
+  "\u76db": {
+    "hangeul": "\uc131",
+    "definition": "\ub2f4\uc744"
+  },
+  "\u7701": {
+    "hangeul": "\uc131",
+    "definition": "\uc0b4\ud544"
+  },
+  "\u8056": {
+    "hangeul": "\uc131",
+    "definition": "\uc131\uc2a4\ub7ec\uc6b8"
+  },
+  "\u8072": {
+    "hangeul": "\uc131",
+    "definition": "\uc18c\ub9ac"
+  },
+  "\u8aa0": {
+    "hangeul": "\uc131",
+    "definition": "\uc815\uc131"
+  },
+  "\u4e16": {
+    "hangeul": "\uc138",
+    "definition": "\uc138\uc0c1"
+  },
+  "\u52e2": {
+    "hangeul": "\uc138",
+    "definition": "\uae30\uc138"
+  },
+  "\u6b72": {
+    "hangeul": "\uc138",
+    "definition": "\ud574"
+  },
+  "\u6d17": {
+    "hangeul": "\uc138",
+    "definition": "\uc53b\uc744"
+  },
+  "\u7a05": {
+    "hangeul": "\uc138",
+    "definition": "\uc138\uae08"
+  },
+  "\u7d30": {
+    "hangeul": "\uc138",
+    "definition": "\uac00\ub298"
+  },
+  "\u5c0f": {
+    "hangeul": "\uc18c",
+    "definition": "\uc791\uc744"
+  },
+  "\u5c11": {
+    "hangeul": "\uc18c",
+    "definition": "\uc801\uc744"
+  },
+  "\u6240": {
+    "hangeul": "\uc18c",
+    "definition": "\ubc14"
+  },
+  "\u6d88": {
+    "hangeul": "\uc18c",
+    "definition": "\uc0ac\ub77c\uc9c8"
+  },
+  "\u7b11": {
+    "hangeul": "\uc18c",
+    "definition": "\uc6c3\uc744"
+  },
+  "\u7d20": {
+    "hangeul": "\uc18c",
+    "definition": "\ud774"
+  },
+  "\u53ec": {
+    "hangeul": "\uc18c",
+    "definition": "\ubd80\ub97c"
+  },
+  "\u6383": {
+    "hangeul": "\uc18c",
+    "definition": "\uc4f8"
+  },
+  "\u662d": {
+    "hangeul": "\uc18c",
+    "definition": "\ubc1d\uc744"
+  },
+  "\u71d2": {
+    "hangeul": "\uc18c",
+    "definition": "\ubd88\ud0dc\uc6b8"
+  },
+  "\u758f": {
+    "hangeul": "\uc18c",
+    "definition": "\ud2b8\uc77c"
+  },
+  "\u852c": {
+    "hangeul": "\uc18c",
+    "definition": "\ud478\uc131\uadc0"
+  },
+  "\u8607": {
+    "hangeul": "\uc18c",
+    "definition": "\uae68\uc5b4\ub0a0"
+  },
+  "\u8a34": {
+    "hangeul": "\uc18c",
+    "definition": "\ud558\uc18c\uc5f0\ud560"
+  },
+  "\u9a37": {
+    "hangeul": "\uc18c",
+    "definition": "\ub5a0\ub4e4"
+  },
+  "\u4fd7": {
+    "hangeul": "\uc18d",
+    "definition": "\ud48d\uc18d"
+  },
+  "\u7e8c": {
+    "hangeul": "\uc18d",
+    "definition": "\uc774\uc744"
+  },
+  "\u901f": {
+    "hangeul": "\uc18d",
+    "definition": "\ube60\ub97c"
+  },
+  "\u5c6c": {
+    "hangeul": "\uc18d",
+    "definition": "\uc5ee\uc744"
+  },
+  "\u675f": {
+    "hangeul": "\uc18d",
+    "definition": "\ubb36\uc744"
+  },
+  "\u7c9f": {
+    "hangeul": "\uc18d",
+    "definition": "\uc870"
+  },
+  "\u5b6b": {
+    "hangeul": "\uc190",
+    "definition": "\uc190\uc790"
+  },
+  "\u640d": {
+    "hangeul": "\uc190",
+    "definition": "\ub35c"
+  },
+  "\u677e": {
+    "hangeul": "\uc1a1",
+    "definition": "\uc18c\ub098\ubb34"
+  },
+  "\u9001": {
+    "hangeul": "\uc1a1",
+    "definition": "\ubcf4\ub0bc"
+  },
+  "\u8a1f": {
+    "hangeul": "\uc1a1",
+    "definition": "\uc1a1\uc0ac\ud560"
+  },
+  "\u8aa6": {
+    "hangeul": "\uc1a1",
+    "definition": "\uc680"
+  },
+  "\u980c": {
+    "hangeul": "\uc1a1",
+    "definition": "\uae30\ub9b4"
+  },
+  "\u5237": {
+    "hangeul": "\uc1c4",
+    "definition": "\uc4f8"
+  },
+  "\u9396": {
+    "hangeul": "\uc1c4",
+    "definition": "\uc1e0\uc0ac\uc2ac"
+  },
+  "\ud879\udd69": {
+    "hangeul": "\uc1e0",
+    "definition": "\uc1e0\ud560"
+  },
+  "\u4fee": {
+    "hangeul": "\uc218",
+    "definition": "\ub2e6\uc744"
+  },
+  "\u53d7": {
+    "hangeul": "\uc218",
+    "definition": "\ubc1b\uc744"
+  },
+  "\u58fd": {
+    "hangeul": "\uc218",
+    "definition": "\ubaa9\uc228"
+  },
+  "\u5b88": {
+    "hangeul": "\uc218",
+    "definition": "\uc9c0\ud0ac"
+  },
+  "\u6101": {
+    "hangeul": "\uc218",
+    "definition": "\uc2dc\ub984"
+  },
+  "\u624b": {
+    "hangeul": "\uc218",
+    "definition": "\uc190"
+  },
+  "\u6388": {
+    "hangeul": "\uc218",
+    "definition": "\uc904"
+  },
+  "\u6536": {
+    "hangeul": "\uc218",
+    "definition": "\uac70\ub458"
+  },
+  "\u6578": {
+    "hangeul": "\uc218",
+    "definition": "\uc140"
+  },
+  "\u6a39": {
+    "hangeul": "\uc218",
+    "definition": "\ub098\ubb34"
+  },
+  "\u6c34": {
+    "hangeul": "\uc218",
+    "definition": "\ubb3c"
+  },
+  "\u79c0": {
+    "hangeul": "\uc218",
+    "definition": "\ube7c\uc5b4\ub0a0"
+  },
+  "\u8ab0": {
+    "hangeul": "\uc218",
+    "definition": "\ub204\uad6c"
+  },
+  "\u96d6": {
+    "hangeul": "\uc218",
+    "definition": "\ube44\ub85d"
+  },
+  "\u9808": {
+    "hangeul": "\uc218",
+    "definition": "\ubaa8\ub984\uc9c0\uae30"
+  },
+  "\u9996": {
+    "hangeul": "\uc218",
+    "definition": "\uba38\ub9ac"
+  },
+  "\u56da": {
+    "hangeul": "\uc218",
+    "definition": "\uac00\ub458"
+  },
+  "\u5782": {
+    "hangeul": "\uc218",
+    "definition": "\ub4dc\ub9ac\uc6b8"
+  },
+  "\u5e25": {
+    "hangeul": "\uc218",
+    "definition": "\uc7a5\uc218"
+  },
+  "\u641c": {
+    "hangeul": "\uc218",
+    "definition": "\ucc3e\uc744"
+  },
+  "\u6b8a": {
+    "hangeul": "\uc218",
+    "definition": "\ub2e4\ub97c"
+  },
+  "\u7378": {
+    "hangeul": "\uc218",
+    "definition": "\uc9d0\uc2b9"
+  },
+  "\u7761": {
+    "hangeul": "\uc218",
+    "definition": "\uc798"
+  },
+  "\u8f38": {
+    "hangeul": "\uc218",
+    "definition": "\ub098\ub97c"
+  },
+  "\u9042": {
+    "hangeul": "\uc218",
+    "definition": "\uc774\ub97c"
+  },
+  "\u96a8": {
+    "hangeul": "\uc218",
+    "definition": "\ub530\ub97c"
+  },
+  "\u9700": {
+    "hangeul": "\uc218",
+    "definition": "\uad6c\ud560"
+  },
+  "\u53d4": {
+    "hangeul": "\uc219",
+    "definition": "\uc544\uc7ac\ube44"
+  },
+  "\u5bbf": {
+    "hangeul": "\uc219",
+    "definition": "\ubb35\uc744"
+  },
+  "\u6dd1": {
+    "hangeul": "\uc219",
+    "definition": "\ub9d1\uc744"
+  },
+  "\u5b70": {
+    "hangeul": "\uc219",
+    "definition": "\ub204\uad6c"
+  },
+  "\u719f": {
+    "hangeul": "\uc219",
+    "definition": "\uc775\uc744"
+  },
+  "\u8085": {
+    "hangeul": "\uc219",
+    "definition": "\uc5c4\uc219\ud560"
+  },
+  "\u7d14": {
+    "hangeul": "\uc21c",
+    "definition": "\uc21c\uc218\ud560"
+  },
+  "\u9806": {
+    "hangeul": "\uc21c",
+    "definition": "\uc21c\ud560"
+  },
+  "\u5de1": {
+    "hangeul": "\uc21c",
+    "definition": "\ub3cc"
+  },
+  "\u5faa": {
+    "hangeul": "\uc21c",
+    "definition": "\ub3cc"
+  },
+  "\u65ec": {
+    "hangeul": "\uc21c",
+    "definition": "\uc5f4\ud758"
+  },
+  "\u6b89": {
+    "hangeul": "\uc21c",
+    "definition": "\ub530\ub77c \uc8fd\uc744"
+  },
+  "\u77ac": {
+    "hangeul": "\uc21c",
+    "definition": "\ub208\uae5c\uc9dd\uc77c"
+  },
+  "\u8123": {
+    "hangeul": "\uc21c",
+    "definition": "\uc785\uc220"
+  },
+  "\u620c": {
+    "hangeul": "\uc220",
+    "definition": "\uac1c"
+  },
+  "\u8853": {
+    "hangeul": "\uc220",
+    "definition": "\uc7ac\uc8fc"
+  },
+  "\u8ff0": {
+    "hangeul": "\uc220",
+    "definition": "\uc9c0\uc744"
+  },
+  "\u5d07": {
+    "hangeul": "\uc22d",
+    "definition": "\ub192\uc744"
+  },
+  "\u62fe": {
+    "hangeul": "\uc2b5",
+    "definition": "\uc8fc\uc6b8"
+  },
+  "\u7fd2": {
+    "hangeul": "\uc2b5",
+    "definition": "\uc775\ud790"
+  },
+  "\u6fd5": {
+    "hangeul": "\uc2b5",
+    "definition": "\ucd95\ucd95\ud560"
+  },
+  "\u8972": {
+    "hangeul": "\uc2b5",
+    "definition": "\uc5c4\uc2b5\ud560"
+  },
+  "\u4e58": {
+    "hangeul": "\uc2b9",
+    "definition": "\ud0c8"
+  },
+  "\u52dd": {
+    "hangeul": "\uc2b9",
+    "definition": "\uc774\uae38"
+  },
+  "\u627f": {
+    "hangeul": "\uc2b9",
+    "definition": "\ubc1b\ub4e4"
+  },
+  "\u50e7": {
+    "hangeul": "\uc2b9",
+    "definition": "\uc911"
+  },
+  "\u6607": {
+    "hangeul": "\uc2b9",
+    "definition": "\uc624\ub97c"
+  },
+  "\u59cb": {
+    "hangeul": "\uc2dc",
+    "definition": "\ucc98\uc74c"
+  },
+  "\u5e02": {
+    "hangeul": "\uc2dc",
+    "definition": "\uc800\uc790"
+  },
+  "\u65bd": {
+    "hangeul": "\uc2dc",
+    "definition": "\ubca0 \ud480"
+  },
+  "\u662f": {
+    "hangeul": "\uc2dc",
+    "definition": "\uc633\uc744"
+  },
+  "\u6642": {
+    "hangeul": "\uc2dc",
+    "definition": "\ub54c"
+  },
+  "\u793a": {
+    "hangeul": "\uc2dc",
+    "definition": "\ubcf4\uc77c"
+  },
+  "\u8996": {
+    "hangeul": "\uc2dc",
+    "definition": "\ubcfc"
+  },
+  "\u8a69": {
+    "hangeul": "\uc2dc",
+    "definition": "\uc2dc"
+  },
+  "\u8a66": {
+    "hangeul": "\uc2dc",
+    "definition": "\uc2dc\ud5d8\ud560"
+  },
+  "\u4f8d": {
+    "hangeul": "\uc2dc",
+    "definition": "\ubaa8\uc2e4"
+  },
+  "\u77e2": {
+    "hangeul": "\uc2dc",
+    "definition": "\ud654\uc0b4"
+  },
+  "\u5f0f": {
+    "hangeul": "\uc2dd",
+    "definition": "\ubc95"
+  },
+  "\u690d": {
+    "hangeul": "\uc2dd",
+    "definition": "\uc2ec\uc744"
+  },
+  "\u8b58": {
+    "hangeul": "\uc2dd",
+    "definition": "\uc54c"
+  },
+  "\u98df": {
+    "hangeul": "\uc2dd",
+    "definition": "\uba39\uc744"
+  },
+  "\u606f": {
+    "hangeul": "\uc2dd",
+    "definition": "\uc228\uc274"
+  },
+  "\u98fe": {
+    "hangeul": "\uc2dd",
+    "definition": "\uafb8\ubc00"
+  },
+  "\u4fe1": {
+    "hangeul": "\uc2e0",
+    "definition": "\ubbff\uc744"
+  },
+  "\u65b0": {
+    "hangeul": "\uc2e0",
+    "definition": "\uc0c8"
+  },
+  "\u7533": {
+    "hangeul": "\uc2e0",
+    "definition": "\uc6d0\uc22d\uc774"
+  },
+  "\u795e": {
+    "hangeul": "\uc2e0",
+    "definition": "\uadc0\uc2e0"
+  },
+  "\u81e3": {
+    "hangeul": "\uc2e0",
+    "definition": "\uc2e0\ud558"
+  },
+  "\u8eab": {
+    "hangeul": "\uc2e0",
+    "definition": "\ubab8"
+  },
+  "\u8f9b": {
+    "hangeul": "\uc2e0",
+    "definition": "\ub9e4\uc6b8"
+  },
+  "\u4f38": {
+    "hangeul": "\uc2e0",
+    "definition": "\ud3bc"
+  },
+  "\u613c": {
+    "hangeul": "\uc2e0",
+    "definition": "\uc0bc\uac08"
+  },
+  "\u6668": {
+    "hangeul": "\uc2e0",
+    "definition": "\uc0c8\ubcbd"
+  },
+  "\u5931": {
+    "hangeul": "\uc2e4",
+    "definition": "\uc783\uc744"
+  },
+  "\u5ba4": {
+    "hangeul": "\uc2e4",
+    "definition": "\uc9d1"
+  },
+  "\u5be6": {
+    "hangeul": "\uc2e4",
+    "definition": "\uc5f4\ub9e4"
+  },
+  "\u5fc3": {
+    "hangeul": "\uc2ec",
+    "definition": "\ub9c8\uc74c"
+  },
+  "\u6df1": {
+    "hangeul": "\uc2ec",
+    "definition": "\uae4a\uc744"
+  },
+  "\u751a": {
+    "hangeul": "\uc2ec",
+    "definition": "\uc2ec\ud560"
+  },
+  "\u5be9": {
+    "hangeul": "\uc2ec",
+    "definition": "\uc0b4\ud544"
+  },
+  "\u5c0b": {
+    "hangeul": "\uc2ec",
+    "definition": "\ucc3e\uc744"
+  },
+  "\u5341": {
+    "hangeul": "\uc2ed",
+    "definition": "\uc5f4"
+  },
+  "\u96d9": {
+    "hangeul": "\uc30d",
+    "definition": "\uc30d"
+  },
+  "\u6c0f": {
+    "hangeul": "\uc528",
+    "definition": "\uac01\uc2dc"
+  },
+  "\u5152": {
+    "hangeul": "\uc544",
+    "definition": "\uc544\uc774"
+  },
+  "\u6211": {
+    "hangeul": "\uc544",
+    "definition": "\ub098"
+  },
+  "\u4e9e": {
+    "hangeul": "\uc544",
+    "definition": "\ubc84\uae08"
+  },
+  "\u7259": {
+    "hangeul": "\uc544",
+    "definition": "\uc5b4\uae08\ub2c8"
+  },
+  "\u82bd": {
+    "hangeul": "\uc544",
+    "definition": "\uc2f9"
+  },
+  "\u96c5": {
+    "hangeul": "\uc544",
+    "definition": "\uc6b0\uc544\ud560"
+  },
+  "\u9913": {
+    "hangeul": "\uc544",
+    "definition": "\uad76\uc8fc\ub9b4"
+  },
+  "\u60e1": {
+    "hangeul": "\uc545",
+    "definition": "\uc545\ud560"
+  },
+  "\u5cb3": {
+    "hangeul": "\uc545",
+    "definition": "\ud070 \uc0b0"
+  },
+  "\u5b89": {
+    "hangeul": "\uc548",
+    "definition": "\ud3b8\uc548\ud560"
+  },
+  "\u6848": {
+    "hangeul": "\uc548",
+    "definition": "\ucc45\uc0c1"
+  },
+  "\u773c": {
+    "hangeul": "\uc548",
+    "definition": "\ub208"
+  },
+  "\u9854": {
+    "hangeul": "\uc548",
+    "definition": "\uc5bc\uad74"
+  },
+  "\u5cb8": {
+    "hangeul": "\uc548",
+    "definition": "\uc5b8\ub355"
+  },
+  "\u96c1": {
+    "hangeul": "\uc548",
+    "definition": "\uae30\ub7ec\uae30"
+  },
+  "\u8b01": {
+    "hangeul": "\uc54c",
+    "definition": "\ubd50"
+  },
+  "\u5dd6": {
+    "hangeul": "\uc554",
+    "definition": "\ubc14\uc704"
+  },
+  "\u6697": {
+    "hangeul": "\uc554",
+    "definition": "\uc5b4\ub450\uc6b8"
+  },
+  "\u58d3": {
+    "hangeul": "\uc555",
+    "definition": "\ub204\ub97c"
+  },
+  "\u62bc": {
+    "hangeul": "\uc555",
+    "definition": "\ub204\ub97c"
+  },
+  "\u4ef0": {
+    "hangeul": "\uc559",
+    "definition": "\uc6b0\ub7ec\ub97c"
+  },
+  "\u592e": {
+    "hangeul": "\uc559",
+    "definition": "\uac00\uc6b4\ub370"
+  },
+  "\u6b83": {
+    "hangeul": "\uc559",
+    "definition": "\uc7ac\uc559"
+  },
+  "\u54c0": {
+    "hangeul": "\uc560",
+    "definition": "\uc2ac\ud50c"
+  },
+  "\u611b": {
+    "hangeul": "\uc560",
+    "definition": "\uc0ac\ub791"
+  },
+  "\u6daf": {
+    "hangeul": "\uc560",
+    "definition": "\ubb3c\uac00"
+  },
+  "\u5384": {
+    "hangeul": "\uc561",
+    "definition": "\uc7ac\uc559"
+  },
+  "\u984d": {
+    "hangeul": "\uc561",
+    "definition": "\uc774\ub9c8"
+  },
+  "\u4e5f": {
+    "hangeul": "\uc57c",
+    "definition": "\uc5b4\uc870\uc0ac"
+  },
+  "\u591c": {
+    "hangeul": "\uc57c",
+    "definition": "\ubc24"
+  },
+  "\u91ce": {
+    "hangeul": "\uc57c",
+    "definition": "\ub4e4"
+  },
+  "\u8036": {
+    "hangeul": "\uc57c",
+    "definition": "\uc5b4\uc870\uc0ac"
+  },
+  "\u5f31": {
+    "hangeul": "\uc57d",
+    "definition": "\uc57d\ud560"
+  },
+  "\u7d04": {
+    "hangeul": "\uc57d",
+    "definition": "\uc57d\uc18d\ud560"
+  },
+  "\u82e5": {
+    "hangeul": "\uc57d",
+    "definition": "\uac19\uc744"
+  },
+  "\u85e5": {
+    "hangeul": "\uc57d",
+    "definition": "\uc57d"
+  },
+  "\u8e8d": {
+    "hangeul": "\uc57d",
+    "definition": "\ub6f8"
+  },
+  "\u63da": {
+    "hangeul": "\uc591",
+    "definition": "\uc624\ub97c"
+  },
+  "\u6d0b": {
+    "hangeul": "\uc591",
+    "definition": "\ubc14\ub2e4"
+  },
+  "\u7f8a": {
+    "hangeul": "\uc591",
+    "definition": "\uc591"
+  },
+  "\u8b93": {
+    "hangeul": "\uc591",
+    "definition": "\uc0ac\uc591\ud560"
+  },
+  "\u967d": {
+    "hangeul": "\uc591",
+    "definition": "\ubcd5"
+  },
+  "\u990a": {
+    "hangeul": "\uc591",
+    "definition": "\uae30\ub97c"
+  },
+  "\u58e4": {
+    "hangeul": "\uc591",
+    "definition": "\ud759"
+  },
+  "\u694a": {
+    "hangeul": "\uc591",
+    "definition": "\ubc84\ub4e4"
+  },
+  "\u6a23": {
+    "hangeul": "\uc591",
+    "definition": "\ubaa8\uc591"
+  },
+  "\u65bc": {
+    "hangeul": "\uc5b4",
+    "definition": "\uc5b4\uc870\uc0ac"
+  },
+  "\u6f01": {
+    "hangeul": "\uc5b4",
+    "definition": "\uace0\uae30 \uc7a1\uc744"
+  },
+  "\u8a9e": {
+    "hangeul": "\uc5b4",
+    "definition": "\ub9d0\uc500"
+  },
+  "\u9b5a": {
+    "hangeul": "\uc5b4",
+    "definition": "\ubb3c\uace0\uae30"
+  },
+  "\u5fa1": {
+    "hangeul": "\uc5b4",
+    "definition": "\uc5b4\uac70\ud560"
+  },
+  "\u5104": {
+    "hangeul": "\uc5b5",
+    "definition": "\uc5b5"
+  },
+  "\u61b6": {
+    "hangeul": "\uc5b5",
+    "definition": "\uc0dd\uac01\ud560"
+  },
+  "\u6291": {
+    "hangeul": "\uc5b5",
+    "definition": "\ub204\ub97c"
+  },
+  "\u8a00": {
+    "hangeul": "\uc5b8",
+    "definition": "\ub9d0\uc500"
+  },
+  "\u7109": {
+    "hangeul": "\uc5b8",
+    "definition": "\uc5b4\ucc0c"
+  },
+  "\u56b4": {
+    "hangeul": "\uc5c4",
+    "definition": "\uc5c4\ud560"
+  },
+  "\u696d": {
+    "hangeul": "\uc5c5",
+    "definition": "\uc5c5"
+  },
+  "\u4f59": {
+    "hangeul": "\uc5ec",
+    "definition": "\ub098"
+  },
+  "\u5982": {
+    "hangeul": "\uc5ec",
+    "definition": "\uac19\uc744"
+  },
+  "\u6c5d": {
+    "hangeul": "\uc5ec",
+    "definition": "\ub108"
+  },
+  "\u8207": {
+    "hangeul": "\uc5ec",
+    "definition": "\uc904"
+  },
+  "\u9918": {
+    "hangeul": "\uc5ec",
+    "definition": "\ub0a8\uc744"
+  },
+  "\u4e88": {
+    "hangeul": "\uc5ec",
+    "definition": "\ub098"
+  },
+  "\u8f3f": {
+    "hangeul": "\uc5ec",
+    "definition": "\uc218\ub808"
+  },
+  "\u4ea6": {
+    "hangeul": "\uc5ed",
+    "definition": "\ub610"
+  },
+  "\u6613": {
+    "hangeul": "\uc5ed",
+    "definition": "\ubc14\uafc0"
+  },
+  "\u9006": {
+    "hangeul": "\uc5ed",
+    "definition": "\uac70\uc2a4\ub97c"
+  },
+  "\u57df": {
+    "hangeul": "\uc5ed",
+    "definition": "\uc9c0\uacbd"
+  },
+  "\u5f79": {
+    "hangeul": "\uc5ed",
+    "definition": "\ubd80\ub9b4"
+  },
+  "\u75ab": {
+    "hangeul": "\uc5ed",
+    "definition": "\uc5fc\ubcd1"
+  },
+  "\u8b6f": {
+    "hangeul": "\uc5ed",
+    "definition": "\ud1b5\ubcc0\ud560"
+  },
+  "\u9a5b": {
+    "hangeul": "\uc5ed",
+    "definition": "\uc5ed\ucc38"
+  },
+  "\u7136": {
+    "hangeul": "\uc5f0",
+    "definition": "\uadf8\ub7ec\ud560"
+  },
+  "\u7159": {
+    "hangeul": "\uc5f0",
+    "definition": "\uc5f0\uae30"
+  },
+  "\u784f": {
+    "hangeul": "\uc5f0",
+    "definition": "\uac08"
+  },
+  "\u5bb4": {
+    "hangeul": "\uc5f0",
+    "definition": "\uc794\uce58"
+  },
+  "\u5ef6": {
+    "hangeul": "\uc5f0",
+    "definition": "\ub04c"
+  },
+  "\u6cbf": {
+    "hangeul": "\uc5f0",
+    "definition": "\ub530\ub97c"
+  },
+  "\u6f14": {
+    "hangeul": "\uc5f0",
+    "definition": "\uc5f0\uc5ed\ud560"
+  },
+  "\u71c3": {
+    "hangeul": "\uc5f0",
+    "definition": "\ud0c8"
+  },
+  "\u71d5": {
+    "hangeul": "\uc5f0",
+    "definition": "\uc81c\ube44"
+  },
+  "\u7de3": {
+    "hangeul": "\uc5f0",
+    "definition": "\uc778\uc5f0"
+  },
+  "\u8edf": {
+    "hangeul": "\uc5f0",
+    "definition": "\uc5f0\ud560"
+  },
+  "\u925b": {
+    "hangeul": "\uc5f0",
+    "definition": "\ub0a9"
+  },
+  "\u6085": {
+    "hangeul": "\uc5f4",
+    "definition": "\uae30\uc060"
+  },
+  "\u71b1": {
+    "hangeul": "\uc5f4",
+    "definition": "\ub354\uc6b8"
+  },
+  "\u95b1": {
+    "hangeul": "\uc5f4",
+    "definition": "\uac80\uc5f4\ud560"
+  },
+  "\u708e": {
+    "hangeul": "\uc5fc",
+    "definition": "\ubd88\ud0c8"
+  },
+  "\u67d3": {
+    "hangeul": "\uc5fc",
+    "definition": "\ubb3c\ub4e4\uc77c"
+  },
+  "\u9e7d": {
+    "hangeul": "\uc5fc",
+    "definition": "\uc18c\uae08"
+  },
+  "\u8449": {
+    "hangeul": "\uc5fd",
+    "definition": "\uc78e"
+  },
+  "\u69ae": {
+    "hangeul": "\uc601",
+    "definition": "\uc601\ud654\ub85c\uc6b8"
+  },
+  "\u6c38": {
+    "hangeul": "\uc601",
+    "definition": "\uae38"
+  },
+  "\u82f1": {
+    "hangeul": "\uc601",
+    "definition": "\uaf43\ubd80\ub9ac"
+  },
+  "\u8fce": {
+    "hangeul": "\uc601",
+    "definition": "\ub9de\uc774\ud560"
+  },
+  "\u5f71": {
+    "hangeul": "\uc601",
+    "definition": "\uadf8\ub9bc\uc790"
+  },
+  "\u6620": {
+    "hangeul": "\uc601",
+    "definition": "\ube44\ucd9c"
+  },
+  "\u6cf3": {
+    "hangeul": "\uc601",
+    "definition": "\ud5e4\uc5c4\uce60"
+  },
+  "\u71df": {
+    "hangeul": "\uc601",
+    "definition": "\uacbd\uc601\ud560"
+  },
+  "\u8a60": {
+    "hangeul": "\uc601",
+    "definition": "\uc74a\uc744"
+  },
+  "\u85dd": {
+    "hangeul": "\uc608",
+    "definition": "\uae30\uc608"
+  },
+  "\u8b7d": {
+    "hangeul": "\uc608",
+    "definition": "\uae30\ub9b4"
+  },
+  "\u92b3": {
+    "hangeul": "\uc608",
+    "definition": "\ub0a0\uce74\ub85c\uc6b8"
+  },
+  "\u8c6b": {
+    "hangeul": "\uc608",
+    "definition": "\ubbf8\ub9ac"
+  },
+  "\u4e94": {
+    "hangeul": "\uc624",
+    "definition": "\ub2e4\uc12f"
+  },
+  "\u5348": {
+    "hangeul": "\uc624",
+    "definition": "\ub0ae"
+  },
+  "\u543e": {
+    "hangeul": "\uc624",
+    "definition": "\ub098"
+  },
+  "\u609f": {
+    "hangeul": "\uc624",
+    "definition": "\uae68\ub2ec\uc744"
+  },
+  "\u70cf": {
+    "hangeul": "\uc624",
+    "definition": "\uae4c\ub9c8\uadc0"
+  },
+  "\u8aa4": {
+    "hangeul": "\uc624",
+    "definition": "\uadf8\ub974\uce60"
+  },
+  "\u50b2": {
+    "hangeul": "\uc624",
+    "definition": "\uac70\ub9cc\ud560"
+  },
+  "\u55da": {
+    "hangeul": "\uc624",
+    "definition": "\ud0c4\uc2dd\uc18c\ub9ac"
+  },
+  "\u5a1b": {
+    "hangeul": "\uc624",
+    "definition": "\uc990\uac70\uc6cc\ud560"
+  },
+  "\u6c5a": {
+    "hangeul": "\uc624",
+    "definition": "\ub354\ub7ec\uc6b8"
+  },
+  "\u5c4b": {
+    "hangeul": "\uc625",
+    "definition": "\uc9d1"
+  },
+  "\u7389": {
+    "hangeul": "\uc625",
+    "definition": "\uad6c\uc2ac"
+  },
+  "\u7344": {
+    "hangeul": "\uc625",
+    "definition": "\uc625"
+  },
+  "\u6eab": {
+    "hangeul": "\uc628",
+    "definition": "\ub530\ub73b\ud560"
+  },
+  "\u64c1": {
+    "hangeul": "\uc639",
+    "definition": "\uc548\uc744"
+  },
+  "\u7fc1": {
+    "hangeul": "\uc639",
+    "definition": "\ub299\uc740\uc774"
+  },
+  "\u74e6": {
+    "hangeul": "\uc640",
+    "definition": "\uae30\uc640"
+  },
+  "\u81e5": {
+    "hangeul": "\uc640",
+    "definition": "\ub204\uc6b8"
+  },
+  "\u5b8c": {
+    "hangeul": "\uc644",
+    "definition": "\uc644\uc804\ud560"
+  },
+  "\u7de9": {
+    "hangeul": "\uc644",
+    "definition": "\ub290\ub9b4"
+  },
+  "\u66f0": {
+    "hangeul": "\uc648",
+    "definition": "\uac00\ub85c"
+  },
+  "\u5f80": {
+    "hangeul": "\uc655",
+    "definition": "\uac08"
+  },
+  "\u738b": {
+    "hangeul": "\uc655",
+    "definition": "\uc784\uae08"
+  },
+  "\u5916": {
+    "hangeul": "\uc678",
+    "definition": "\ubc16"
+  },
+  "\u754f": {
+    "hangeul": "\uc678",
+    "definition": "\ub450\ub824\uc6cc\ud560"
+  },
+  "\u8981": {
+    "hangeul": "\uc694",
+    "definition": "\uad6c\ud560"
+  },
+  "\u6416": {
+    "hangeul": "\uc694",
+    "definition": "\ud754\ub4e4"
+  },
+  "\u8170": {
+    "hangeul": "\uc694",
+    "definition": "\ud5c8\ub9ac"
+  },
+  "\u8b20": {
+    "hangeul": "\uc694",
+    "definition": "\ub178\ub798"
+  },
+  "\u9059": {
+    "hangeul": "\uc694",
+    "definition": "\uba40"
+  },
+  "\u6b32": {
+    "hangeul": "\uc695",
+    "definition": "\ud558\uace0\uc790 \ud560"
+  },
+  "\u6d74": {
+    "hangeul": "\uc695",
+    "definition": "\ubaa9\uc695\ud560"
+  },
+  "\u617e": {
+    "hangeul": "\uc695",
+    "definition": "\uc695\uc2ec"
+  },
+  "\u8fb1": {
+    "hangeul": "\uc695",
+    "definition": "\uc695\ubcf4\uc77c"
+  },
+  "\u52c7": {
+    "hangeul": "\uc6a9",
+    "definition": "\ub0a0\ub7a0"
+  },
+  "\u5bb9": {
+    "hangeul": "\uc6a9",
+    "definition": "\uc5bc\uad74"
+  },
+  "\u7528": {
+    "hangeul": "\uc6a9",
+    "definition": "\uc4f8"
+  },
+  "\u5eb8": {
+    "hangeul": "\uc6a9",
+    "definition": "\uc4f8"
+  },
+  "\u4e8e": {
+    "hangeul": "\uc6b0",
+    "definition": "\uc5b4\uc870\uc0ac"
+  },
+  "\u53c8": {
+    "hangeul": "\uc6b0",
+    "definition": "\ub610"
+  },
+  "\u53cb": {
+    "hangeul": "\uc6b0",
+    "definition": "\ubc97"
+  },
+  "\u53f3": {
+    "hangeul": "\uc6b0",
+    "definition": "\uc624\ub978\ucabd"
+  },
+  "\u5b87": {
+    "hangeul": "\uc6b0",
+    "definition": "\uc9d1"
+  },
+  "\u5c24": {
+    "hangeul": "\uc6b0",
+    "definition": "\ub354\uc6b1"
+  },
+  "\u6182": {
+    "hangeul": "\uc6b0",
+    "definition": "\uadfc\uc2ec\ud560"
+  },
+  "\u725b": {
+    "hangeul": "\uc6b0",
+    "definition": "\uc18c"
+  },
+  "\u9047": {
+    "hangeul": "\uc6b0",
+    "definition": "\ub9cc\ub0a0"
+  },
+  "\u96e8": {
+    "hangeul": "\uc6b0",
+    "definition": "\ube44"
+  },
+  "\u5076": {
+    "hangeul": "\uc6b0",
+    "definition": "\uc9dd"
+  },
+  "\u512a": {
+    "hangeul": "\uc6b0",
+    "definition": "\ub109\ub109\ud560"
+  },
+  "\u611a": {
+    "hangeul": "\uc6b0",
+    "definition": "\uc5b4\ub9ac\uc11d\uc744"
+  },
+  "\u7fbd": {
+    "hangeul": "\uc6b0",
+    "definition": "\uae43"
+  },
+  "\u90f5": {
+    "hangeul": "\uc6b0",
+    "definition": "\uc5ed\ucc38"
+  },
+  "\u4e91": {
+    "hangeul": "\uc6b4",
+    "definition": "\uc774\ub97c"
+  },
+  "\u904b": {
+    "hangeul": "\uc6b4",
+    "definition": "\ub3cc"
+  },
+  "\u96f2": {
+    "hangeul": "\uc6b4",
+    "definition": "\uad6c\ub984"
+  },
+  "\u97fb": {
+    "hangeul": "\uc6b4",
+    "definition": "\uc6b4"
+  },
+  "\u96c4": {
+    "hangeul": "\uc6c5",
+    "definition": "\uc218\ucef7"
+  },
+  "\u5143": {
+    "hangeul": "\uc6d0",
+    "definition": "\uc73c\ub738"
+  },
+  "\u539f": {
+    "hangeul": "\uc6d0",
+    "definition": "\uadfc\uc6d0"
+  },
+  "\u5713": {
+    "hangeul": "\uc6d0",
+    "definition": "\ub465\uae00"
+  },
+  "\u5712": {
+    "hangeul": "\uc6d0",
+    "definition": "\ub3d9\uc0b0"
+  },
+  "\u6028": {
+    "hangeul": "\uc6d0",
+    "definition": "\uc6d0\ub9dd\ud560"
+  },
+  "\u9060": {
+    "hangeul": "\uc6d0",
+    "definition": "\uba40"
+  },
+  "\u9858": {
+    "hangeul": "\uc6d0",
+    "definition": "\ubc14\ub784"
+  },
+  "\u54e1": {
+    "hangeul": "\uc6d0",
+    "definition": "\uad00\uc6d0"
+  },
+  "\u63f4": {
+    "hangeul": "\uc6d0",
+    "definition": "\ub2f9\uae38"
+  },
+  "\u6e90": {
+    "hangeul": "\uc6d0",
+    "definition": "\uadfc\uc6d0"
+  },
+  "\u9662": {
+    "hangeul": "\uc6d0",
+    "definition": "\ub2f4"
+  },
+  "\u6708": {
+    "hangeul": "\uc6d4",
+    "definition": "\ub2ec"
+  },
+  "\u8d8a": {
+    "hangeul": "\uc6d4",
+    "definition": "\ub118\uc744"
+  },
+  "\u4f4d": {
+    "hangeul": "\uc704",
+    "definition": "\uc790\ub9ac"
+  },
+  "\u5049": {
+    "hangeul": "\uc704",
+    "definition": "\ud6cc\ub96d\ud560"
+  },
+  "\u5371": {
+    "hangeul": "\uc704",
+    "definition": "\uc704\ud0dc\ud560"
+  },
+  "\u5a01": {
+    "hangeul": "\uc704",
+    "definition": "\uc704\uc5c4"
+  },
+  "\u7232": {
+    "hangeul": "\uc704",
+    "definition": "\ud560"
+  },
+  "\u50de": {
+    "hangeul": "\uc704",
+    "definition": "\uac70\uc9d3"
+  },
+  "\u570d": {
+    "hangeul": "\uc704",
+    "definition": "\ub458\ub808"
+  },
+  "\u59d4": {
+    "hangeul": "\uc704",
+    "definition": "\ub9e1\uae38"
+  },
+  "\u6170": {
+    "hangeul": "\uc704",
+    "definition": "\uc704\ub85c\ud560"
+  },
+  "\u7def": {
+    "hangeul": "\uc704",
+    "definition": "\uc528"
+  },
+  "\u80c3": {
+    "hangeul": "\uc704",
+    "definition": "\ubc25\ud1b5"
+  },
+  "\u885b": {
+    "hangeul": "\uc704",
+    "definition": "\uc9c0\ud0ac"
+  },
+  "\u8b02": {
+    "hangeul": "\uc704",
+    "definition": "\uc774\ub97c"
+  },
+  "\u9055": {
+    "hangeul": "\uc704",
+    "definition": "\uc5b4\uae38"
+  },
+  "\u552f": {
+    "hangeul": "\uc720",
+    "definition": "\uc624\uc9c1"
+  },
+  "\u5e7c": {
+    "hangeul": "\uc720",
+    "definition": "\uc5b4\ub9b4"
+  },
+  "\u6709": {
+    "hangeul": "\uc720",
+    "definition": "\uc788\uc744"
+  },
+  "\u67d4": {
+    "hangeul": "\uc720",
+    "definition": "\ubd80\ub4dc\ub7ec\uc6b8"
+  },
+  "\u6cb9": {
+    "hangeul": "\uc720",
+    "definition": "\uae30\ub984"
+  },
+  "\u7336": {
+    "hangeul": "\uc720",
+    "definition": "\uc624\ud788\ub824"
+  },
+  "\u7531": {
+    "hangeul": "\uc720",
+    "definition": "\ub9d0\ubbf8\uc554\uc744"
+  },
+  "\u904a": {
+    "hangeul": "\uc720",
+    "definition": "\ub180"
+  },
+  "\u907a": {
+    "hangeul": "\uc720",
+    "definition": "\ub07c\uce60"
+  },
+  "\u9149": {
+    "hangeul": "\uc720",
+    "definition": "\ub2ed"
+  },
+  "\u4e73": {
+    "hangeul": "\uc720",
+    "definition": "\uc816"
+  },
+  "\u5112": {
+    "hangeul": "\uc720",
+    "definition": "\uc120\ube44"
+  },
+  "\u5e7d": {
+    "hangeul": "\uc720",
+    "definition": "\uadf8\uc73d\ud560"
+  },
+  "\u60a0": {
+    "hangeul": "\uc720",
+    "definition": "\uba40"
+  },
+  "\u60df": {
+    "hangeul": "\uc720",
+    "definition": "\uc0dd\uac01\ud560"
+  },
+  "\u6108": {
+    "hangeul": "\uc720",
+    "definition": "\ub098\uc744"
+  },
+  "\u7dad": {
+    "hangeul": "\uc720",
+    "definition": "\ub9ec"
+  },
+  "\u88d5": {
+    "hangeul": "\uc720",
+    "definition": "\ub109\ub109\ud560"
+  },
+  "\u8a98": {
+    "hangeul": "\uc720",
+    "definition": "\uaf88"
+  },
+  "\u8089": {
+    "hangeul": "\uc721",
+    "definition": "\uace0\uae30"
+  },
+  "\u80b2": {
+    "hangeul": "\uc721",
+    "definition": "\uae30\ub97c"
+  },
+  "\u6f64": {
+    "hangeul": "\uc724",
+    "definition": "\uc816\uc744"
+  },
+  "\u958f": {
+    "hangeul": "\uc724",
+    "definition": "\uc724\ub2ec"
+  },
+  "\u6069": {
+    "hangeul": "\uc740",
+    "definition": "\uc740\ud61c"
+  },
+  "\u9280": {
+    "hangeul": "\uc740",
+    "definition": "\uc740"
+  },
+  "\u96b1": {
+    "hangeul": "\uc740",
+    "definition": "\uc228\uae38"
+  },
+  "\u4e59": {
+    "hangeul": "\uc744",
+    "definition": "\uc0c8"
+  },
+  "\u541f": {
+    "hangeul": "\uc74c",
+    "definition": "\uc74a\uc744"
+  },
+  "\u9670": {
+    "hangeul": "\uc74c",
+    "definition": "\uadf8\ub298"
+  },
+  "\u97f3": {
+    "hangeul": "\uc74c",
+    "definition": "\uc18c\ub9ac"
+  },
+  "\u98ee": {
+    "hangeul": "\uc74c",
+    "definition": "\ub9c8\uc2e4"
+  },
+  "\u6deb": {
+    "hangeul": "\uc74c",
+    "definition": "\uc74c\ub780\ud560"
+  },
+  "\u6ce3": {
+    "hangeul": "\uc74d",
+    "definition": "\uc6b8"
+  },
+  "\u9091": {
+    "hangeul": "\uc74d",
+    "definition": "\uace0\uc744"
+  },
+  "\u61c9": {
+    "hangeul": "\uc751",
+    "definition": "\uc751\ud560"
+  },
+  "\u51dd": {
+    "hangeul": "\uc751",
+    "definition": "\uc5c9\uae38"
+  },
+  "\u4f9d": {
+    "hangeul": "\uc758",
+    "definition": "\uc758\uc9c0\ud560"
+  },
+  "\u610f": {
+    "hangeul": "\uc758",
+    "definition": "\ub73b"
+  },
+  "\u77e3": {
+    "hangeul": "\uc758",
+    "definition": "\uc5b4\uc870\uc0ac"
+  },
+  "\u7fa9": {
+    "hangeul": "\uc758",
+    "definition": "\uc633\uc744"
+  },
+  "\u8863": {
+    "hangeul": "\uc758",
+    "definition": "\uc637"
+  },
+  "\u8b70": {
+    "hangeul": "\uc758",
+    "definition": "\uc758\ub17c\ud560"
+  },
+  "\u91ab": {
+    "hangeul": "\uc758",
+    "definition": "\uc758\uc6d0"
+  },
+  "\u5100": {
+    "hangeul": "\uc758",
+    "definition": "\uac70\ub3d9"
+  },
+  "\u5b9c": {
+    "hangeul": "\uc758",
+    "definition": "\ub9c8\ub545\ud560"
+  },
+  "\u7591": {
+    "hangeul": "\uc758",
+    "definition": "\uc758\uc2ec\ud560"
+  },
+  "\u4e8c": {
+    "hangeul": "\uc774",
+    "definition": "\ub450"
+  },
+  "\u4ee5": {
+    "hangeul": "\uc774",
+    "definition": "\uc368"
+  },
+  "\u5df2": {
+    "hangeul": "\uc774",
+    "definition": "\uc774\ubbf8"
+  },
+  "\u7570": {
+    "hangeul": "\uc774",
+    "definition": "\ub2e4\ub97c"
+  },
+  "\u79fb": {
+    "hangeul": "\uc774",
+    "definition": "\uc62e\uae38"
+  },
+  "\u800c": {
+    "hangeul": "\uc774",
+    "definition": "\ub9d0 \uc774\uc744"
+  },
+  "\u8033": {
+    "hangeul": "\uc774",
+    "definition": "\uadc0"
+  },
+  "\u5937": {
+    "hangeul": "\uc774",
+    "definition": "\uc624\ub791\uce90"
+  },
+  "\u76ca": {
+    "hangeul": "\uc775",
+    "definition": "\ub354\ud560"
+  },
+  "\u7ffc": {
+    "hangeul": "\uc775",
+    "definition": "\ub0a0\uac1c"
+  },
+  "\u4eba": {
+    "hangeul": "\uc778",
+    "definition": "\uc0ac\ub78c"
+  },
+  "\u4ec1": {
+    "hangeul": "\uc778",
+    "definition": "\uc5b4\uc9c8"
+  },
+  "\u5370": {
+    "hangeul": "\uc778",
+    "definition": "\ub3c4\uc7a5"
+  },
+  "\u56e0": {
+    "hangeul": "\uc778",
+    "definition": "\uc778\ud560"
+  },
+  "\u5bc5": {
+    "hangeul": "\uc778",
+    "definition": "\ub3d9\ubc29"
+  },
+  "\u5f15": {
+    "hangeul": "\uc778",
+    "definition": "\ub04c"
+  },
+  "\u5fcd": {
+    "hangeul": "\uc778",
+    "definition": "\ucc38\uc744"
+  },
+  "\u8a8d": {
+    "hangeul": "\uc778",
+    "definition": "\uc54c"
+  },
+  "\u59fb": {
+    "hangeul": "\uc778",
+    "definition": "\ud63c\uc778"
+  },
+  "\u4e00": {
+    "hangeul": "\uc77c",
+    "definition": "\ud55c"
+  },
+  "\u65e5": {
+    "hangeul": "\uc77c",
+    "definition": "\ub0a0"
+  },
+  "\u9038": {
+    "hangeul": "\uc77c",
+    "definition": "\ud3b8\uc548\ud560"
+  },
+  "\u58ec": {
+    "hangeul": "\uc784",
+    "definition": "\uc544\ud649\uc9f8 \ucc9c\uac04"
+  },
+  "\u4efb": {
+    "hangeul": "\uc784",
+    "definition": "\ub9e1\uae38"
+  },
+  "\u8cc3": {
+    "hangeul": "\uc784",
+    "definition": "\ud488\ud314\uc774"
+  },
+  "\u5165": {
+    "hangeul": "\uc785",
+    "definition": "\ub4e4"
+  },
+  "\u59ca": {
+    "hangeul": "\uc790",
+    "definition": "\uc190\uc717\ub204\uc774"
+  },
+  "\u5b50": {
+    "hangeul": "\uc790",
+    "definition": "\uc544\ub4e4"
+  },
+  "\u5b57": {
+    "hangeul": "\uc790",
+    "definition": "\uae00\uc790"
+  },
+  "\u6148": {
+    "hangeul": "\uc790",
+    "definition": "\uc0ac\ub791\ud560"
+  },
+  "\u8005": {
+    "hangeul": "\uc790",
+    "definition": "\ub188"
+  },
+  "\u81ea": {
+    "hangeul": "\uc790",
+    "definition": "\uc2a4\uc2a4\ub85c"
+  },
+  "\u523a": {
+    "hangeul": "\uc790",
+    "definition": "\ucc0c\ub97c"
+  },
+  "\u59ff": {
+    "hangeul": "\uc790",
+    "definition": "\ub9f5\uc2dc"
+  },
+  "\u6063": {
+    "hangeul": "\uc790",
+    "definition": "\ubc29\uc790\ud560"
+  },
+  "\u7d2b": {
+    "hangeul": "\uc790",
+    "definition": "\uc790\uc90f\ube5b"
+  },
+  "\u8332": {
+    "hangeul": "\uc790",
+    "definition": "\uc774"
+  },
+  "\u8cc7": {
+    "hangeul": "\uc790",
+    "definition": "\uc7ac\ubb3c"
+  },
+  "\u4f5c": {
+    "hangeul": "\uc791",
+    "definition": "\uc9c0\uc744"
+  },
+  "\u6628": {
+    "hangeul": "\uc791",
+    "definition": "\uc5b4\uc81c"
+  },
+  "\u7235": {
+    "hangeul": "\uc791",
+    "definition": "\ubcbc\uc2ac"
+  },
+  "\u914c": {
+    "hangeul": "\uc791",
+    "definition": "\ub530\ub97c"
+  },
+  "\u6b98": {
+    "hangeul": "\uc794",
+    "definition": "\ud574\uce60"
+  },
+  "\u66ab": {
+    "hangeul": "\uc7a0",
+    "definition": "\uc7a0\uc2dc"
+  },
+  "\u6f5b": {
+    "hangeul": "\uc7a0",
+    "definition": "\uc7a0\uae38"
+  },
+  "\u96dc": {
+    "hangeul": "\uc7a1",
+    "definition": "\uc11e\uc77c"
+  },
+  "\u5834": {
+    "hangeul": "\uc7a5",
+    "definition": "\ub9c8\ub2f9"
+  },
+  "\u58ef": {
+    "hangeul": "\uc7a5",
+    "definition": "\uc529\uc529\ud560"
+  },
+  "\u5c07": {
+    "hangeul": "\uc7a5",
+    "definition": "\uc7a5\ucc28"
+  },
+  "\u7ae0": {
+    "hangeul": "\uc7a5",
+    "definition": "\uae00"
+  },
+  "\u9577": {
+    "hangeul": "\uc7a5",
+    "definition": "\uae38"
+  },
+  "\u4e08": {
+    "hangeul": "\uc7a5",
+    "definition": "\uc5b4\ub978"
+  },
+  "\u58bb": {
+    "hangeul": "\uc7a5",
+    "definition": "\ub2f4"
+  },
+  "\u596c": {
+    "hangeul": "\uc7a5",
+    "definition": "\uc7a5\ub824\ud560"
+  },
+  "\u5e33": {
+    "hangeul": "\uc7a5",
+    "definition": "\ud718\uc7a5"
+  },
+  "\u5f35": {
+    "hangeul": "\uc7a5",
+    "definition": "\ubca0\ud480"
+  },
+  "\u638c": {
+    "hangeul": "\uc7a5",
+    "definition": "\uc190\ubc14\ub2e5"
+  },
+  "\u7ca7": {
+    "hangeul": "\uc7a5",
+    "definition": "\ub2e8\uc7a5\ud560"
+  },
+  "\u8178": {
+    "hangeul": "\uc7a5",
+    "definition": "\ucc3d\uc790"
+  },
+  "\u81df": {
+    "hangeul": "\uc7a5",
+    "definition": "\ub0b4\uc7a5"
+  },
+  "\u838a": {
+    "hangeul": "\uc7a5",
+    "definition": "\uc7a5\uc911\ud560"
+  },
+  "\u846c": {
+    "hangeul": "\uc7a5",
+    "definition": "\uc7a5\uc0ac\uc9c0\ub0bc"
+  },
+  "\u85cf": {
+    "hangeul": "\uc7a5",
+    "definition": "\uac10\ucd9c"
+  },
+  "\u88dd": {
+    "hangeul": "\uc7a5",
+    "definition": "\uafb8\ubc00"
+  },
+  "\u969c": {
+    "hangeul": "\uc7a5",
+    "definition": "\uac00\ub85c\ub9c9\uc744"
+  },
+  "\u518d": {
+    "hangeul": "\uc7ac",
+    "definition": "\ub450"
+  },
+  "\u54c9": {
+    "hangeul": "\uc7ac",
+    "definition": "\uc5b4\uc870\uc0ac"
+  },
+  "\u5728": {
+    "hangeul": "\uc7ac",
+    "definition": "\uc788\uc744"
+  },
+  "\u624d": {
+    "hangeul": "\uc7ac",
+    "definition": "\uc7ac\uc8fc"
+  },
+  "\u6750": {
+    "hangeul": "\uc7ac",
+    "definition": "\uc7ac\ubaa9"
+  },
+  "\u683d": {
+    "hangeul": "\uc7ac",
+    "definition": "\uc2ec\uc744"
+  },
+  "\u8ca1": {
+    "hangeul": "\uc7ac",
+    "definition": "\uc7ac\ubb3c"
+  },
+  "\u5bb0": {
+    "hangeul": "\uc7ac",
+    "definition": "\uc7ac\uc0c1"
+  },
+  "\u707d": {
+    "hangeul": "\uc7ac",
+    "definition": "\uc7ac\uc559"
+  },
+  "\u88c1": {
+    "hangeul": "\uc7ac",
+    "definition": "\ub9c8\ub97c"
+  },
+  "\u8f09": {
+    "hangeul": "\uc7ac",
+    "definition": "\uc2e4\uc744"
+  },
+  "\u722d": {
+    "hangeul": "\uc7c1",
+    "definition": "\ub2e4\ud234"
+  },
+  "\u4f4e": {
+    "hangeul": "\uc800",
+    "definition": "\ubc11"
+  },
+  "\u8457": {
+    "hangeul": "\uc800",
+    "definition": "\ub098\ud0c0\ub0a0"
+  },
+  "\u8caf": {
+    "hangeul": "\uc800",
+    "definition": "\uc313\uc744"
+  },
+  "\u5e95": {
+    "hangeul": "\uc800",
+    "definition": "\ubc14\ub2e5"
+  },
+  "\u62b5": {
+    "hangeul": "\uc800",
+    "definition": "\uac70\uc2a4\ub97c"
+  },
+  "\u6575": {
+    "hangeul": "\uc801",
+    "definition": "\uc6d0\uc218"
+  },
+  "\u7684": {
+    "hangeul": "\uc801",
+    "definition": "\uacfc\ub141"
+  },
+  "\u8d64": {
+    "hangeul": "\uc801",
+    "definition": "\ubd89\uc744"
+  },
+  "\u9069": {
+    "hangeul": "\uc801",
+    "definition": "\uac08"
+  },
+  "\u5bc2": {
+    "hangeul": "\uc801",
+    "definition": "\uace0\uc694\ud560"
+  },
+  "\u6458": {
+    "hangeul": "\uc801",
+    "definition": "\ub538"
+  },
+  "\u6ef4": {
+    "hangeul": "\uc801",
+    "definition": "\ubb3c\ubc29\uc6b8"
+  },
+  "\u7a4d": {
+    "hangeul": "\uc801",
+    "definition": "\uc313\uc744"
+  },
+  "\u7c4d": {
+    "hangeul": "\uc801",
+    "definition": "\uc11c\uc801"
+  },
+  "\u7e3e": {
+    "hangeul": "\uc801",
+    "definition": "\uae38\uc308\ud560"
+  },
+  "\u8cca": {
+    "hangeul": "\uc801",
+    "definition": "\ub3c4\ub451"
+  },
+  "\u8de1": {
+    "hangeul": "\uc801",
+    "definition": "\uc790\ucde8"
+  },
+  "\u50b3": {
+    "hangeul": "\uc804",
+    "definition": "\uc804\ud560"
+  },
+  "\u5168": {
+    "hangeul": "\uc804",
+    "definition": "\uc628\uc804\ud560"
+  },
+  "\u5178": {
+    "hangeul": "\uc804",
+    "definition": "\ubc95"
+  },
+  "\u524d": {
+    "hangeul": "\uc804",
+    "definition": "\uc55e"
+  },
+  "\u5c55": {
+    "hangeul": "\uc804",
+    "definition": "\ud3bc"
+  },
+  "\u6230": {
+    "hangeul": "\uc804",
+    "definition": "\uc2f8\uc6b8"
+  },
+  "\u7530": {
+    "hangeul": "\uc804",
+    "definition": "\ubc2d"
+  },
+  "\u9322": {
+    "hangeul": "\uc804",
+    "definition": "\ub3c8"
+  },
+  "\u96fb": {
+    "hangeul": "\uc804",
+    "definition": "\ubc88\uac1c"
+  },
+  "\u5c08": {
+    "hangeul": "\uc804",
+    "definition": "\uc624\ub85c\uc9c0"
+  },
+  "\u6bbf": {
+    "hangeul": "\uc804",
+    "definition": "\ud070 \uc9d1"
+  },
+  "\u8f49": {
+    "hangeul": "\uc804",
+    "definition": "\uad6c\ub97c"
+  },
+  "\u7bc0": {
+    "hangeul": "\uc808",
+    "definition": "\ub9c8\ub514"
+  },
+  "\u7d55": {
+    "hangeul": "\uc808",
+    "definition": "\ub04a\uc744"
+  },
+  "\u5207": {
+    "hangeul": "\uc808",
+    "definition": "\ub04a\uc744"
+  },
+  "\u6298": {
+    "hangeul": "\uc808",
+    "definition": "\uaebe\uc744"
+  },
+  "\u7aca": {
+    "hangeul": "\uc808",
+    "definition": "\ud6d4\uce60"
+  },
+  "\u5e97": {
+    "hangeul": "\uc810",
+    "definition": "\uac00\uac8c"
+  },
+  "\u5360": {
+    "hangeul": "\uc810",
+    "definition": "\ucc28\uc9c0\ud560"
+  },
+  "\u6f38": {
+    "hangeul": "\uc810",
+    "definition": "\uc810\uc810"
+  },
+  "\u9ede": {
+    "hangeul": "\uc810",
+    "definition": "\uc810"
+  },
+  "\u63a5": {
+    "hangeul": "\uc811",
+    "definition": "\uc0ac\uadc8"
+  },
+  "\u8776": {
+    "hangeul": "\uc811",
+    "definition": "\ub098\ube44"
+  },
+  "\u4e01": {
+    "hangeul": "\uc815",
+    "definition": "\uace0\ubb34\ub798"
+  },
+  "\u4e95": {
+    "hangeul": "\uc815",
+    "definition": "\uc6b0\ubb3c"
+  },
+  "\u505c": {
+    "hangeul": "\uc815",
+    "definition": "\uba38\ubb34\ub97c"
+  },
+  "\u5b9a": {
+    "hangeul": "\uc815",
+    "definition": "\uc815\ud560"
+  },
+  "\u5ead": {
+    "hangeul": "\uc815",
+    "definition": "\ub730"
+  },
+  "\u60c5": {
+    "hangeul": "\uc815",
+    "definition": "\ub73b"
+  },
+  "\u653f": {
+    "hangeul": "\uc815",
+    "definition": "\uc815\uc0ac"
+  },
+  "\u6b63": {
+    "hangeul": "\uc815",
+    "definition": "\ubc14\ub97c"
+  },
+  "\u6de8": {
+    "hangeul": "\uc815",
+    "definition": "\uae68\ub057\ud560"
+  },
+  "\u7cbe": {
+    "hangeul": "\uc815",
+    "definition": "\uc815\ud560"
+  },
+  "\u8c9e": {
+    "hangeul": "\uc815",
+    "definition": "\uace7\uc744"
+  },
+  "\u975c": {
+    "hangeul": "\uc815",
+    "definition": "\uace0\uc694\ud560"
+  },
+  "\u9802": {
+    "hangeul": "\uc815",
+    "definition": "\uc815\uc218\ub9ac"
+  },
+  "\u4ead": {
+    "hangeul": "\uc815",
+    "definition": "\uc815\uc790"
+  },
+  "\u5ef7": {
+    "hangeul": "\uc815",
+    "definition": "\uc870\uc815"
+  },
+  "\u5f81": {
+    "hangeul": "\uc815",
+    "definition": "\uce60"
+  },
+  "\u6574": {
+    "hangeul": "\uc815",
+    "definition": "\uac00\uc9c0\ub7f0\ud560"
+  },
+  "\u7a0b": {
+    "hangeul": "\uc815",
+    "definition": "\ub2e8\uc704"
+  },
+  "\u8a02": {
+    "hangeul": "\uc815",
+    "definition": "\ubc14\ub85c\uc7a1\uc744"
+  },
+  "\u5e1d": {
+    "hangeul": "\uc81c",
+    "definition": "\uc784\uae08"
+  },
+  "\u5f1f": {
+    "hangeul": "\uc81c",
+    "definition": "\uc544\uc6b0"
+  },
+  "\u796d": {
+    "hangeul": "\uc81c",
+    "definition": "\uc81c\uc0ac"
+  },
+  "\u7b2c": {
+    "hangeul": "\uc81c",
+    "definition": "\ucc28\ub840"
+  },
+  "\u88fd": {
+    "hangeul": "\uc81c",
+    "definition": "\uc9c0\uc744"
+  },
+  "\u8af8": {
+    "hangeul": "\uc81c",
+    "definition": "\ubaa8\ub450"
+  },
+  "\u9664": {
+    "hangeul": "\uc81c",
+    "definition": "\ub35c"
+  },
+  "\u984c": {
+    "hangeul": "\uc81c",
+    "definition": "\ud45c\uc81c"
+  },
+  "\u5236": {
+    "hangeul": "\uc81c",
+    "definition": "\uc5b5\uc81c\ud560"
+  },
+  "\u5824": {
+    "hangeul": "\uc81c",
+    "definition": "\ubc29\uc8fd"
+  },
+  "\u63d0": {
+    "hangeul": "\uc81c",
+    "definition": "\ub04c"
+  },
+  "\u6fdf": {
+    "hangeul": "\uc81c",
+    "definition": "\uac74\ub110"
+  },
+  "\u969b": {
+    "hangeul": "\uc81c",
+    "definition": "\uc0ac\uc774"
+  },
+  "\u9f4a": {
+    "hangeul": "\uc81c",
+    "definition": "\uac00\uc9c0\ub7f0\ud560"
+  },
+  "\u5146": {
+    "hangeul": "\uc870",
+    "definition": "\uc870\uc9d0"
+  },
+  "\u52a9": {
+    "hangeul": "\uc870",
+    "definition": "\ub3c4\uc6b8"
+  },
+  "\u65e9": {
+    "hangeul": "\uc870",
+    "definition": "\uc77c\ucc0d"
+  },
+  "\u671d": {
+    "hangeul": "\uc870",
+    "definition": "\uc544\uce68"
+  },
+  "\u7956": {
+    "hangeul": "\uc870",
+    "definition": "\uc870\uc0c1"
+  },
+  "\u8abf": {
+    "hangeul": "\uc870",
+    "definition": "\uace0\ub97c"
+  },
+  "\u9020": {
+    "hangeul": "\uc870",
+    "definition": "\ub9cc\ub4e4"
+  },
+  "\u9ce5": {
+    "hangeul": "\uc870",
+    "definition": "\uc0c8"
+  },
+  "\u5f14": {
+    "hangeul": "\uc870",
+    "definition": "\uc870\uc0c1\ud560"
+  },
+  "\u64cd": {
+    "hangeul": "\uc870",
+    "definition": "\uc7a1\uc744"
+  },
+  "\u689d": {
+    "hangeul": "\uc870",
+    "definition": "\uac00\uc9c0"
+  },
+  "\u6f6e": {
+    "hangeul": "\uc870",
+    "definition": "\uc870\uc218"
+  },
+  "\u7167": {
+    "hangeul": "\uc870",
+    "definition": "\ube44\ucd9c"
+  },
+  "\u71e5": {
+    "hangeul": "\uc870",
+    "definition": "\ub9c8\ub97c"
+  },
+  "\u79df": {
+    "hangeul": "\uc870",
+    "definition": "\uc138\uae08"
+  },
+  "\u7d44": {
+    "hangeul": "\uc870",
+    "definition": "\ub048"
+  },
+  "\u65cf": {
+    "hangeul": "\uc871",
+    "definition": "\uaca8\ub808"
+  },
+  "\u8db3": {
+    "hangeul": "\uc871",
+    "definition": "\ubc1c"
+  },
+  "\u5b58": {
+    "hangeul": "\uc874",
+    "definition": "\uc788\uc744"
+  },
+  "\u5c0a": {
+    "hangeul": "\uc874",
+    "definition": "\ub192\uc744"
+  },
+  "\u5352": {
+    "hangeul": "\uc878",
+    "definition": "\uad70\uc0ac"
+  },
+  "\u62d9": {
+    "hangeul": "\uc878",
+    "definition": "\uc878\ud560"
+  },
+  "\u5b97": {
+    "hangeul": "\uc885",
+    "definition": "\ub9c8\ub8e8"
+  },
+  "\u5f9e": {
+    "hangeul": "\uc885",
+    "definition": "\uc887\uc744"
+  },
+  "\u7a2e": {
+    "hangeul": "\uc885",
+    "definition": "\uc528"
+  },
+  "\u7d42": {
+    "hangeul": "\uc885",
+    "definition": "\ub05d\ub0a0"
+  },
+  "\u9418": {
+    "hangeul": "\uc885",
+    "definition": "\uc885"
+  },
+  "\u7e31": {
+    "hangeul": "\uc885",
+    "definition": "\ub298\uc5b4\uc9c8"
+  },
+  "\u5750": {
+    "hangeul": "\uc88c",
+    "definition": "\uc549\uc744"
+  },
+  "\u5de6": {
+    "hangeul": "\uc88c",
+    "definition": "\uc67c"
+  },
+  "\u4f50": {
+    "hangeul": "\uc88c",
+    "definition": "\ub3c4\uc6b8"
+  },
+  "\u5ea7": {
+    "hangeul": "\uc88c",
+    "definition": "\uc790\ub9ac"
+  },
+  "\u7f6a": {
+    "hangeul": "\uc8c4",
+    "definition": "\ud5c8\ubb3c"
+  },
+  "\u4e3b": {
+    "hangeul": "\uc8fc",
+    "definition": "\uc8fc\uc778"
+  },
+  "\u4f4f": {
+    "hangeul": "\uc8fc",
+    "definition": "\uc0b4"
+  },
+  "\u5b99": {
+    "hangeul": "\uc8fc",
+    "definition": "\uc9d1"
+  },
+  "\u665d": {
+    "hangeul": "\uc8fc",
+    "definition": "\ub0ae"
+  },
+  "\u6731": {
+    "hangeul": "\uc8fc",
+    "definition": "\ubd89\uc744"
+  },
+  "\u6ce8": {
+    "hangeul": "\uc8fc",
+    "definition": "\ubb3c\ub308"
+  },
+  "\u8d70": {
+    "hangeul": "\uc8fc",
+    "definition": "\ub2ec\ub9b4"
+  },
+  "\u9152": {
+    "hangeul": "\uc8fc",
+    "definition": "\uc220"
+  },
+  "\u5468": {
+    "hangeul": "\uc8fc",
+    "definition": "\ub450\ub8e8"
+  },
+  "\u594f": {
+    "hangeul": "\uc8fc",
+    "definition": "\uc544\ub8b8"
+  },
+  "\u5dde": {
+    "hangeul": "\uc8fc",
+    "definition": "\uace0\uc744"
+  },
+  "\u67f1": {
+    "hangeul": "\uc8fc",
+    "definition": "\uae30\ub465"
+  },
+  "\u682a": {
+    "hangeul": "\uc8fc",
+    "definition": "\uadf8\ub8e8"
+  },
+  "\u6d32": {
+    "hangeul": "\uc8fc",
+    "definition": "\uc12c"
+  },
+  "\u73e0": {
+    "hangeul": "\uc8fc",
+    "definition": "\uad6c\uc2ac"
+  },
+  "\u821f": {
+    "hangeul": "\uc8fc",
+    "definition": "\ubc30"
+  },
+  "\u9444": {
+    "hangeul": "\uc8fc",
+    "definition": "\ubd80\uc5b4 \ub9cc\ub4e4"
+  },
+  "\u7af9": {
+    "hangeul": "\uc8fd",
+    "definition": "\ub300"
+  },
+  "\u4fca": {
+    "hangeul": "\uc900",
+    "definition": "\uc900\uac78"
+  },
+  "\u6e96": {
+    "hangeul": "\uc900",
+    "definition": "\ubc95\ub3c4"
+  },
+  "\u9075": {
+    "hangeul": "\uc900",
+    "definition": "\uc887\uc744"
+  },
+  "\u4e2d": {
+    "hangeul": "\uc911",
+    "definition": "\uac00\uc6b4\ub370"
+  },
+  "\u8846": {
+    "hangeul": "\uc911",
+    "definition": "\ubb34\ub9ac"
+  },
+  "\u91cd": {
+    "hangeul": "\uc911",
+    "definition": "\ubb34\uac70\uc6b8"
+  },
+  "\u4ef2": {
+    "hangeul": "\uc911",
+    "definition": "\ubc84\uae08"
+  },
+  "\u537d": {
+    "hangeul": "\uc989",
+    "definition": "\uace7"
+  },
+  "\u589e": {
+    "hangeul": "\uc99d",
+    "definition": "\ub354\ud560"
+  },
+  "\u66fe": {
+    "hangeul": "\uc99d",
+    "definition": "\uc77c\ucc0d"
+  },
+  "\u8b49": {
+    "hangeul": "\uc99d",
+    "definition": "\uc99d\uac70"
+  },
+  "\u618e": {
+    "hangeul": "\uc99d",
+    "definition": "\ubbf8\uc6cc\ud560"
+  },
+  "\u75c7": {
+    "hangeul": "\uc99d",
+    "definition": "\uc99d\uc138"
+  },
+  "\u84b8": {
+    "hangeul": "\uc99d",
+    "definition": "\ucc14"
+  },
+  "\u8d08": {
+    "hangeul": "\uc99d",
+    "definition": "\ubcf4\ub0bc"
+  },
+  "\u4e4b": {
+    "hangeul": "\uc9c0",
+    "definition": "\uac08"
+  },
+  "\u53ea": {
+    "hangeul": "\uc9c0",
+    "definition": "\ub2e4\ub9cc"
+  },
+  "\u5730": {
+    "hangeul": "\uc9c0",
+    "definition": "\ub545"
+  },
+  "\u5fd7": {
+    "hangeul": "\uc9c0",
+    "definition": "\ub73b"
+  },
+  "\u6301": {
+    "hangeul": "\uc9c0",
+    "definition": "\uac00\uc9c8"
+  },
+  "\u6307": {
+    "hangeul": "\uc9c0",
+    "definition": "\uc190\uac00\ub77d"
+  },
+  "\u652f": {
+    "hangeul": "\uc9c0",
+    "definition": "\uc9c0\ud0f1\ud560"
+  },
+  "\u679d": {
+    "hangeul": "\uc9c0",
+    "definition": "\uac00\uc9c0"
+  },
+  "\u6b62": {
+    "hangeul": "\uc9c0",
+    "definition": "\uadf8\uce60"
+  },
+  "\u77e5": {
+    "hangeul": "\uc9c0",
+    "definition": "\uc54c"
+  },
+  "\u7d19": {
+    "hangeul": "\uc9c0",
+    "definition": "\uc885\uc774"
+  },
+  "\u81f3": {
+    "hangeul": "\uc9c0",
+    "definition": "\uc774\ub97c"
+  },
+  "\u667a": {
+    "hangeul": "\uc9c0",
+    "definition": "\uc9c0\ud61c"
+  },
+  "\u6c60": {
+    "hangeul": "\uc9c0",
+    "definition": "\ubabb"
+  },
+  "\u8a8c": {
+    "hangeul": "\uc9c0",
+    "definition": "\uae30\ub85d\ud560"
+  },
+  "\u9072": {
+    "hangeul": "\uc9c0",
+    "definition": "\ub2a6\uc744"
+  },
+  "\u76f4": {
+    "hangeul": "\uc9c1",
+    "definition": "\uace7\uc744"
+  },
+  "\u7e54": {
+    "hangeul": "\uc9c1",
+    "definition": "\uc9e4"
+  },
+  "\u8077": {
+    "hangeul": "\uc9c1",
+    "definition": "\ubcbc\uc2ac"
+  },
+  "\u76e1": {
+    "hangeul": "\uc9c4",
+    "definition": "\ub2e4\ud560"
+  },
+  "\u771e": {
+    "hangeul": "\uc9c4",
+    "definition": "\ucc38"
+  },
+  "\u8fb0": {
+    "hangeul": "\uc9c4",
+    "definition": "\ubcc4"
+  },
+  "\u9032": {
+    "hangeul": "\uc9c4",
+    "definition": "\ub098\uc544\uac08"
+  },
+  "\u632f": {
+    "hangeul": "\uc9c4",
+    "definition": "\ub5a8\uce60"
+  },
+  "\u73cd": {
+    "hangeul": "\uc9c4",
+    "definition": "\ubcf4\ubc30"
+  },
+  "\u93ad": {
+    "hangeul": "\uc9c4",
+    "definition": "\uc9c4\uc555\ud560"
+  },
+  "\u9663": {
+    "hangeul": "\uc9c4",
+    "definition": "\uc9c4\uce60"
+  },
+  "\u9673": {
+    "hangeul": "\uc9c4",
+    "definition": "\ubca0\ud480"
+  },
+  "\u9707": {
+    "hangeul": "\uc9c4",
+    "definition": "\uc9c4\ub3d9\ud560"
+  },
+  "\u8cea": {
+    "hangeul": "\uc9c8",
+    "definition": "\ubc14\ud0d5"
+  },
+  "\u59ea": {
+    "hangeul": "\uc9c8",
+    "definition": "\uc870\uce74"
+  },
+  "\u75be": {
+    "hangeul": "\uc9c8",
+    "definition": "\ubcd1"
+  },
+  "\u79e9": {
+    "hangeul": "\uc9c8",
+    "definition": "\ucc28\ub840"
+  },
+  "\u57f7": {
+    "hangeul": "\uc9d1",
+    "definition": "\uc7a1\uc744"
+  },
+  "\u96c6": {
+    "hangeul": "\uc9d1",
+    "definition": "\ubaa8\uc77c"
+  },
+  "\u5fb5": {
+    "hangeul": "\uc9d5",
+    "definition": "\ubd80\ub97c"
+  },
+  "\u61f2": {
+    "hangeul": "\uc9d5",
+    "definition": "\ud63c\ub0a0"
+  },
+  "\u4e14": {
+    "hangeul": "\ucc28",
+    "definition": "\ub610"
+  },
+  "\u501f": {
+    "hangeul": "\ucc28",
+    "definition": "\ube4c"
+  },
+  "\u6b21": {
+    "hangeul": "\ucc28",
+    "definition": "\ubc84\uae08"
+  },
+  "\u6b64": {
+    "hangeul": "\ucc28",
+    "definition": "\uc774"
+  },
+  "\u5dee": {
+    "hangeul": "\ucc28",
+    "definition": "\uc5b4\uae0b\ub0a0"
+  },
+  "\u7740": {
+    "hangeul": "\ucc29",
+    "definition": "\ubd99\uc744"
+  },
+  "\u6349": {
+    "hangeul": "\ucc29",
+    "definition": "\uc7a1\uc744"
+  },
+  "\u932f": {
+    "hangeul": "\ucc29",
+    "definition": "\uc11e\uc77c"
+  },
+  "\u8b9a": {
+    "hangeul": "\ucc2c",
+    "definition": "\uae30\ub9b4"
+  },
+  "\u8d0a": {
+    "hangeul": "\ucc2c",
+    "definition": "\ub3c4\uc6b8"
+  },
+  "\u5bdf": {
+    "hangeul": "\ucc30",
+    "definition": "\uc0b4\ud544"
+  },
+  "\u53c3": {
+    "hangeul": "\ucc38",
+    "definition": "\uac04\uc5ec\ud560"
+  },
+  "\u6158": {
+    "hangeul": "\ucc38",
+    "definition": "\ucc38\ud639\ud560"
+  },
+  "\u6159": {
+    "hangeul": "\ucc38",
+    "definition": "\ubd80\ub044\ub7ec\uc6b8"
+  },
+  "\u5531": {
+    "hangeul": "\ucc3d",
+    "definition": "\ub178\ub798"
+  },
+  "\u660c": {
+    "hangeul": "\ucc3d",
+    "definition": "\ucc3d\uc131\ud560"
+  },
+  "\u7a93": {
+    "hangeul": "\ucc3d",
+    "definition": "\ucc3d"
+  },
+  "\u5009": {
+    "hangeul": "\ucc3d",
+    "definition": "\uacf3\uc9d1"
+  },
+  "\u5275": {
+    "hangeul": "\ucc3d",
+    "definition": "\ube44\ub86f\ud560"
+  },
+  "\u66a2": {
+    "hangeul": "\ucc3d",
+    "definition": "\ud3bc"
+  },
+  "\u84bc": {
+    "hangeul": "\ucc3d",
+    "definition": "\ud478\ub97c"
+  },
+  "\u63a1": {
+    "hangeul": "\ucc44",
+    "definition": "\uce98"
+  },
+  "\u83dc": {
+    "hangeul": "\ucc44",
+    "definition": "\ub098\ubb3c"
+  },
+  "\u50b5": {
+    "hangeul": "\ucc44",
+    "definition": "\ube5a"
+  },
+  "\u5f69": {
+    "hangeul": "\ucc44",
+    "definition": "\ubb34\ub2ac"
+  },
+  "\u518a": {
+    "hangeul": "\ucc45",
+    "definition": "\ucc45"
+  },
+  "\u8cac": {
+    "hangeul": "\ucc45",
+    "definition": "\uafb8\uc9d6\uc744"
+  },
+  "\u7b56": {
+    "hangeul": "\ucc45",
+    "definition": "\uaf80"
+  },
+  "\u59bb": {
+    "hangeul": "\ucc98",
+    "definition": "\uc544\ub0b4"
+  },
+  "\u8655": {
+    "hangeul": "\ucc98",
+    "definition": "\uacf3"
+  },
+  "\u5c3a": {
+    "hangeul": "\ucc99",
+    "definition": "\uc790"
+  },
+  "\u621a": {
+    "hangeul": "\ucc99",
+    "definition": "\uaca8\ub808"
+  },
+  "\u62d3": {
+    "hangeul": "\ucc99",
+    "definition": "\uc5f4"
+  },
+  "\u65a5": {
+    "hangeul": "\ucc99",
+    "definition": "\ubb3c\ub9ac\uce60"
+  },
+  "\u5343": {
+    "hangeul": "\ucc9c",
+    "definition": "\uc77c\ucc9c"
+  },
+  "\u5929": {
+    "hangeul": "\ucc9c",
+    "definition": "\ud558\ub298"
+  },
+  "\u5ddd": {
+    "hangeul": "\ucc9c",
+    "definition": "\ub0b4"
+  },
+  "\u6cc9": {
+    "hangeul": "\ucc9c",
+    "definition": "\uc0d8"
+  },
+  "\u6dfa": {
+    "hangeul": "\ucc9c",
+    "definition": "\uc595\uc744"
+  },
+  "\u85a6": {
+    "hangeul": "\ucc9c",
+    "definition": "\ucc9c\uac70\ud560"
+  },
+  "\u8ce4": {
+    "hangeul": "\ucc9c",
+    "definition": "\ucc9c\ud560"
+  },
+  "\u8e10": {
+    "hangeul": "\ucc9c",
+    "definition": "\ubc1f\uc744"
+  },
+  "\u9077": {
+    "hangeul": "\ucc9c",
+    "definition": "\uc62e\uae38"
+  },
+  "\u9435": {
+    "hangeul": "\ucca0",
+    "definition": "\uc1e0"
+  },
+  "\u54f2": {
+    "hangeul": "\ucca0",
+    "definition": "\ubc1d\uc744"
+  },
+  "\u5fb9": {
+    "hangeul": "\ucca0",
+    "definition": "\ub6ab\uc744"
+  },
+  "\u5c16": {
+    "hangeul": "\ucca8",
+    "definition": "\ubfb0\uc871\ud560"
+  },
+  "\u6dfb": {
+    "hangeul": "\ucca8",
+    "definition": "\ub354\ud560"
+  },
+  "\u59be": {
+    "hangeul": "\ucca9",
+    "definition": "\ucca9"
+  },
+  "\u6674": {
+    "hangeul": "\uccad",
+    "definition": "\uac24"
+  },
+  "\u6df8": {
+    "hangeul": "\uccad",
+    "definition": "\ub9d1\uc744"
+  },
+  "\u807d": {
+    "hangeul": "\uccad",
+    "definition": "\ub4e4\uc744"
+  },
+  "\u8acb": {
+    "hangeul": "\uccad",
+    "definition": "\uccad\ud560"
+  },
+  "\u9751": {
+    "hangeul": "\uccad",
+    "definition": "\ud478\ub97c"
+  },
+  "\u5ef3": {
+    "hangeul": "\uccad",
+    "definition": "\uad00\uccad"
+  },
+  "\u9ad4": {
+    "hangeul": "\uccb4",
+    "definition": "\ubab8"
+  },
+  "\u66ff": {
+    "hangeul": "\uccb4",
+    "definition": "\ubc14\uafc0"
+  },
+  "\u6eef": {
+    "hangeul": "\uccb4",
+    "definition": "\ub9c9\ud790"
+  },
+  "\u902e": {
+    "hangeul": "\uccb4",
+    "definition": "\uc7a1\uc744"
+  },
+  "\u905e": {
+    "hangeul": "\uccb4",
+    "definition": "\uac08\ub9c8\ub4e4"
+  },
+  "\u521d": {
+    "hangeul": "\ucd08",
+    "definition": "\ucc98\uc74c"
+  },
+  "\u62db": {
+    "hangeul": "\ucd08",
+    "definition": "\ubd80\ub97c"
+  },
+  "\u8349": {
+    "hangeul": "\ucd08",
+    "definition": "\ud480"
+  },
+  "\u6284": {
+    "hangeul": "\ucd08",
+    "definition": "\ubca0\ub084"
+  },
+  "\u790e": {
+    "hangeul": "\ucd08",
+    "definition": "\uc8fc\ucda7\ub3cc"
+  },
+  "\u79d2": {
+    "hangeul": "\ucd08",
+    "definition": "\ucd08"
+  },
+  "\u8096": {
+    "hangeul": "\ucd08",
+    "definition": "\ub2ee\uc744"
+  },
+  "\u8d85": {
+    "hangeul": "\ucd08",
+    "definition": "\ub118\uc744"
+  },
+  "\u4fc3": {
+    "hangeul": "\ucd09",
+    "definition": "\uc7ac\ucd09\ud560"
+  },
+  "\u71ed": {
+    "hangeul": "\ucd09",
+    "definition": "\ucd1b\ubd88"
+  },
+  "\u89f8": {
+    "hangeul": "\ucd09",
+    "definition": "\ub2ff\uc744"
+  },
+  "\u5bf8": {
+    "hangeul": "\ucd0c",
+    "definition": "\ub9c8\ub514"
+  },
+  "\u6751": {
+    "hangeul": "\ucd0c",
+    "definition": "\ub9c8\uc744"
+  },
+  "\u7e3d": {
+    "hangeul": "\ucd1d",
+    "definition": "\uac70\ub290\ub9b4"
+  },
+  "\u8070": {
+    "hangeul": "\ucd1d",
+    "definition": "\ucd1d\uba85\ud560"
+  },
+  "\u9283": {
+    "hangeul": "\ucd1d",
+    "definition": "\ucd1d"
+  },
+  "\u6700": {
+    "hangeul": "\ucd5c",
+    "definition": "\uac00\uc7a5"
+  },
+  "\u50ac": {
+    "hangeul": "\ucd5c",
+    "definition": "\uc7ac\ucd09\ud560"
+  },
+  "\u63a8": {
+    "hangeul": "\ucd94",
+    "definition": "\ubc00"
+  },
+  "\u79cb": {
+    "hangeul": "\ucd94",
+    "definition": "\uac00\uc744"
+  },
+  "\u8ffd": {
+    "hangeul": "\ucd94",
+    "definition": "\ucad3\uc744"
+  },
+  "\u62bd": {
+    "hangeul": "\ucd94",
+    "definition": "\ubf51\uc744"
+  },
+  "\u919c": {
+    "hangeul": "\ucd94",
+    "definition": "\ucd94\ud560"
+  },
+  "\u4e11": {
+    "hangeul": "\ucd95",
+    "definition": "\uc18c"
+  },
+  "\u795d": {
+    "hangeul": "\ucd95",
+    "definition": "\ube4c"
+  },
+  "\u755c": {
+    "hangeul": "\ucd95",
+    "definition": "\uac00\ucd95"
+  },
+  "\u7bc9": {
+    "hangeul": "\ucd95",
+    "definition": "\uc313\uc744"
+  },
+  "\u7e2e": {
+    "hangeul": "\ucd95",
+    "definition": "\ub2e4\uc2a4\ub9b4"
+  },
+  "\u84c4": {
+    "hangeul": "\ucd95",
+    "definition": "\uc313\uc744"
+  },
+  "\u9010": {
+    "hangeul": "\ucd95",
+    "definition": "\ucad3\uc744"
+  },
+  "\u6625": {
+    "hangeul": "\ucd98",
+    "definition": "\ubd04"
+  },
+  "\u51fa": {
+    "hangeul": "\ucd9c",
+    "definition": "\ub0a0"
+  },
+  "\u5145": {
+    "hangeul": "\ucda9",
+    "definition": "\ucc30"
+  },
+  "\u5fe0": {
+    "hangeul": "\ucda9",
+    "definition": "\ucda9\uc131"
+  },
+  "\u87f2": {
+    "hangeul": "\ucda9",
+    "definition": "\ubc8c\ub808"
+  },
+  "\u885d": {
+    "hangeul": "\ucda9",
+    "definition": "\ucc0c\ub97c"
+  },
+  "\u53d6": {
+    "hangeul": "\ucde8",
+    "definition": "\ucde8\ud560"
+  },
+  "\u5439": {
+    "hangeul": "\ucde8",
+    "definition": "\ubd88"
+  },
+  "\u5c31": {
+    "hangeul": "\ucde8",
+    "definition": "\uc774\ub8f0"
+  },
+  "\u81ed": {
+    "hangeul": "\ucde8",
+    "definition": "\ub0c4\uc0c8"
+  },
+  "\u8da3": {
+    "hangeul": "\ucde8",
+    "definition": "\ub2ec\ub9b4"
+  },
+  "\u9189": {
+    "hangeul": "\ucde8",
+    "definition": "\ucde8\ud560"
+  },
+  "\u5074": {
+    "hangeul": "\uce21",
+    "definition": "\uacc1"
+  },
+  "\u6e2c": {
+    "hangeul": "\uce21",
+    "definition": "\uc7b4"
+  },
+  "\u5c64": {
+    "hangeul": "\uce35",
+    "definition": "\uce35"
+  },
+  "\u6cbb": {
+    "hangeul": "\uce58",
+    "definition": "\ub2e4\uc2a4\ub9b4"
+  },
+  "\u81f4": {
+    "hangeul": "\uce58",
+    "definition": "\ubcf4\ub0bc"
+  },
+  "\u9f52": {
+    "hangeul": "\uce58",
+    "definition": "\uc774"
+  },
+  "\u5024": {
+    "hangeul": "\uce58",
+    "definition": "\uac12"
+  },
+  "\u6065": {
+    "hangeul": "\uce58",
+    "definition": "\ubd80\ub044\ub7ec\uc6cc\ud560"
+  },
+  "\u7f6e": {
+    "hangeul": "\uce58",
+    "definition": "\ub458"
+  },
+  "\u5247": {
+    "hangeul": "\uce59",
+    "definition": "\ubc95\uce59"
+  },
+  "\u89aa": {
+    "hangeul": "\uce5c",
+    "definition": "\uce5c\ud560"
+  },
+  "\u4e03": {
+    "hangeul": "\uce60",
+    "definition": "\uc77c\uacf1"
+  },
+  "\u6f06": {
+    "hangeul": "\uce60",
+    "definition": "\uc63b"
+  },
+  "\u91dd": {
+    "hangeul": "\uce68",
+    "definition": "\ubc14\ub298"
+  },
+  "\u4fb5": {
+    "hangeul": "\uce68",
+    "definition": "\uce68\ub178\ud560"
+  },
+  "\u5be2": {
+    "hangeul": "\uce68",
+    "definition": "\uc7a0\uc798"
+  },
+  "\u6795": {
+    "hangeul": "\uce68",
+    "definition": "\ubca0\uac1c"
+  },
+  "\u6c88": {
+    "hangeul": "\uce68",
+    "definition": "\uac00\ub77c\uc549\uc744"
+  },
+  "\u6d78": {
+    "hangeul": "\uce68",
+    "definition": "\ub2f4\uae00"
+  },
+  "\u7a31": {
+    "hangeul": "\uce6d",
+    "definition": "\uc77c\uceec\uc744"
+  },
+  "\u5feb": {
+    "hangeul": "\ucf8c",
+    "definition": "\ucf8c\ud560"
+  },
+  "\u4ed6": {
+    "hangeul": "\ud0c0",
+    "definition": "\ub2e4\ub97c"
+  },
+  "\u6253": {
+    "hangeul": "\ud0c0",
+    "definition": "\uce60"
+  },
+  "\u58ae": {
+    "hangeul": "\ud0c0",
+    "definition": "\ub5a8\uc5b4\uc9c8"
+  },
+  "\u59a5": {
+    "hangeul": "\ud0c0",
+    "definition": "\uc628\ub2f9\ud560"
+  },
+  "\u5353": {
+    "hangeul": "\ud0c1",
+    "definition": "\ub192\uc744"
+  },
+  "\u6258": {
+    "hangeul": "\ud0c1",
+    "definition": "\ubc00"
+  },
+  "\u6fc1": {
+    "hangeul": "\ud0c1",
+    "definition": "\ud750\ub9b4"
+  },
+  "\u6fef": {
+    "hangeul": "\ud0c1",
+    "definition": "\uc53b\uc744"
+  },
+  "\u5f48": {
+    "hangeul": "\ud0c4",
+    "definition": "\ud0c4\uc54c"
+  },
+  "\u6b4e": {
+    "hangeul": "\ud0c4",
+    "definition": "\ud0c4\uc2dd\ud560"
+  },
+  "\u70ad": {
+    "hangeul": "\ud0c4",
+    "definition": "\uc22f"
+  },
+  "\u8a95": {
+    "hangeul": "\ud0c4",
+    "definition": "\ud0dc\uc5b4\ub0a0"
+  },
+  "\u812b": {
+    "hangeul": "\ud0c8",
+    "definition": "\ubc97\uc744"
+  },
+  "\u596a": {
+    "hangeul": "\ud0c8",
+    "definition": "\ube7c\uc557\uc744"
+  },
+  "\u63a2": {
+    "hangeul": "\ud0d0",
+    "definition": "\ucc3e\uc744"
+  },
+  "\u8caa": {
+    "hangeul": "\ud0d0",
+    "definition": "\ud0d0\ud560"
+  },
+  "\u5854": {
+    "hangeul": "\ud0d1",
+    "definition": "\ud0d1"
+  },
+  "\u6e6f": {
+    "hangeul": "\ud0d5",
+    "definition": "\ub053\uc77c"
+  },
+  "\u592a": {
+    "hangeul": "\ud0dc",
+    "definition": "\ud074"
+  },
+  "\u6cf0": {
+    "hangeul": "\ud0dc",
+    "definition": "\ud074"
+  },
+  "\u6020": {
+    "hangeul": "\ud0dc",
+    "definition": "\uac8c\uc73c\ub984"
+  },
+  "\u614b": {
+    "hangeul": "\ud0dc",
+    "definition": "\ubaa8\uc591"
+  },
+  "\u6b86": {
+    "hangeul": "\ud0dc",
+    "definition": "\uc704\ud0dc\ud560"
+  },
+  "\u5b85": {
+    "hangeul": "\ud0dd",
+    "definition": "\uc9d1"
+  },
+  "\u64c7": {
+    "hangeul": "\ud0dd",
+    "definition": "\uac00\ub9b4"
+  },
+  "\u6fa4": {
+    "hangeul": "\ud0dd",
+    "definition": "\ubabb"
+  },
+  "\u571f": {
+    "hangeul": "\ud1a0",
+    "definition": "\ud759"
+  },
+  "\u5410": {
+    "hangeul": "\ud1a0",
+    "definition": "\ud1a0\ud560"
+  },
+  "\u8a0e": {
+    "hangeul": "\ud1a0",
+    "definition": "\uce60"
+  },
+  "\u7d71": {
+    "hangeul": "\ud1b5",
+    "definition": "\ud070 \uc904\uae30"
+  },
+  "\u901a": {
+    "hangeul": "\ud1b5",
+    "definition": "\ud1b5\ud560"
+  },
+  "\u75db": {
+    "hangeul": "\ud1b5",
+    "definition": "\uc544\ud50c"
+  },
+  "\u9000": {
+    "hangeul": "\ud1f4",
+    "definition": "\ubb3c\ub7ec\ub0a0"
+  },
+  "\u6295": {
+    "hangeul": "\ud22c",
+    "definition": "\ub358\uc9c8"
+  },
+  "\u900f": {
+    "hangeul": "\ud22c",
+    "definition": "\ud1b5\ud560"
+  },
+  "\u9b2a": {
+    "hangeul": "\ud22c",
+    "definition": "\uc2f8\uc6c0"
+  },
+  "\u7279": {
+    "hangeul": "\ud2b9",
+    "definition": "\uc218\ucef7"
+  },
+  "\u6ce2": {
+    "hangeul": "\ud30c",
+    "definition": "\ubb3c\uacb0"
+  },
+  "\u7834": {
+    "hangeul": "\ud30c",
+    "definition": "\uae68\ub728\ub9b4"
+  },
+  "\u628a": {
+    "hangeul": "\ud30c",
+    "definition": "\uc7a1\uc744"
+  },
+  "\u64ad": {
+    "hangeul": "\ud30c",
+    "definition": "\ubfcc\ub9b4"
+  },
+  "\u6d3e": {
+    "hangeul": "\ud30c",
+    "definition": "\ubb3c \uac08\ub798"
+  },
+  "\u7f77": {
+    "hangeul": "\ud30c",
+    "definition": "\ubc29\uba74\ud560"
+  },
+  "\u9817": {
+    "hangeul": "\ud30c",
+    "definition": "\uc790\ubabb"
+  },
+  "\u5224": {
+    "hangeul": "\ud310",
+    "definition": "\ud310\uac00\ub984\ud560"
+  },
+  "\u677f": {
+    "hangeul": "\ud310",
+    "definition": "\ub110\ube64\uc9c0"
+  },
+  "\u7248": {
+    "hangeul": "\ud310",
+    "definition": "\ud310\ubaa9"
+  },
+  "\u8ca9": {
+    "hangeul": "\ud310",
+    "definition": "\ud314"
+  },
+  "\u516b": {
+    "hangeul": "\ud314",
+    "definition": "\uc5ec\ub35f"
+  },
+  "\u6557": {
+    "hangeul": "\ud328",
+    "definition": "\ud328\ud560"
+  },
+  "\u8c9d": {
+    "hangeul": "\ud328",
+    "definition": "\uc870\uac1c"
+  },
+  "\u4fbf": {
+    "hangeul": "\ud3b8",
+    "definition": "\ud3b8\ud560"
+  },
+  "\u7247": {
+    "hangeul": "\ud3b8",
+    "definition": "\uc870\uac01"
+  },
+  "\u7bc7": {
+    "hangeul": "\ud3b8",
+    "definition": "\ucc45"
+  },
+  "\u504f": {
+    "hangeul": "\ud3b8",
+    "definition": "\uce58\uc6b0\uce60"
+  },
+  "\u7de8": {
+    "hangeul": "\ud3b8",
+    "definition": "\uc5ee\uc744"
+  },
+  "\u904d": {
+    "hangeul": "\ud3b8",
+    "definition": "\ub450\ub8e8"
+  },
+  "\u5e73": {
+    "hangeul": "\ud3c9",
+    "definition": "\ud3c9\ud3c9\ud560"
+  },
+  "\u8a55": {
+    "hangeul": "\ud3c9",
+    "definition": "\ud3c9\ub860\ud560"
+  },
+  "\u9589": {
+    "hangeul": "\ud3d0",
+    "definition": "\ub2eb\uc744"
+  },
+  "\u5e63": {
+    "hangeul": "\ud3d0",
+    "definition": "\ube44\ub2e8"
+  },
+  "\u5ee2": {
+    "hangeul": "\ud3d0",
+    "definition": "\ud3d0\ud560"
+  },
+  "\u5f0a": {
+    "hangeul": "\ud3d0",
+    "definition": "\ud3d0\ub2e8"
+  },
+  "\u80ba": {
+    "hangeul": "\ud3d0",
+    "definition": "\ud5c8\ud30c"
+  },
+  "\u853d": {
+    "hangeul": "\ud3d0",
+    "definition": "\ub36e\uc744"
+  },
+  "\u5e03": {
+    "hangeul": "\ud3ec",
+    "definition": "\ubca0"
+  },
+  "\u62b1": {
+    "hangeul": "\ud3ec",
+    "definition": "\uc548\uc744"
+  },
+  "\u5305": {
+    "hangeul": "\ud3ec",
+    "definition": "\uc300"
+  },
+  "\u6355": {
+    "hangeul": "\ud3ec",
+    "definition": "\uc0ac\ub85c\uc7a1\uc744"
+  },
+  "\u6d66": {
+    "hangeul": "\ud3ec",
+    "definition": "\ubb3c\uac00"
+  },
+  "\u80de": {
+    "hangeul": "\ud3ec",
+    "definition": "\ud0dc\ubcf4"
+  },
+  "\u98fd": {
+    "hangeul": "\ud3ec",
+    "definition": "\ubc30\ubd80\ub97c"
+  },
+  "\u66b4": {
+    "hangeul": "\ud3ed",
+    "definition": "\uc0ac\ub098\uc6b8"
+  },
+  "\u5e45": {
+    "hangeul": "\ud3ed",
+    "definition": "\ub108\ube44"
+  },
+  "\u7206": {
+    "hangeul": "\ud3ed",
+    "definition": "\ud130\uc9c8"
+  },
+  "\u8868": {
+    "hangeul": "\ud45c",
+    "definition": "\uac89"
+  },
+  "\u6a19": {
+    "hangeul": "\ud45c",
+    "definition": "\ud45c"
+  },
+  "\u6f02": {
+    "hangeul": "\ud45c",
+    "definition": "\ub5a0\ub3cc"
+  },
+  "\u7968": {
+    "hangeul": "\ud45c",
+    "definition": "\ud45c"
+  },
+  "\u54c1": {
+    "hangeul": "\ud488",
+    "definition": "\ubb3c\uac74"
+  },
+  "\u8c50": {
+    "hangeul": "\ud48d",
+    "definition": "\ud48d\ub144"
+  },
+  "\u98a8": {
+    "hangeul": "\ud48d",
+    "definition": "\ubc14\ub78c"
+  },
+  "\u5f7c": {
+    "hangeul": "\ud53c",
+    "definition": "\uc800"
+  },
+  "\u76ae": {
+    "hangeul": "\ud53c",
+    "definition": "\uac00\uc8fd"
+  },
+  "\u75b2": {
+    "hangeul": "\ud53c",
+    "definition": "\uc9c0\uce60"
+  },
+  "\u88ab": {
+    "hangeul": "\ud53c",
+    "definition": "\uc774\ubd88"
+  },
+  "\u907f": {
+    "hangeul": "\ud53c",
+    "definition": "\ud53c\ud560"
+  },
+  "\u5339": {
+    "hangeul": "\ud544",
+    "definition": "\uc9dd"
+  },
+  "\u5fc5": {
+    "hangeul": "\ud544",
+    "definition": "\ubc18\ub4dc\uc2dc"
+  },
+  "\u7b46": {
+    "hangeul": "\ud544",
+    "definition": "\ubd93"
+  },
+  "\u7562": {
+    "hangeul": "\ud544",
+    "definition": "\ub9c8\uce60"
+  },
+  "\u4e0b": {
+    "hangeul": "\ud558",
+    "definition": "\uc544\ub798"
+  },
+  "\u4f55": {
+    "hangeul": "\ud558",
+    "definition": "\uc5b4\ucc0c"
+  },
+  "\u590f": {
+    "hangeul": "\ud558",
+    "definition": "\uc5ec\ub984"
+  },
+  "\u6cb3": {
+    "hangeul": "\ud558",
+    "definition": "\ubb3c"
+  },
+  "\u8cc0": {
+    "hangeul": "\ud558",
+    "definition": "\ud558\ub840"
+  },
+  "\u8377": {
+    "hangeul": "\ud558",
+    "definition": "\uc5f0"
+  },
+  "\u5b78": {
+    "hangeul": "\ud559",
+    "definition": "\ubc30\uc6b8"
+  },
+  "\u9db4": {
+    "hangeul": "\ud559",
+    "definition": "\ud559"
+  },
+  "\u5bd2": {
+    "hangeul": "\ud55c",
+    "definition": "\ucc30"
+  },
+  "\u6068": {
+    "hangeul": "\ud55c",
+    "definition": "\ud55c\ud560"
+  },
+  "\u6f22": {
+    "hangeul": "\ud55c",
+    "definition": "\ud55c\uc218"
+  },
+  "\u9591": {
+    "hangeul": "\ud55c",
+    "definition": "\ub9c9\uc744"
+  },
+  "\u9650": {
+    "hangeul": "\ud55c",
+    "definition": "\ud55c\uacc4"
+  },
+  "\u97d3": {
+    "hangeul": "\ud55c",
+    "definition": "\ub098\ub77c \uc774\ub984"
+  },
+  "\u65f1": {
+    "hangeul": "\ud55c",
+    "definition": "\uac00\ubb3c"
+  },
+  "\u6c57": {
+    "hangeul": "\ud55c",
+    "definition": "\ub540"
+  },
+  "\u5272": {
+    "hangeul": "\ud560",
+    "definition": "\ub098\ub20c"
+  },
+  "\u542b": {
+    "hangeul": "\ud568",
+    "definition": "\uba38\uae08\uc744"
+  },
+  "\u54b8": {
+    "hangeul": "\ud568",
+    "definition": "\ub2e4"
+  },
+  "\u9677": {
+    "hangeul": "\ud568",
+    "definition": "\ube60\uc9c8"
+  },
+  "\u5408": {
+    "hangeul": "\ud569",
+    "definition": "\ud569\ud560"
+  },
+  "\u6052": {
+    "hangeul": "\ud56d",
+    "definition": "\ud56d\uc0c1"
+  },
+  "\u5df7": {
+    "hangeul": "\ud56d",
+    "definition": "\uac70\ub9ac"
+  },
+  "\u6297": {
+    "hangeul": "\ud56d",
+    "definition": "\ub9c9\uc744"
+  },
+  "\u6e2f": {
+    "hangeul": "\ud56d",
+    "definition": "\ud56d\uad6c"
+  },
+  "\u822a": {
+    "hangeul": "\ud56d",
+    "definition": "\ubc30"
+  },
+  "\u9805": {
+    "hangeul": "\ud56d",
+    "definition": "\ubaa9"
+  },
+  "\u4ea5": {
+    "hangeul": "\ud574",
+    "definition": "\ub3fc\uc9c0"
+  },
+  "\u5bb3": {
+    "hangeul": "\ud574",
+    "definition": "\ud574\uce60"
+  },
+  "\u6d77": {
+    "hangeul": "\ud574",
+    "definition": "\ubc14\ub2e4"
+  },
+  "\u89e3": {
+    "hangeul": "\ud574",
+    "definition": "\ud480"
+  },
+  "\u595a": {
+    "hangeul": "\ud574",
+    "definition": "\uc5b4\ucc0c"
+  },
+  "\u8a72": {
+    "hangeul": "\ud574",
+    "definition": "\uadf8"
+  },
+  "\u6838": {
+    "hangeul": "\ud575",
+    "definition": "\uc528"
+  },
+  "\u5e78": {
+    "hangeul": "\ud589",
+    "definition": "\ub2e4\ud589"
+  },
+  "\u884c": {
+    "hangeul": "\ud589",
+    "definition": "\ub2e4\ub2d0"
+  },
+  "\u5411": {
+    "hangeul": "\ud5a5",
+    "definition": "\ud5a5\ud560"
+  },
+  "\u9115": {
+    "hangeul": "\ud5a5",
+    "definition": "\uc2dc\uace8"
+  },
+  "\u9999": {
+    "hangeul": "\ud5a5",
+    "definition": "\ud5a5\uae30"
+  },
+  "\u4eab": {
+    "hangeul": "\ud5a5",
+    "definition": "\ub204\ub9b4"
+  },
+  "\u97ff": {
+    "hangeul": "\ud5a5",
+    "definition": "\uc6b8\ub9bc"
+  },
+  "\u865b": {
+    "hangeul": "\ud5c8",
+    "definition": "\ube4c"
+  },
+  "\u8a31": {
+    "hangeul": "\ud5c8",
+    "definition": "\ud5c8\ub77d\ud560"
+  },
+  "\u61b2": {
+    "hangeul": "\ud5cc",
+    "definition": "\ubc95"
+  },
+  "\u737b": {
+    "hangeul": "\ud5cc",
+    "definition": "\ubc14\uce60"
+  },
+  "\u8ed2": {
+    "hangeul": "\ud5cc",
+    "definition": "\ucd94\ub140"
+  },
+  "\u96aa": {
+    "hangeul": "\ud5d8",
+    "definition": "\ud5d8\ud560"
+  },
+  "\u9a57": {
+    "hangeul": "\ud5d8",
+    "definition": "\uc2dc\ud5d8\ud560"
+  },
+  "\u9769": {
+    "hangeul": "\ud601",
+    "definition": "\uac00\uc8fd"
+  },
+  "\u73fe": {
+    "hangeul": "\ud604",
+    "definition": "\ub098\ud0c0\ub0a0"
+  },
+  "\u8ce2": {
+    "hangeul": "\ud604",
+    "definition": "\uc5b4\uc9c8"
+  },
+  "\u61f8": {
+    "hangeul": "\ud604",
+    "definition": "\ub9e4\ub2ec"
+  },
+  "\u7384": {
+    "hangeul": "\ud604",
+    "definition": "\uac80\uc744"
+  },
+  "\u7d43": {
+    "hangeul": "\ud604",
+    "definition": "\uc545\uae30 \uc904"
+  },
+  "\u7e23": {
+    "hangeul": "\ud604",
+    "definition": "\uace0\uc744"
+  },
+  "\u986f": {
+    "hangeul": "\ud604",
+    "definition": "\ub098\ud0c0\ub0a0"
+  },
+  "\u8840": {
+    "hangeul": "\ud608",
+    "definition": "\ud53c"
+  },
+  "\u7a74": {
+    "hangeul": "\ud608",
+    "definition": "\uad6c\uba4d"
+  },
+  "\u5acc": {
+    "hangeul": "\ud610",
+    "definition": "\uc2eb\uc5b4\ud560"
+  },
+  "\u5354": {
+    "hangeul": "\ud611",
+    "definition": "\ud654\ud560"
+  },
+  "\u8105": {
+    "hangeul": "\ud611",
+    "definition": "\uc606\uad6c\ub9ac"
+  },
+  "\u5144": {
+    "hangeul": "\ud615",
+    "definition": "\ub9cf"
+  },
+  "\u5211": {
+    "hangeul": "\ud615",
+    "definition": "\ud615\ubc8c"
+  },
+  "\u5f62": {
+    "hangeul": "\ud615",
+    "definition": "\ubaa8\uc591"
+  },
+  "\u4ea8": {
+    "hangeul": "\ud615",
+    "definition": "\ud615\ud1b5\ud560"
+  },
+  "\u87a2": {
+    "hangeul": "\ud615",
+    "definition": "\ubc18\ub514"
+  },
+  "\u8861": {
+    "hangeul": "\ud615",
+    "definition": "\uc800\uc6b8\ub300"
+  },
+  "\u60e0": {
+    "hangeul": "\ud61c",
+    "definition": "\uc740\ud61c"
+  },
+  "\u516e": {
+    "hangeul": "\ud61c",
+    "definition": "\uc5b4\uc870\uc0ac"
+  },
+  "\u6167": {
+    "hangeul": "\ud61c",
+    "definition": "\uc2ac\uae30\ub85c\uc6b8"
+  },
+  "\u4e4e": {
+    "hangeul": "\ud638",
+    "definition": "\uc5b4\uc870\uc0ac"
+  },
+  "\u547c": {
+    "hangeul": "\ud638",
+    "definition": "\ubd80\ub97c"
+  },
+  "\u597d": {
+    "hangeul": "\ud638",
+    "definition": "\uc88b\uc744"
+  },
+  "\u6236": {
+    "hangeul": "\ud638",
+    "definition": "\uc9c0\uac8c"
+  },
+  "\u6e56": {
+    "hangeul": "\ud638",
+    "definition": "\ud638\uc218"
+  },
+  "\u864e": {
+    "hangeul": "\ud638",
+    "definition": "\ubc94"
+  },
+  "\u865f": {
+    "hangeul": "\ud638",
+    "definition": "\ubd80\ub974\uc9d6\uc744"
+  },
+  "\u4e92": {
+    "hangeul": "\ud638",
+    "definition": "\uc11c\ub85c"
+  },
+  "\u6beb": {
+    "hangeul": "\ud638",
+    "definition": "\uac00\ub294 \ud138"
+  },
+  "\u6d69": {
+    "hangeul": "\ud638",
+    "definition": "\ud074"
+  },
+  "\u80e1": {
+    "hangeul": "\ud638",
+    "definition": "\uc624\ub791\uce90"
+  },
+  "\u8b77": {
+    "hangeul": "\ud638",
+    "definition": "\ubcf4\ud638\ud560"
+  },
+  "\u8c6a": {
+    "hangeul": "\ud638",
+    "definition": "\ud638\uac78"
+  },
+  "\u6216": {
+    "hangeul": "\ud639",
+    "definition": "\ud639"
+  },
+  "\u60d1": {
+    "hangeul": "\ud639",
+    "definition": "\ubbf8\ud639\ud560"
+  },
+  "\u5a5a": {
+    "hangeul": "\ud63c",
+    "definition": "\ud63c\uc778\ud560"
+  },
+  "\u6df7": {
+    "hangeul": "\ud63c",
+    "definition": "\uc11e\uc744"
+  },
+  "\u660f": {
+    "hangeul": "\ud63c",
+    "definition": "\uc5b4\ub450\uc6b8"
+  },
+  "\u9b42": {
+    "hangeul": "\ud63c",
+    "definition": "\ub10b"
+  },
+  "\u5ffd": {
+    "hangeul": "\ud640",
+    "definition": "\uc18c\ud640\ud788 \ud560"
+  },
+  "\u7d05": {
+    "hangeul": "\ud64d",
+    "definition": "\ubd89\uc744"
+  },
+  "\u5f18": {
+    "hangeul": "\ud64d",
+    "definition": "\ub113\uc744"
+  },
+  "\u6d2a": {
+    "hangeul": "\ud64d",
+    "definition": "\ud070\ubb3c"
+  },
+  "\u9d3b": {
+    "hangeul": "\ud64d",
+    "definition": "\ud070 \uae30\ub7ec\uae30"
+  },
+  "\u5316": {
+    "hangeul": "\ud654",
+    "definition": "\ub420"
+  },
+  "\u548c": {
+    "hangeul": "\ud654",
+    "definition": "\ud654\ud560"
+  },
+  "\u706b": {
+    "hangeul": "\ud654",
+    "definition": "\ubd88"
+  },
+  "\u756b": {
+    "hangeul": "\ud654",
+    "definition": "\uadf8\ub9bc"
+  },
+  "\u82b1": {
+    "hangeul": "\ud654",
+    "definition": "\uaf43"
+  },
+  "\u83ef": {
+    "hangeul": "\ud654",
+    "definition": "\ube5b\ub0a0"
+  },
+  "\u8a71": {
+    "hangeul": "\ud654",
+    "definition": "\ub9d0\ud560"
+  },
+  "\u8ca8": {
+    "hangeul": "\ud654",
+    "definition": "\uc7ac\ud654"
+  },
+  "\u798d": {
+    "hangeul": "\ud654",
+    "definition": "\uc7ac\uc559"
+  },
+  "\u79be": {
+    "hangeul": "\ud654",
+    "definition": "\ubcbc"
+  },
+  "\u64f4": {
+    "hangeul": "\ud655",
+    "definition": "\ub113\ud790"
+  },
+  "\u78ba": {
+    "hangeul": "\ud655",
+    "definition": "\uad73\uc744"
+  },
+  "\u7a6b": {
+    "hangeul": "\ud655",
+    "definition": "\ubcbc \ubca8"
+  },
+  "\u60a3": {
+    "hangeul": "\ud658",
+    "definition": "\uadfc\uc2ec"
+  },
+  "\u6b61": {
+    "hangeul": "\ud658",
+    "definition": "\uae30\ubed0\ud560"
+  },
+  "\u4e38": {
+    "hangeul": "\ud658",
+    "definition": "\uc54c"
+  },
+  "\u63db": {
+    "hangeul": "\ud658",
+    "definition": "\ubc14\uafc0"
+  },
+  "\u74b0": {
+    "hangeul": "\ud658",
+    "definition": "\uace0\ub9ac"
+  },
+  "\u9084": {
+    "hangeul": "\ud658",
+    "definition": "\ub3cc\uc544\uc62c"
+  },
+  "\u6d3b": {
+    "hangeul": "\ud65c",
+    "definition": "\uc0b4"
+  },
+  "\u7687": {
+    "hangeul": "\ud669",
+    "definition": "\uc784\uae08"
+  },
+  "\u9ec3": {
+    "hangeul": "\ud669",
+    "definition": "\ub204\ub97c"
+  },
+  "\u6cc1": {
+    "hangeul": "\ud669",
+    "definition": "\ud558\ubb3c\uba70"
+  },
+  "\u8352": {
+    "hangeul": "\ud669",
+    "definition": "\uac70\uce60"
+  },
+  "\u56de": {
+    "hangeul": "\ud68c",
+    "definition": "\ub3cc"
+  },
+  "\u6703": {
+    "hangeul": "\ud68c",
+    "definition": "\ubaa8\uc77c"
+  },
+  "\u6094": {
+    "hangeul": "\ud68c",
+    "definition": "\ub258\uc6b0\uce60"
+  },
+  "\u61f7": {
+    "hangeul": "\ud68c",
+    "definition": "\ud488\uc744"
+  },
+  "\u5283": {
+    "hangeul": "\ud68d",
+    "definition": "\uadf8\uc744"
+  },
+  "\u7372": {
+    "hangeul": "\ud68d",
+    "definition": "\uc5bb\uc744"
+  },
+  "\u6a6b": {
+    "hangeul": "\ud6a1",
+    "definition": "\uac00\ub85c"
+  },
+  "\u5b5d": {
+    "hangeul": "\ud6a8",
+    "definition": "\ud6a8\ub3c4"
+  },
+  "\u6548": {
+    "hangeul": "\ud6a8",
+    "definition": "\ubcf8\ubc1b\uc744"
+  },
+  "\u66c9": {
+    "hangeul": "\ud6a8",
+    "definition": "\uc0c8\ubcbd"
+  },
+  "\u539a": {
+    "hangeul": "\ud6c4",
+    "definition": "\ub450\ud130\uc6b8"
+  },
+  "\u5f8c": {
+    "hangeul": "\ud6c4",
+    "definition": "\ub4a4"
+  },
+  "\u4faf": {
+    "hangeul": "\ud6c4",
+    "definition": "\uc81c\ud6c4"
+  },
+  "\u5019": {
+    "hangeul": "\ud6c4",
+    "definition": "\uae30\ud6c4"
+  },
+  "\u8a13": {
+    "hangeul": "\ud6c8",
+    "definition": "\uac00\ub974\uce60"
+  },
+  "\u6bc1": {
+    "hangeul": "\ud6fc",
+    "definition": "\ud5d0"
+  },
+  "\u63ee": {
+    "hangeul": "\ud718",
+    "definition": "\ud718\ub450\ub97c"
+  },
+  "\u8f1d": {
+    "hangeul": "\ud718",
+    "definition": "\ube5b\ub0a0"
+  },
+  "\u4f11": {
+    "hangeul": "\ud734",
+    "definition": "\uc274"
+  },
+  "\u643a": {
+    "hangeul": "\ud734",
+    "definition": "\uac00\uc9c8"
+  },
+  "\u51f6": {
+    "hangeul": "\ud749",
+    "definition": "\ud749\ud560"
+  },
+  "\u80f8": {
+    "hangeul": "\ud749",
+    "definition": "\uac00\uc2b4"
+  },
+  "\u9ed1": {
+    "hangeul": "\ud751",
+    "definition": "\uac80\uc744"
+  },
+  "\u5438": {
+    "hangeul": "\ud761",
+    "definition": "\uc228 \ub4e4\uc774\uc274"
+  },
+  "\u8208": {
+    "hangeul": "\ud765",
+    "definition": "\uc77c\uc5b4\ub0a0"
+  },
+  "\u559c": {
+    "hangeul": "\ud76c",
+    "definition": "\uae30\uc060"
+  },
+  "\u5e0c": {
+    "hangeul": "\ud76c",
+    "definition": "\ubc14\ub784"
+  },
+  "\u6232": {
+    "hangeul": "\ud76c",
+    "definition": "\ub180\uc774"
+  },
+  "\u7a00": {
+    "hangeul": "\ud76c",
+    "definition": "\ub4dc\ubb3c"
+  }
+}
